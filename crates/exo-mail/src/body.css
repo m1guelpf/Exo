@@ -1,0 +1,159 @@
+/*
+ * How a message body is styled, in the one document Exo renders per message: only rules that can
+ * match a message body, for both themes (`.Theme-light` / `.Theme-dark`, also tagged
+ * `Theme-snow` / `Theme-carbon`).
+ *
+ * This sheet precedes the message's own CSS, and the restyle sheet (`restyle.css`) follows it;
+ * their specificity and `!important` flags decide which wins. The `@media (max-resolution: 1dppx)`
+ * rules are keyed on `.at-1x`, which the view sets on 1× displays (layout itself always happens
+ * at 1×).
+ *
+ * Exo's classes are `exo-`; `sh-preserve-color` arrives in senders' signatures (`restyle.css`).
+ */
+
+.exo-date:focus, a:not(.exo-preserve-color, .sh-preserve-color):focus {
+  border-radius: 3px;
+  outline: #714cb6 solid 2px !important;
+  outline-offset: 2px;
+  text-decoration: none !important;
+}
+.Theme-dark .exo-date:focus, .Theme-dark a:not(.exo-preserve-color, .sh-preserve-color):focus { outline-color: #bea1f5 !important; }
+
+.ShadowHTML { user-select: text; outline: none; overflow-x: auto; overflow-y: hidden; word-break: break-word; }
+.ShadowBody { width: inherit !important; }
+/* Chromium sets a variable font's optical size to the font size (`font-optical-sizing: auto`);
+ * Blitz uses the font's default, which for San Francisco is the tight Display cut (28). 17 is
+ * where Chromium lands for text up to 17px, i.e. most body text, since SF clamps there; larger
+ * inline font sizes get their own rule (`hints.rs`). */
+.ShadowBody { font-variation-settings: "opsz" 17; }
+* { text-shadow: none !important; }
+.ShadowBody {
+  margin: 0;
+  height: auto;
+  font-family: "Exo Sans Email", sans-serif, "Apple Color Emoji";
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  line-height: 1.7142857143;
+  overflow-y: hidden !important;
+}
+:where(.ShadowHTML.at-1x) .ShadowBody { font-size: 15px; letter-spacing: 0; }
+
+div[style*=height] { line-height: normal; }
+a:not(.exo-preserve-color, .sh-preserve-color) { color: #54acdc; }
+a:not(.exo-preserve-color, .sh-preserve-color):link, a:not(.exo-preserve-color, .sh-preserve-color):visited { color: #54acdc; text-decoration: underline; }
+:where(.ShadowHTML:not(.isMarketing)) p { margin: 0; }
+:where(.ShadowHTML:not(.isMarketing)) p + p { margin-top: 16px; }
+ol, ul { margin: 16px 0; }
+ol ol, ul ul, ol ul, ul ol { margin: 0; }
+
+/* Quotes: no border, a 1px line drawn as a background so it doesn't move the text. */
+blockquote { margin: 0; padding: 0 0 0 1.25rem; border-left: 0; }
+blockquote:not([style*="border:none"]) {
+  background-image: linear-gradient(to right, rgb(237, 237, 237), rgb(237, 237, 237));
+  background-size: 1px 1px;
+  background-position: left;
+  background-repeat: repeat-y;
+  color: rgba(0, 0, 0, .6);
+}
+.ShadowHTML.Theme-dark:not(.isMarketing) blockquote:not([style*="border:none"]) {
+  background-image: linear-gradient(to right, rgb(95, 97, 101), rgb(95, 97, 101));
+}
+blockquote.gmail_quote { margin: 0 !important; padding: 0 0 0 1.25rem !important; border-left: 0 !important; }
+.gmail_quote { color: rgba(0, 0, 0, .6); }
+.gmail_signature:has(table[align]) { display: flow-root; }
+
+hr { border: 0; height: 0; border-top: 1px solid #ededed; border-bottom: 1px solid transparent; margin: 10px 0; }
+.Theme-dark hr { border-top: 1px solid #5f6165; }
+
+/* The "…" that shows and hides the quoted part. */
+.Exo-quoting-ellipsis {
+  display: block !important;
+  height: 16px !important;
+  margin: 0 0 8px 0 !important;
+  background-color: transparent !important;
+  position: relative !important;
+  font-family: "Exo Sans", sans-serif, "Apple Color Emoji";
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  line-height: 16px;
+  color: rgba(0, 0, 0, .75) !important;
+}
+:where(.ShadowHTML.at-1x) .Exo-quoting-ellipsis { font-size: 15px; letter-spacing: 0; }
+.ShadowHTML.Theme-dark:not(.isMarketing) .Exo-quoting-ellipsis { color: hsla(0, 0%, 100%, .85) !important; }
+.Exo-quoting-ellipsis span {
+  display: block !important;
+  position: absolute !important;
+  left: 0 !important;
+  width: 24px !important;
+  height: 24px !important;
+  background-color: transparent !important;
+  color: rgba(0, 0, 0, .75) !important;
+  cursor: pointer !important;
+  user-select: none !important;
+  opacity: .4;
+}
+.ShadowHTML.Theme-dark:not(.isMarketing) .Exo-quoting-ellipsis span { color: hsla(0, 0%, 100%, .75) !important; }
+.Exo-quoting-ellipsis span::before {
+  content: "…" !important;
+  width: 0 !important;
+  height: 0 !important;
+  font-family: sans-serif !important;
+}
+.Exo-quoting-ellipsis.isOpen span::before {
+  background-color: rgba(0, 0, 0, .05) !important;
+  padding: 0 3px !important;
+  border-radius: 2px !important;
+}
+.ShadowHTML.Theme-dark:not(.isMarketing) .Exo-quoting-ellipsis.isOpen span::before {
+  background-color: hsla(0, 0%, 100%, .5) !important;
+  color: rgba(0, 0, 0, .75) !important;
+}
+
+/* Detected dates: a hairline under the text (personal mail), a grey underline (marketing).
+ * The hairline goes 3px above the bottom of the span's content area. Blitz can't position an
+ * `::after` against an inline box, so it's an underline 2px below the baseline, which is the same
+ * place in the 14px/24px restyled line. Its color marks it
+ * for the painter, which thins it to the 0.5px Blitz can't draw at 1× (see `view.rs`). */
+.exo-date { background-color: transparent; white-space: nowrap; }
+:not(.isMarketing) .exo-date {
+  position: relative;
+  text-decoration: underline;
+  text-decoration-color: rgba(170, 170, 170, .996);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+:not(.isMarketing) .exo-date[data-date-isostring] { cursor: pointer; }
+.isMarketing .exo-date { text-decoration: underline; text-decoration-color: #aaa; }
+
+pre { font-family: "Exo Mono Email", monospace; font-size: 14px; letter-spacing: -0.02em; line-height: 20px; white-space: pre; }
+pre.exo-small-pre { white-space: pre-wrap; }
+tt, code, kbd, samp { font-family: "Exo Mono Email", monospace; }
+
+.Superhuman-invisible { display: none !important; }
+.Superhuman-visible { display: initial !important; opacity: 1 !important; }
+/* Remote images blocked by the Images setting (`img[src^="https://media-blocked"]`; Exo marks them
+ * `data-exo-blocked`, `view.rs`). Chromium draws an `::after` box with a 1px border over the broken
+ * image's padding box; Blitz draws no `::after` on an image, so the box is the image's own
+ * background, and the border an inset shadow, which takes no room. The white is an image, which
+ * restyle.css's `background-color: transparent` on near-black elements leaves alone, as it leaves
+ * the `::after`. Classic Carbon keeps the white box, with a white border in marketing mail
+ * (`.Theme-carbon:not(.Theme-dark).isMarketing`). */
+img[data-exo-blocked] {
+  position: relative;
+  visibility: visible !important;
+  min-width: 16px;
+  min-height: 16px;
+  line-height: 16px !important;
+  vertical-align: middle;
+  font-size: 0 !important;
+  background: linear-gradient(#fff, #fff) padding-box !important;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .2) !important;
+}
+.ShadowHTML.Theme-carbon.isMarketing img[data-exo-blocked] { box-shadow: inset 0 0 0 1px hsla(0, 0%, 100%, .2) !important; }
+span[style*=border]:has(> img[alt*="Image removed by sender."]:only-child),
+span[style*=border]:has(> img[alt*="Das Bild wurde vom Absender entfernt"]:only-child) { display: none; }
+
+:where(table:not(table[width])) { max-width: 100%; }
+:where(table) { word-break: initial; white-space: normal; }
+:where(table[style*="width:0in"], table[style*="width: 0in"]), :where(table[style*="width:0cm"], table[style*="width: 0cm"]) { width: unset !important; }
+.exo-external-warning-banner { float: none; }

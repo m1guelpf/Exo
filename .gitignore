@@ -1,0 +1,21 @@
+/target
+/.ai/reference/
+.DS_Store
+__pycache__/
+
+# Google OAuth client credentials: each user supplies their own; never commit one.
+client_secret*.json
+*oauth-client*.json
+
+# Signing material never enters the repo: match keeps the certificate, CI's secrets the rest.
+*.p8
+*.p12
+*.cer
+*.certSigningRequest
+*.mobileprovision
+*.keychain-db
+.env*
+# What fastlane writes beside its files.
+fastlane/report.xml
+fastlane/README.md
+fastlane/test_output/

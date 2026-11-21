@@ -1,0 +1,2405 @@
+{
+  "templates": {
+    "splitTemplate_aha": {
+      "id": "splitTemplate_aha",
+      "name": "Aha!",
+      "description": "Track notifications for feature updates, roadmap changes, and tasks in Aha!",
+      "properties": {
+        "senders": {
+          "value": [
+            "aha.io"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#0173CF38",
+        "threads": [
+          {
+            "from": "Aha!",
+            "subject": "Feature “Dark Mode” is now in development",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Aha!",
+            "subject": "Your task “Research Market Trends” has been completed",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Aha!",
+            "subject": "Roadmap update: “Q2 Launch” has been rescheduled",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_asana": {
+      "id": "splitTemplate_asana",
+      "name": "Asana",
+      "description": "Task updates, deadlines, and project notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "no-reply@asana.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#FA5B7D38",
+        "threads": [
+          {
+            "from": "Asana",
+            "subject": "You’ve been assigned a new task: “Review Campaign Copy”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Asana",
+            "subject": "“Create Launch Timeline” was marked complete",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Asana",
+            "subject": "Task updated: “Client Feedback Revisions”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_ashby": {
+      "id": "splitTemplate_ashby",
+      "name": "Ashby",
+      "description": "Hiring stages, candidate activity, and interview notes.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@ashbyhq.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#473BCE38",
+        "threads": [
+          {
+            "from": "Ashby",
+            "subject": "New applicant: Laura Kim for “UI Designer”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Ashby",
+            "subject": "Offer sent to Natalie Grant – “Operations Associate”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Ashby",
+            "subject": "New note added to candidate: Ethan Liu – Product Manager",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_breezyHR": {
+      "id": "splitTemplate_breezyHR",
+      "name": "Breezy HR",
+      "description": "Job applications, candidate progress, and interview schedules.",
+      "properties": {
+        "senders": {
+          "value": [
+            "breezy-mail.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#5CC0EB38",
+        "threads": [
+          {
+            "from": "BreezyHR",
+            "subject": "New applicant for “Product Designer” – John Smith just applied",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "BreezyHR",
+            "subject": "Candidate moved to “Phone Screen”: Sarah Lee – Customer Support Role",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "BreezyHR",
+            "subject": "Feedback requested: Interview with “UX Intern Candidate”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_calendar": {
+      "id": "splitTemplate_calendar",
+      "name": "Calendar",
+      "description": "All your calendar events and meeting notifications.",
+      "type": "calendar",
+      "properties": {
+        "query": {
+          "value": "from:notifications@calendly.com OR from:calendar-notification@google.com OR from:calendar@superhuman.com OR filename:ics",
+          "description": "All conversations that are events or meeting notifications will appear in the Calendar Split Inbox."
+        }
+      },
+      "preview": {
+        "color": "#E09F8138",
+        "threads": [
+          {
+            "subject": "Invitation: Library brainstorm for the important project",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": true
+          },
+          {
+            "subject": "Invitation: AI Inbox Visibility meeting",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": true
+          },
+          {
+            "subject": "Funding chat with VC tomorrow",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": true
+          }
+        ]
+      }
+    },
+    "splitTemplate_chorus": {
+      "id": "splitTemplate_chorus",
+      "name": "Chorus",
+      "description": "Call recordings, conversation insights, and coaching feedback.",
+      "properties": {
+        "senders": {
+          "value": [
+            "do.not.reply@chorus.ai"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#3C82E938",
+        "threads": [
+          {
+            "from": "Chorus",
+            "subject": "Follow-up recommended for “Proposal Review” meeting",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Chorus",
+            "subject": "Deal risk alert: Missed keywords in “Follow-up Call”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Chorus",
+            "subject": "Call with “XYZ Inc.” flagged for coaching follow-up",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_clickUp": {
+      "id": "splitTemplate_clickUp",
+      "name": "ClickUp",
+      "description": "Task updates, comments, and project changes.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@tasks.clickup.com",
+            "noreply@clickup.com",
+            "tasks.clickup.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#6B7BFC38",
+        "threads": [
+          {
+            "from": "ClickUp",
+            "subject": "Upcoming Deadline: “Submit Q2 Report” due tomorrow",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "ClickUp",
+            "subject": "Reminder: Complete “Design QA” by Friday",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "ClickUp",
+            "subject": "You were added to the project “Product Launch Plan”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_confluence": {
+      "id": "splitTemplate_confluence",
+      "name": "Confluence",
+      "description": "Confluence comments, updates, and sharing notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "confluence"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#0152CC38",
+        "threads": [
+          {
+            "from": "Confluence",
+            "subject": "James made updates to your page",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Confluence",
+            "subject": "Document shared with you - Roadmap for 2025",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Confluence",
+            "subject": "Madison comment in OKRs 2025",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_docSend": {
+      "id": "splitTemplate_docSend",
+      "name": "DocSend",
+      "description": "Shared documents, access notifications, and insights.",
+      "properties": {
+        "senders": {
+          "value": [
+            "no-reply@docsend.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#0061FE38",
+        "threads": [
+          {
+            "from": "DocSend",
+            "subject": "Document “Investor Pitch Deck” has been viewed by John Smith",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "DocSend",
+            "subject": "You’ve shared document “Partnership Agreement” with Sarah Lee",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "DocSend",
+            "subject": "Document “Marketing Plan” has been accessed by multiple viewers",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_docuSign": {
+      "id": "splitTemplate_docuSign",
+      "name": "DocuSign",
+      "description": "DocuSign signature requests, document statuses, and reminders.",
+      "properties": {
+        "senders": {
+          "value": [
+            "docusign.net"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#4C00FF38",
+        "threads": [
+          {
+            "from": "DocuSign",
+            "subject": "Your approval is required on “Vendor Agreement”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "DocuSign",
+            "subject": "Document “Project Contract” ready for your signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "DocuSign",
+            "subject": "Follow-up: “Consulting Agreement” still awaiting your signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_documents": {
+      "id": "splitTemplate_documents",
+      "name": "Documents",
+      "description": "All your Google Workspace, Office 365, and other document notifications.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_office365"
+          ]
+        },
+        "senders": {
+          "isEditable": true,
+          "placeholder": "Enter an email or domain for a tool that you use",
+          "description": "Notifications from Office 365 will also appear in this Split Inbox.",
+          "value": [
+            "shares-noreply@coda.io",
+            "notifications-noreply@coda.io",
+            "notify@mail.notion.so",
+            "email.figma.com",
+            "docs.google.com",
+            "drive-shares-dm-noreply@google.com",
+            "drive-shares-noreply@google.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#8DA2D838",
+        "threads": [
+          {
+            "from": "Notion",
+            "subject": "Document shared with you - Financial report",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Google Docs",
+            "subject": "Lauren comment in Product Spec",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Notion Team",
+            "subject": "Erica made updates to your page",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_dropBoxSign": {
+      "id": "splitTemplate_dropBoxSign",
+      "name": "Dropbox Sign",
+      "description": "Dropbox Sign signature requests, document statuses, and reminders.",
+      "properties": {
+        "senders": {
+          "value": [
+            "mail.hellosign.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#008BE838",
+        "threads": [
+          {
+            "from": "Dropbox Sign",
+            "subject": "Reminder: Sign the “Service Agreement” to finalize",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Dropbox Sign",
+            "subject": "Status update: “Purchase Order” is pending signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Dropbox Sign",
+            "subject": "Reminder: “Partnership Agreement” needs your signature by Friday",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_figma": {
+      "id": "splitTemplate_figma",
+      "name": "Figma",
+      "description": "Automatically organize comments and updates from your Figma files.",
+      "properties": {
+        "senders": {
+          "value": [
+            "email.figma.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#F24E1E38",
+        "threads": [
+          {
+            "from": "Figma",
+            "subject": "John mentioned you in a comment on “Mobile App Screens”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Figma",
+            "subject": "Feedback added: “Adjust color palette” on your design file",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Figma",
+            "subject": "Changes made to “Design System” – View the latest update",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_finance": {
+      "id": "splitTemplate_finance",
+      "name": "Finance",
+      "description": "Invoices, bills, and tax documents.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_invoice",
+            "autoLabelTemplate_tax"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#ADCD9838",
+        "threads": [
+          {
+            "subject": "Your Chase Bank Statement – April 2025",
+            "label": "tax",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Upcoming Renewal Notice – LastPass Premium",
+            "label": "invoice",
+            "labelColor": "#94C6C9",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Your 2024 Tax Documents Are Ready",
+            "label": "tax",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_fireflies": {
+      "id": "splitTemplate_fireflies",
+      "name": "Fireflies.ai",
+      "description": "Meeting transcripts, notes, and action items.",
+      "properties": {
+        "senders": {
+          "value": [
+            "fred@fireflies.ai",
+            "fireflies.ai"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#BE338338",
+        "threads": [
+          {
+            "from": "Fireflies",
+            "subject": "Key takeaways from “Quarterly Planning” are ready",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Fireflies",
+            "subject": "Fireflies added highlights to your “Roadmap Kickoff” notes",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Fireflies",
+            "subject": "Reminder: Review notes from “Sales Pipeline Review”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_github": {
+      "id": "splitTemplate_github",
+      "name": "GitHub",
+      "description": "Easily find notifications for commits, forks, and project activity.",
+      "properties": {
+        "senders": {
+          "value": [
+            "mentions@noreply.github.com",
+            "notifications@github.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#E9E9E9FF",
+        "threads": [
+          {
+            "from": "GitHub",
+            "subject": "Pull request approved",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "GitHub",
+            "subject": "Comment on your pull request",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "GitHub",
+            "subject": "New comment on your issue",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_gong": {
+      "id": "splitTemplate_gong",
+      "name": "Gong",
+      "description": "Call recordings and coaching feedback.",
+      "properties": {
+        "senders": {
+          "value": [
+            "do-not-reply@gong.io"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#8039E938",
+        "threads": [
+          {
+            "from": "Gong",
+            "subject": "Conversation analytics for your week are ready",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Gong",
+            "subject": "Recording ready: “Discovery Call with Jane Smith”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Gong",
+            "subject": "Gong reminder: “Deal Review” call summary is waiting",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_googleDocs": {
+      "id": "splitTemplate_googleDocs",
+      "name": "Google",
+      "description": "Google Workspace comments, edits, and sharing notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "docs.google.com",
+            "drive-shares-dm-noreply@google.com",
+            "drive-shares-noreply@google.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#34A85338",
+        "threads": [
+          {
+            "from": "Google Docs",
+            "subject": "Document shared with you - Financial report",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Google Docs",
+            "subject": "New comment of document - Engineering plan",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Google Docs",
+            "subject": "Invitation to edit - Proposed timeline",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_googleMeet": {
+      "id": "splitTemplate_googleMeet",
+      "name": "Meet",
+      "description": "Recordings and playback notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "meet-recordings-noreply@google.com",
+            "meetings-noreply@google.com",
+            "gemini-notes@google.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#FBBC0538",
+        "threads": [
+          {
+            "from": "Google Meet",
+            "subject": "Recording available: Google Meet session “Q2 Performance Review”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Google Meet",
+            "subject": "Your Google Meet recording for “Marketing Team Sync” is now ready",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Google Meet",
+            "subject": "Meeting recording “Quarterly Strategy Review” is now available for viewing",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_greenhouse": {
+      "id": "splitTemplate_greenhouse",
+      "name": "Greenhouse",
+      "description": "Job applications, candidate updates, and interview notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "eu.greenhouse.io",
+            "no-reply@greenhouse.io",
+            "greenhouse.io"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#20A57F38",
+        "threads": [
+          {
+            "from": "Greenhouse",
+            "subject": "New candidate submitted for “Product Designer” – John Smith",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Greenhouse",
+            "subject": "Status update: Tom Evans advanced to “On-site Interview”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Greenhouse",
+            "subject": "Submit feedback for “Design Lead” interview – Rachel Foster",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_hubSpot": {
+      "id": "splitTemplate_hubSpot",
+      "name": "HubSpot",
+      "description": "Customer interactions, deal statuses, and email campaigns.",
+      "properties": {
+        "senders": {
+          "value": [
+            "noreply@notifications.hubspot.com",
+            "no-reply@hubspot.com",
+            "noreply@hubspot.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#FF7A5938",
+        "threads": [
+          {
+            "from": "HubSpot",
+            "subject": "You have a new message from “Jane Smith” in your inbox",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "HubSpot",
+            "subject": "Follow-up required: “Sarah Lee” responded to your email",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "HubSpot",
+            "subject": "New contact added: “XYZ Corp”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_importantOther": {
+      "id": "splitTemplate_importantOther",
+      "name": "Important • Other",
+      "description": "Split conversations from marketing, social networks, and automatic updates.",
+      "type": "importantOther",
+      "properties": {
+        "query": {
+          "value": "",
+          "description": "Split your inbox into Important for key conversations and Other for marketing, social network, and automatic updates."
+        }
+      },
+      "preview": {
+        "color": "#B0BDEC38",
+        "threads": [
+          {
+            "subject": "Get ready to meet the team, Jonathan g",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Let's connect on this idea next time we",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Funding chat next Tuesday - Please prepare",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_inbox": {
+      "id": "splitTemplate_inbox",
+      "name": "Inbox",
+      "description": "Your latest conversations.",
+      "type": "inbox",
+      "properties": {
+        "query": {
+          "value": "",
+          "description": "For more control, split your inbox into Important for key conversations and Other for marketing, social network, and automatic updates."
+        }
+      },
+      "preview": {
+        "color": "#BEB7C038",
+        "threads": [
+          {
+            "subject": "Don't miss these trending posts on",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "You have 5 new friend suggestions",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Flash Sale: 30% off ends tonight!",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_jira": {
+      "id": "splitTemplate_jira",
+      "name": "Jira",
+      "description": "Find notifications for project changes, comments, and status updates.",
+      "properties": {
+        "senders": {
+          "value": [
+            "jira"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#2684FF38",
+        "threads": [
+          {
+            "from": "Jira",
+            "subject": "You’ve been assigned to “Fix Login Bug” in project “App Development”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Jira",
+            "subject": "New comment added to “Sprint 2 Tasks”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Jira",
+            "subject": "Task “Implement Authentication” moved to “Done”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_lever": {
+      "id": "splitTemplate_lever",
+      "name": "Lever",
+      "description": "Candidate updates, interview feedback, and hiring stages.",
+      "properties": {
+        "senders": {
+          "value": [
+            "hire.lever.co"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#5727B738",
+        "threads": [
+          {
+            "from": "Lever",
+            "subject": "New applicant: Laura Kim for “UI Designer”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Lever",
+            "subject": "Offer sent to Natalie Grant – “Operations Associate”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Lever",
+            "subject": "New note added to candidate: Ethan Liu – Product Manager",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_linear": {
+      "id": "splitTemplate_linear",
+      "name": "Linear",
+      "description": "Organize notifications for status updates, task progress, and planning.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@mail.linear.app",
+            "notifications@linear.app"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#E9E9E9FF",
+        "threads": [
+          {
+            "from": "Linear",
+            "subject": "Task “Fix Authentication Flow” has been marked as complete",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Linear",
+            "subject": "Your task “Update API Documentation” is now in progress",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Linear",
+            "subject": "Sprint “Q3 Development” starts tomorrow",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_loom": {
+      "id": "splitTemplate_loom",
+      "name": "Loom",
+      "description": "Video recordings, sharing notifications, and activity.",
+      "properties": {
+        "query": {
+          "value": "(from:\"Loom\" AND from:info@e.atlassian.com) OR from:no-reply@send.loom.com",
+          "description": "All conversations from Loom will appear in the Loom Split Inbox."
+        }
+      },
+      "preview": {
+        "color": "#625DF538",
+        "threads": [
+          {
+            "from": "Loom",
+            "subject": "Your Loom video “New Feature Overview” was viewed",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Loom",
+            "subject": "Viewer insights: “Q2 Sales Strategy” watched 4 times",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Loom",
+            "subject": "Comment added to your Loom video “Client Proposal”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_monday": {
+      "id": "splitTemplate_monday",
+      "name": "Monday",
+      "description": "Task assignments, due dates, and progress notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@monday.com",
+            "team@learn.mail.monday.com",
+            "team@use.mail.monday.com",
+            "no_reply@monday.com",
+            "no_reply@euc1.monday.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#00CA7238",
+        "threads": [
+          {
+            "from": "Monday",
+            "subject": "Mark added you to a task in “Website Redesign” board",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Monday",
+            "subject": "Reminder: “Submit Marketing Plan” is due tomorrow",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Monday",
+            "subject": "Task “Client Proposal” is overdue",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_msoffice": {
+      "id": "splitTemplate_msoffice",
+      "name": "Office",
+      "description": "Microsoft Office Suite comments, edits, and sharing notifications.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_office365"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#F2502238",
+        "threads": [
+          {
+            "from": "Microsoft",
+            "subject": "Erica made updates to your page",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Microsoft",
+            "subject": "Anna and Thomas made updates",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Microsoft",
+            "subject": "Lauren comment in Product Spec",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_news": {
+      "id": "splitTemplate_news",
+      "name": "News",
+      "description": "News, articles, and newsletters.",
+      "type": "news",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabel_11TAXTN0000CRyXO9O"
+          ]
+        },
+        "senders": {
+          "isEditable": true,
+          "placeholder": "Enter a domain for a newsletter"
+        }
+      },
+      "preview": {
+        "color": "#E4C45038",
+        "threads": [
+          {
+            "subject": "Today’s Top Stories – The New York Times",
+            "label": "news",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Your Weekly Digest from The Verge",
+            "label": "news",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Don’t Miss These Must-Read Articles",
+            "label": "news",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_notes": {
+      "id": "splitTemplate_notes",
+      "name": "Notes",
+      "description": "Messages from you to yourself.",
+      "properties": {
+        "query": {
+          "value": "from:me to:me",
+          "description": "All conversations you send to yourself will appear in the Notes Split Inbox."
+        }
+      },
+      "preview": {
+        "color": "#E09F8138",
+        "threads": [
+          {
+            "from": "Me",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Me",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Me",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_notion": {
+      "id": "splitTemplate_notion",
+      "name": "Notion",
+      "description": "Notion comments, updates, and sharing notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notify@mail.notion.so"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#95BBC638",
+        "threads": [
+          {
+            "from": "Notion",
+            "subject": "Erica made updates to your page",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Notion",
+            "subject": "Anna and Thomas made updates",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Notion",
+            "subject": "Lauren comment in Product Spec",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_otter": {
+      "id": "splitTemplate_otter",
+      "name": "Otter",
+      "description": "Meeting notes, transcriptions, and insights.",
+      "properties": {
+        "senders": {
+          "value": [
+            "otter.ai"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#007AFF38",
+        "threads": [
+          {
+            "from": "Otter",
+            "subject": "Summary of your meeting “Q2 Marketing Plan” is available",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Otter",
+            "subject": "Transcription available: “Client Feedback Call”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Otter",
+            "subject": "Meeting summary for “Budget Discussion” has been generated",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_pandaDoc": {
+      "id": "splitTemplate_pandaDoc",
+      "name": "PandaDoc",
+      "description": "PandaDoc signature actions, views, and status updates.",
+      "properties": {
+        "senders": {
+          "value": [
+            "docs@email.pandadoc.net"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#04994838",
+        "threads": [
+          {
+            "from": "PandaDoc",
+            "subject": "Document “Project Contract” ready for your signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "PandaDoc",
+            "subject": "Action Required: Finalize “Partnership Agreement” with your signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "PandaDoc",
+            "subject": "Your document “Sales Contract” is ready for signing",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_pipedrive": {
+      "id": "splitTemplate_pipedrive",
+      "name": "Pipedrive",
+      "description": "Sales activities, lead progress, and pipeline changes.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@pipedrive.com",
+            "info@pipedrive.com",
+            "notifier@pipedrive.com",
+            "support@pipedrive.com",
+            "noreply@pipedrive.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#01773738",
+        "threads": [
+          {
+            "from": "Pipedrive",
+            "subject": "Deal “New Business Proposal” moved to “Negotiation” stage",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Pipedrive",
+            "subject": "You’ve won the deal “Enterprise Contract” – $50,000 sale",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Pipedrive",
+            "subject": "Reminder: Follow-up needed for deal “Website Redesign Proposal”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_pitches": {
+      "id": "splitTemplate_pitches",
+      "name": "Pitches",
+      "description": "Cold pitch and outreach messages.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabel_11TAXTN00005drUYRZ"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#D5A1D738",
+        "threads": [
+          {
+            "subject": "New Partnership Opportunity: Innovative",
+            "label": "pitch",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Let’s Talk About a Game-Changing Idea",
+            "label": "pitch",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Investor Deck + Vision for your company",
+            "label": "pitch",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_promotions": {
+      "id": "splitTemplate_promotions",
+      "name": "Marketing",
+      "description": "Marketing and promotional messages.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabel_11TAXTN0000IHJ59qG"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#E09F8138",
+        "threads": [
+          {
+            "subject": "Flash Sale! Up to 50% Off Sitewide",
+            "label": "marketing",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Extra 10% Off for Our Email Subscribers",
+            "label": "marketing",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Meet the All-New iPad Pro",
+            "label": "marketing",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_purchases": {
+      "id": "splitTemplate_purchases",
+      "name": "Purchases",
+      "description": "Orders, receipts, and purchase confirmations.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_order",
+            "autoLabelTemplate_shipping"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#94C6C938",
+        "threads": [
+          {
+            "subject": "Thanks for Your Order – Order #123456",
+            "label": "order",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Your Amazon Order Has Been Placed",
+            "label": "order",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Track Your Shipment – Order #987654",
+            "label": "shipping",
+            "labelColor": "#F1B1A3",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_reminders": {
+      "id": "splitTemplate_reminders",
+      "name": "Reminders",
+      "description": "Reminders that are ready to follow up.",
+      "type": "reminders",
+      "properties": {
+        "query": {
+          "value": "from:reminder@superhuman.com",
+          "description": "All conversations with a returned reminder will appear in the Reminders Split Inbox."
+        },
+        "showInImportantOther": true
+      },
+      "preview": {
+        "color": "#CE9ECE38"
+      }
+    },
+    "splitTemplate_salesforce": {
+      "id": "splitTemplate_salesforce",
+      "name": "Salesforce",
+      "description": "Sales alerts, lead updates, and account activity.",
+      "properties": {
+        "senders": {
+          "value": [
+            "info@salesforce.com",
+            "support@salesforce.com",
+            "email@mail.salesforce.com",
+            "noreply@salesforce.com",
+            "no-reply@salesforce.com",
+            "notifications@salesforce.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#00A1E038",
+        "threads": [
+          {
+            "from": "Salesforce",
+            "subject": "New opportunity created: “Enterprise Software License”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Salesforce",
+            "subject": "Deal “New Contract Renewal” moved to “Negotiation” stage",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Salesforce",
+            "subject": "Opportunity “Partnership Agreement” marked as won",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_shared": {
+      "id": "splitTemplate_shared",
+      "name": "Shared",
+      "description": "Conversations shared via Exo.",
+      "type": "shared",
+      "properties": {
+        "query": {
+          "value": "is:shared",
+          "description": "All conversations shared with or by you will appear in your Shared Split Inbox.\nUse this to collaborate faster and be brilliantly responsive!"
+        },
+        "showInImportantOther": true
+      },
+      "preview": {
+        "color": "#8DA2D84D",
+        "threads": [
+          {
+            "subject": "James shared a conversation with you",
+            "isStarred": false,
+            "isShared": true,
+            "isEvent": false
+          },
+          {
+            "subject": "Erica shared a conversation",
+            "isStarred": false,
+            "isShared": true,
+            "isEvent": false
+          },
+          {
+            "subject": "Nicole mentioned you in a thread",
+            "isStarred": false,
+            "isShared": true,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_signEasy": {
+      "id": "splitTemplate_signEasy",
+      "name": "Signeasy",
+      "description": "Track Signeasy signatures, monitor document progress and reminders.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@signeasy.com",
+            "notify@app.signeasy.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#11B3E738",
+        "threads": [
+          {
+            "from": "Signeasy",
+            "subject": "Urgent: Please sign the contract to avoid delays",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Signeasy",
+            "subject": "Deadline Approaching: Sign the document by end of day",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Signeasy",
+            "subject": "Approval Needed: Review and sign “Agreement of Terms”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_signNow": {
+      "id": "splitTemplate_signNow",
+      "name": "SignNow",
+      "description": "SignNow signature requests, document statuses, and reminders.",
+      "properties": {
+        "senders": {
+          "value": [
+            "signnow.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#0088CE38",
+        "threads": [
+          {
+            "from": "SignNow",
+            "subject": "Action Required: Finalize “Partnership Agreement” with your signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "SignNow",
+            "subject": "Reminder: Signature needed for “Confidentiality Agreement”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "SignNow",
+            "subject": "Action Required: Please sign the “Contract Agreement”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_signatureNeeded": {
+      "id": "splitTemplate_signatureNeeded",
+      "name": "Signature",
+      "description": "Documents you need to sign from every signature platform.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_signature"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#F1B1A338",
+        "threads": [
+          {
+            "subject": "Action Required: Please sign the “Contract Agreement”",
+            "label": "signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Please sign the NDA document to proceed with the partnership",
+            "label": "signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Your document “Sales Contract” is ready for signing",
+            "label": "signature",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_smartRecruiters": {
+      "id": "splitTemplate_smartRecruiters",
+      "name": "SmartRecruiters",
+      "description": "Job postings, candidate pipelines, and interview feedback.",
+      "properties": {
+        "senders": {
+          "value": [
+            "notifications@smartrecruiters.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#0BB14738",
+        "threads": [
+          {
+            "from": "SmartRecruiters",
+            "subject": "Candidate applied for “Marketing Analyst” – Review now",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "SmartRecruiters",
+            "subject": "Update: Samantha Gray has been rejected for “Finance Associate”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "SmartRecruiters",
+            "subject": "Reminder: Review interview notes for “Support Specialist”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_social": {
+      "id": "splitTemplate_social",
+      "name": "Social",
+      "description": "Social network and online communities.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabel_11TAXTN00000IWRb3j"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#8DA2D838",
+        "threads": [
+          {
+            "subject": "You have a new friend request on Facebook",
+            "label": "social",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Anna started following you on Instagram",
+            "label": "social",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "3 new people want to connect with you on LinkedIn",
+            "label": "social",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_starred": {
+      "id": "splitTemplate_starred",
+      "name": "Starred",
+      "description": "Conversations that you've starred.",
+      "type": "starred",
+      "properties": {
+        "query": {
+          "value": "is:starred",
+          "description": "All starred conversations will appear in the Starred Split Inbox."
+        }
+      },
+      "preview": {
+        "color": "#E4C45038",
+        "threads": [
+          {
+            "isStarred": true,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "isStarred": true,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "isStarred": true,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_team": {
+      "id": "splitTemplate_team",
+      "name": "Team",
+      "description": "Messages from your team to you.",
+      "type": "team",
+      "properties": {
+        "senders": {
+          "isEditable": true,
+          "domainsOnly": true,
+          "placeholder": "Enter a new team domain, e.g. example.com",
+          "description": "Mail from these domains that is directly to you will also appear in your Team Split Inbox. Mail from these domains that is not directly to you, such as lists, will not appear in your Team Split Inbox."
+        },
+        "query": {
+          "value": "to:me",
+          "description": ""
+        }
+      },
+      "preview": {
+        "color": "#73B6DB4D"
+      }
+    },
+    "splitTemplate_toolNotifications": {
+      "id": "splitTemplate_toolNotifications",
+      "name": "Notifications",
+      "description": "Automated emails and updates.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_notifications",
+            "autoLabelTemplate_comment"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#94C6C938",
+        "threads": [
+          {
+            "label": "notifications",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "label": "notifications",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "label": "comments",
+            "labelColor": "#ADCD98",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_travel": {
+      "id": "splitTemplate_travel",
+      "name": "Travel",
+      "description": "Tickets, reservations, and check-in information.",
+      "properties": {
+        "autoLabels": {
+          "value": [
+            "autoLabelTemplate_travel"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#BCB4EE38",
+        "threads": [
+          {
+            "subject": "Your Flight to Paris is Confirmed – Booking #12345",
+            "label": "travel",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Delta Itinerary: LAX to JFK – May 15, 2025",
+            "label": "travel",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "subject": "Check-in Reminder: Your Trip to Rome Tomorrow",
+            "label": "travel",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_trello": {
+      "id": "splitTemplate_trello",
+      "name": "Trello",
+      "description": "Card updates, board changes, and task assignments.",
+      "properties": {
+        "senders": {
+          "value": [
+            "do-not-reply@trello.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#2683FE38",
+        "threads": [
+          {
+            "from": "Trello",
+            "subject": "You were added to the board “Marketing Campaigns”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Trello",
+            "subject": "Anna and Thomas made updates",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Trello",
+            "subject": "You were mentioned in a comment on “Product Launch Plan”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_vip": {
+      "id": "splitTemplate_vip",
+      "name": "VIP",
+      "description": "Conversations with VIPs that you choose.",
+      "type": "vip",
+      "properties": {
+        "senders": {
+          "isEditable": true,
+          "placeholder": "Enter an email or domain for a VIP sender",
+          "description": "All mail from these VIP senders will also appear in your VIP Split Inbox. Use this to be brilliantly responsive to your VIPs!"
+        },
+        "showInImportantOther": true
+      },
+      "preview": {
+        "color": "#34A85338"
+      }
+    },
+    "splitTemplate_workable": {
+      "id": "splitTemplate_workable",
+      "name": "Workable",
+      "description": "Job openings, applicant updates, and interview feedback.",
+      "properties": {
+        "senders": {
+          "value": [
+            "noreply@workablemail.com",
+            "notifications.workablemail.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#00756A38",
+        "threads": [
+          {
+            "from": "Workable",
+            "subject": "Workable: You have 3 new candidates for “Customer Success Manager”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Workable",
+            "subject": "Reminder: Interview with “Growth Marketer” candidate today",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Workable",
+            "subject": "Interview notes added for Liam Lee – Software Engineer",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_workdayRecruiting": {
+      "id": "splitTemplate_workdayRecruiting",
+      "name": "Workday Recruiting",
+      "description": "Job postings, interview workflows, and candidate pipelines.",
+      "properties": {
+        "senders": {
+          "value": [
+            "noreply@workday.com",
+            "notifications@workday.com",
+            "myworkday.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#0067AB38",
+        "threads": [
+          {
+            "from": "Workday",
+            "subject": "You have a new applicant for “Senior Data Engineer”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Workday",
+            "subject": "Submit your feedback for “Design Lead” interview",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Workday",
+            "subject": "Pending review: 3 new candidates for “Sales Director”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_zoho": {
+      "id": "splitTemplate_zoho",
+      "name": "Zoho",
+      "description": "CRM updates, lead activities, and project notifications.",
+      "properties": {
+        "senders": {
+          "value": [
+            "noreply-dmarc@zoho.com",
+            "notifications@zohocrm.com"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#04994838",
+        "threads": [
+          {
+            "from": "Zoho",
+            "subject": "New deal created: “Enterprise Contract Renewal”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Zoho",
+            "subject": "Deal “New Marketing Campaign” moved to “Negotiation” stage",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Zoho",
+            "subject": "Deal “Client Onboarding” has been marked as won",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    },
+    "splitTemplate_zoom": {
+      "id": "splitTemplate_zoom",
+      "name": "Zoom",
+      "description": "Meeting links, recordings, and schedule updates.",
+      "properties": {
+        "senders": {
+          "value": [
+            "no-reply@zoom.us"
+          ]
+        }
+      },
+      "preview": {
+        "color": "#2D8CFF38",
+        "threads": [
+          {
+            "from": "Zoom",
+            "subject": "Meeting invitation: “Project Update” with Sarah Lee on Zoom",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Zoom",
+            "subject": "Meeting recording: “Team Brainstorm” has been processed and is available",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          },
+          {
+            "from": "Zoom",
+            "subject": "Recording available: Zoom meeting “Product Launch Discussion”",
+            "isStarred": false,
+            "isShared": false,
+            "isEvent": false
+          }
+        ]
+      }
+    }
+  },
+  "categories": {
+    "splitCategory_documentation": {
+      "id": "splitCategory_documentation",
+      "name": "Collaboration",
+      "templateIds": [
+        "splitTemplate_documents",
+        "splitTemplate_googleDocs",
+        "splitTemplate_msoffice",
+        "splitTemplate_notion",
+        "splitTemplate_confluence",
+        "splitTemplate_loom"
+      ]
+    },
+    "splitCategory_general": {
+      "id": "splitCategory_general",
+      "name": "General",
+      "templateIds": [
+        "splitTemplate_importantOther",
+        "splitTemplate_calendar",
+        "splitTemplate_vip",
+        "splitTemplate_starred",
+        "splitTemplate_reminders",
+        "splitTemplate_shared",
+        "splitTemplate_team",
+        "splitTemplate_travel",
+        "splitTemplate_notes",
+        "splitTemplate_purchases",
+        "splitTemplate_finance",
+        "splitTemplate_toolNotifications",
+        "splitTemplate_news",
+        "splitTemplate_social",
+        "splitTemplate_promotions",
+        "splitTemplate_pitches"
+      ]
+    },
+    "splitCategory_hiring": {
+      "id": "splitCategory_hiring",
+      "name": "Hiring",
+      "templateIds": [
+        "splitTemplate_workdayRecruiting",
+        "splitTemplate_greenhouse",
+        "splitTemplate_lever",
+        "splitTemplate_ashby",
+        "splitTemplate_smartRecruiters",
+        "splitTemplate_workable",
+        "splitTemplate_breezyHR"
+      ]
+    },
+    "splitCategory_meetings": {
+      "id": "splitCategory_meetings",
+      "name": "Meetings & Recordings",
+      "templateIds": [
+        "splitTemplate_zoom",
+        "splitTemplate_googleMeet",
+        "splitTemplate_otter",
+        "splitTemplate_fireflies"
+      ]
+    },
+    "splitCategory_productDevelopment": {
+      "id": "splitCategory_productDevelopment",
+      "name": "Product Development",
+      "templateIds": [
+        "splitTemplate_figma",
+        "splitTemplate_github",
+        "splitTemplate_linear",
+        "splitTemplate_jira",
+        "splitTemplate_aha"
+      ]
+    },
+    "splitCategory_projectManagement": {
+      "id": "splitCategory_projectManagement",
+      "name": "Project Management",
+      "templateIds": [
+        "splitTemplate_asana",
+        "splitTemplate_trello",
+        "splitTemplate_clickUp",
+        "splitTemplate_monday"
+      ]
+    },
+    "splitCategory_sales": {
+      "id": "splitCategory_sales",
+      "name": "Sales",
+      "templateIds": [
+        "splitTemplate_salesforce",
+        "splitTemplate_zoho",
+        "splitTemplate_hubSpot",
+        "splitTemplate_pipedrive",
+        "splitTemplate_gong",
+        "splitTemplate_chorus",
+        "splitTemplate_docSend"
+      ]
+    },
+    "splitCategory_salesDocSigning": {
+      "id": "splitCategory_salesDocSigning",
+      "name": "Document Signing",
+      "templateIds": [
+        "splitTemplate_signatureNeeded",
+        "splitTemplate_docuSign",
+        "splitTemplate_signNow",
+        "splitTemplate_dropBoxSign",
+        "splitTemplate_signEasy",
+        "splitTemplate_pandaDoc"
+      ]
+    }
+  },
+  "categoryList": [
+    "splitCategory_general",
+    "splitCategory_documentation",
+    "splitCategory_productDevelopment",
+    "splitCategory_projectManagement",
+    "splitCategory_salesDocSigning",
+    "splitCategory_sales",
+    "splitCategory_hiring",
+    "splitCategory_meetings"
+  ],
+  "roles": {
+    "splitRole_engineering": {
+      "id": "splitRole_engineering",
+      "name": "Engineering",
+      "templateIds": [
+        "splitTemplate_vip",
+        "splitTemplate_shared",
+        "splitTemplate_team",
+        "splitTemplate_calendar",
+        "splitTemplate_starred",
+        "splitTemplate_toolNotifications",
+        "splitTemplate_documents",
+        "splitTemplate_googleDocs",
+        "splitTemplate_msoffice",
+        "splitTemplate_notion",
+        "splitTemplate_confluence",
+        "splitTemplate_loom",
+        "splitTemplate_figma",
+        "splitTemplate_github",
+        "splitTemplate_linear",
+        "splitTemplate_jira",
+        "splitTemplate_aha"
+      ]
+    },
+    "splitRole_leadership": {
+      "id": "splitRole_leadership",
+      "name": "Leadership",
+      "templateIds": [
+        "splitTemplate_vip",
+        "splitTemplate_shared",
+        "splitTemplate_team",
+        "splitTemplate_calendar",
+        "splitTemplate_starred",
+        "splitTemplate_travel",
+        "splitTemplate_finance",
+        "splitTemplate_toolNotifications",
+        "splitTemplate_pitches",
+        "splitTemplate_documents",
+        "splitTemplate_googleDocs",
+        "splitTemplate_msoffice",
+        "splitTemplate_notion",
+        "splitTemplate_confluence",
+        "splitTemplate_loom",
+        "splitTemplate_purchases",
+        "splitTemplate_signatureNeeded",
+        "splitTemplate_docuSign",
+        "splitTemplate_signNow",
+        "splitTemplate_dropBoxSign",
+        "splitTemplate_signEasy",
+        "splitTemplate_pandaDoc",
+        "splitTemplate_gong",
+        "splitTemplate_chorus",
+        "splitTemplate_docSend",
+        "splitTemplate_workdayRecruiting",
+        "splitTemplate_greenhouse",
+        "splitTemplate_lever",
+        "splitTemplate_ashby",
+        "splitTemplate_smartRecruiters",
+        "splitTemplate_workable",
+        "splitTemplate_breezyHR",
+        "splitTemplate_zoom",
+        "splitTemplate_googleMeet",
+        "splitTemplate_otter",
+        "splitTemplate_fireflies"
+      ]
+    },
+    "splitRole_operations": {
+      "id": "splitRole_operations",
+      "name": "Operations",
+      "templateIds": [
+        "splitTemplate_vip",
+        "splitTemplate_shared",
+        "splitTemplate_team",
+        "splitTemplate_calendar",
+        "splitTemplate_starred",
+        "splitTemplate_travel",
+        "splitTemplate_finance",
+        "splitTemplate_toolNotifications",
+        "splitTemplate_pitches",
+        "splitTemplate_documents",
+        "splitTemplate_googleDocs",
+        "splitTemplate_msoffice",
+        "splitTemplate_notion",
+        "splitTemplate_confluence",
+        "splitTemplate_loom",
+        "splitTemplate_asana",
+        "splitTemplate_trello",
+        "splitTemplate_clickUp",
+        "splitTemplate_monday",
+        "splitTemplate_signatureNeeded",
+        "splitTemplate_docuSign",
+        "splitTemplate_signNow",
+        "splitTemplate_dropBoxSign",
+        "splitTemplate_signEasy",
+        "splitTemplate_pandaDoc",
+        "splitTemplate_gong",
+        "splitTemplate_chorus",
+        "splitTemplate_docSend",
+        "splitTemplate_workdayRecruiting",
+        "splitTemplate_greenhouse",
+        "splitTemplate_lever",
+        "splitTemplate_ashby",
+        "splitTemplate_smartRecruiters",
+        "splitTemplate_workable",
+        "splitTemplate_breezyHR",
+        "splitTemplate_zoom",
+        "splitTemplate_googleMeet",
+        "splitTemplate_otter",
+        "splitTemplate_fireflies"
+      ]
+    },
+    "splitRole_product": {
+      "id": "splitRole_product",
+      "name": "Product",
+      "templateIds": [
+        "splitTemplate_vip",
+        "splitTemplate_shared",
+        "splitTemplate_team",
+        "splitTemplate_calendar",
+        "splitTemplate_starred",
+        "splitTemplate_toolNotifications",
+        "splitTemplate_documents",
+        "splitTemplate_googleDocs",
+        "splitTemplate_msoffice",
+        "splitTemplate_notion",
+        "splitTemplate_confluence",
+        "splitTemplate_loom",
+        "splitTemplate_figma",
+        "splitTemplate_github",
+        "splitTemplate_linear",
+        "splitTemplate_jira",
+        "splitTemplate_aha",
+        "splitTemplate_asana",
+        "splitTemplate_trello",
+        "splitTemplate_clickUp",
+        "splitTemplate_monday",
+        "splitTemplate_gong",
+        "splitTemplate_chorus",
+        "splitTemplate_zoom",
+        "splitTemplate_googleMeet",
+        "splitTemplate_otter",
+        "splitTemplate_fireflies"
+      ]
+    },
+    "splitRole_sales": {
+      "id": "splitRole_sales",
+      "name": "Sales",
+      "templateIds": [
+        "splitTemplate_vip",
+        "splitTemplate_shared",
+        "splitTemplate_team",
+        "splitTemplate_calendar",
+        "splitTemplate_starred",
+        "splitTemplate_toolNotifications",
+        "splitTemplate_documents",
+        "splitTemplate_googleDocs",
+        "splitTemplate_msoffice",
+        "splitTemplate_notion",
+        "splitTemplate_confluence",
+        "splitTemplate_loom",
+        "splitTemplate_signatureNeeded",
+        "splitTemplate_docuSign",
+        "splitTemplate_signNow",
+        "splitTemplate_dropBoxSign",
+        "splitTemplate_signEasy",
+        "splitTemplate_pandaDoc",
+        "splitTemplate_salesforce",
+        "splitTemplate_zoho",
+        "splitTemplate_hubSpot",
+        "splitTemplate_pipedrive",
+        "splitTemplate_gong",
+        "splitTemplate_chorus",
+        "splitTemplate_docSend",
+        "splitTemplate_zoom",
+        "splitTemplate_googleMeet",
+        "splitTemplate_otter",
+        "splitTemplate_fireflies"
+      ]
+    }
+  },
+  "roleList": [
+    "splitRole_leadership",
+    "splitRole_operations",
+    "splitRole_sales",
+    "splitRole_engineering",
+    "splitRole_product"
+  ]
+}

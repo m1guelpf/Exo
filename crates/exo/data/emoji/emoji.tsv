@@ -1,0 +1,3437 @@
+# Exo's emoji, made by tools/emoji_data.py; do not edit.
+# U<TAB>group<TAB>shortcode<TAB>emoji<TAB>skin tone variants: Unicode emoji-test.txt 17.0, (c) Unicode, Inc., Unicode License v3 (LICENSE-unicode.txt).
+# S<TAB>shortcode<TAB>emoji: iamcal emoji-data 4.1.0, (c) Cal Henderson, MIT License (LICENSE-emoji-data.txt).
+U	Smileys & Emotion	grinning_face	😀
+U	Smileys & Emotion	grinning_face_with_big_eyes	😃
+U	Smileys & Emotion	grinning_face_with_smiling_eyes	😄
+U	Smileys & Emotion	beaming_face_with_smiling_eyes	😁
+U	Smileys & Emotion	grinning_squinting_face	😆
+U	Smileys & Emotion	grinning_face_with_sweat	😅
+U	Smileys & Emotion	rolling_on_the_floor_laughing	🤣
+U	Smileys & Emotion	face_with_tears_of_joy	😂
+U	Smileys & Emotion	slightly_smiling_face	🙂
+U	Smileys & Emotion	upside_down_face	🙃
+U	Smileys & Emotion	melting_face	🫠
+U	Smileys & Emotion	winking_face	😉
+U	Smileys & Emotion	smiling_face_with_smiling_eyes	😊
+U	Smileys & Emotion	smiling_face_with_halo	😇
+U	Smileys & Emotion	smiling_face_with_hearts	🥰
+U	Smileys & Emotion	smiling_face_with_heart_eyes	😍
+U	Smileys & Emotion	star_struck	🤩
+U	Smileys & Emotion	face_blowing_a_kiss	😘
+U	Smileys & Emotion	kissing_face	😗
+U	Smileys & Emotion	smiling_face	☺️
+U	Smileys & Emotion	kissing_face_with_closed_eyes	😚
+U	Smileys & Emotion	kissing_face_with_smiling_eyes	😙
+U	Smileys & Emotion	smiling_face_with_tear	🥲
+U	Smileys & Emotion	face_savoring_food	😋
+U	Smileys & Emotion	face_with_tongue	😛
+U	Smileys & Emotion	winking_face_with_tongue	😜
+U	Smileys & Emotion	zany_face	🤪
+U	Smileys & Emotion	squinting_face_with_tongue	😝
+U	Smileys & Emotion	money_mouth_face	🤑
+U	Smileys & Emotion	smiling_face_with_open_hands	🤗
+U	Smileys & Emotion	face_with_hand_over_mouth	🤭
+U	Smileys & Emotion	face_with_open_eyes_and_hand_over_mouth	🫢
+U	Smileys & Emotion	face_with_peeking_eye	🫣
+U	Smileys & Emotion	shushing_face	🤫
+U	Smileys & Emotion	thinking_face	🤔
+U	Smileys & Emotion	saluting_face	🫡
+U	Smileys & Emotion	zipper_mouth_face	🤐
+U	Smileys & Emotion	face_with_raised_eyebrow	🤨
+U	Smileys & Emotion	neutral_face	😐
+U	Smileys & Emotion	expressionless_face	😑
+U	Smileys & Emotion	face_without_mouth	😶
+U	Smileys & Emotion	dotted_line_face	🫥
+U	Smileys & Emotion	face_in_clouds	😶‍🌫️
+U	Smileys & Emotion	smirking_face	😏
+U	Smileys & Emotion	unamused_face	😒
+U	Smileys & Emotion	face_with_rolling_eyes	🙄
+U	Smileys & Emotion	grimacing_face	😬
+U	Smileys & Emotion	face_exhaling	😮‍💨
+U	Smileys & Emotion	lying_face	🤥
+U	Smileys & Emotion	shaking_face	🫨
+U	Smileys & Emotion	head_shaking_horizontally	🙂‍↔️
+U	Smileys & Emotion	head_shaking_vertically	🙂‍↕️
+U	Smileys & Emotion	relieved_face	😌
+U	Smileys & Emotion	pensive_face	😔
+U	Smileys & Emotion	sleepy_face	😪
+U	Smileys & Emotion	drooling_face	🤤
+U	Smileys & Emotion	sleeping_face	😴
+U	Smileys & Emotion	face_with_bags_under_eyes	🫩
+U	Smileys & Emotion	face_with_medical_mask	😷
+U	Smileys & Emotion	face_with_thermometer	🤒
+U	Smileys & Emotion	face_with_head_bandage	🤕
+U	Smileys & Emotion	nauseated_face	🤢
+U	Smileys & Emotion	face_vomiting	🤮
+U	Smileys & Emotion	sneezing_face	🤧
+U	Smileys & Emotion	hot_face	🥵
+U	Smileys & Emotion	cold_face	🥶
+U	Smileys & Emotion	woozy_face	🥴
+U	Smileys & Emotion	face_with_crossed_out_eyes	😵
+U	Smileys & Emotion	face_with_spiral_eyes	😵‍💫
+U	Smileys & Emotion	exploding_head	🤯
+U	Smileys & Emotion	cowboy_hat_face	🤠
+U	Smileys & Emotion	partying_face	🥳
+U	Smileys & Emotion	disguised_face	🥸
+U	Smileys & Emotion	smiling_face_with_sunglasses	😎
+U	Smileys & Emotion	nerd_face	🤓
+U	Smileys & Emotion	face_with_monocle	🧐
+U	Smileys & Emotion	confused_face	😕
+U	Smileys & Emotion	face_with_diagonal_mouth	🫤
+U	Smileys & Emotion	worried_face	😟
+U	Smileys & Emotion	slightly_frowning_face	🙁
+U	Smileys & Emotion	frowning_face	☹️
+U	Smileys & Emotion	face_with_open_mouth	😮
+U	Smileys & Emotion	hushed_face	😯
+U	Smileys & Emotion	astonished_face	😲
+U	Smileys & Emotion	flushed_face	😳
+U	Smileys & Emotion	distorted_face	🫪
+U	Smileys & Emotion	pleading_face	🥺
+U	Smileys & Emotion	face_holding_back_tears	🥹
+U	Smileys & Emotion	frowning_face_with_open_mouth	😦
+U	Smileys & Emotion	anguished_face	😧
+U	Smileys & Emotion	fearful_face	😨
+U	Smileys & Emotion	anxious_face_with_sweat	😰
+U	Smileys & Emotion	sad_but_relieved_face	😥
+U	Smileys & Emotion	crying_face	😢
+U	Smileys & Emotion	loudly_crying_face	😭
+U	Smileys & Emotion	face_screaming_in_fear	😱
+U	Smileys & Emotion	confounded_face	😖
+U	Smileys & Emotion	persevering_face	😣
+U	Smileys & Emotion	disappointed_face	😞
+U	Smileys & Emotion	downcast_face_with_sweat	😓
+U	Smileys & Emotion	weary_face	😩
+U	Smileys & Emotion	tired_face	😫
+U	Smileys & Emotion	yawning_face	🥱
+U	Smileys & Emotion	face_with_steam_from_nose	😤
+U	Smileys & Emotion	enraged_face	😡
+U	Smileys & Emotion	angry_face	😠
+U	Smileys & Emotion	face_with_symbols_on_mouth	🤬
+U	Smileys & Emotion	smiling_face_with_horns	😈
+U	Smileys & Emotion	angry_face_with_horns	👿
+U	Smileys & Emotion	skull	💀
+U	Smileys & Emotion	skull_and_crossbones	☠️
+U	Smileys & Emotion	pile_of_poo	💩
+U	Smileys & Emotion	clown_face	🤡
+U	Smileys & Emotion	ogre	👹
+U	Smileys & Emotion	goblin	👺
+U	Smileys & Emotion	ghost	👻
+U	Smileys & Emotion	alien	👽
+U	Smileys & Emotion	alien_monster	👾
+U	Smileys & Emotion	robot	🤖
+U	Smileys & Emotion	grinning_cat	😺
+U	Smileys & Emotion	grinning_cat_with_smiling_eyes	😸
+U	Smileys & Emotion	cat_with_tears_of_joy	😹
+U	Smileys & Emotion	smiling_cat_with_heart_eyes	😻
+U	Smileys & Emotion	cat_with_wry_smile	😼
+U	Smileys & Emotion	kissing_cat	😽
+U	Smileys & Emotion	weary_cat	🙀
+U	Smileys & Emotion	crying_cat	😿
+U	Smileys & Emotion	pouting_cat	😾
+U	Smileys & Emotion	see_no_evil_monkey	🙈
+U	Smileys & Emotion	hear_no_evil_monkey	🙉
+U	Smileys & Emotion	speak_no_evil_monkey	🙊
+U	Smileys & Emotion	love_letter	💌
+U	Smileys & Emotion	heart_with_arrow	💘
+U	Smileys & Emotion	heart_with_ribbon	💝
+U	Smileys & Emotion	sparkling_heart	💖
+U	Smileys & Emotion	growing_heart	💗
+U	Smileys & Emotion	beating_heart	💓
+U	Smileys & Emotion	revolving_hearts	💞
+U	Smileys & Emotion	two_hearts	💕
+U	Smileys & Emotion	heart_decoration	💟
+U	Smileys & Emotion	heart_exclamation	❣️
+U	Smileys & Emotion	broken_heart	💔
+U	Smileys & Emotion	heart_on_fire	❤️‍🔥
+U	Smileys & Emotion	mending_heart	❤️‍🩹
+U	Smileys & Emotion	red_heart	❤️
+U	Smileys & Emotion	pink_heart	🩷
+U	Smileys & Emotion	orange_heart	🧡
+U	Smileys & Emotion	yellow_heart	💛
+U	Smileys & Emotion	green_heart	💚
+U	Smileys & Emotion	blue_heart	💙
+U	Smileys & Emotion	light_blue_heart	🩵
+U	Smileys & Emotion	purple_heart	💜
+U	Smileys & Emotion	brown_heart	🤎
+U	Smileys & Emotion	black_heart	🖤
+U	Smileys & Emotion	grey_heart	🩶
+U	Smileys & Emotion	white_heart	🤍
+U	Smileys & Emotion	kiss_mark	💋
+U	Smileys & Emotion	hundred_points	💯
+U	Smileys & Emotion	anger_symbol	💢
+U	Smileys & Emotion	fight_cloud	🫯
+U	Smileys & Emotion	collision	💥
+U	Smileys & Emotion	dizzy	💫
+U	Smileys & Emotion	sweat_droplets	💦
+U	Smileys & Emotion	dashing_away	💨
+U	Smileys & Emotion	hole	🕳️
+U	Smileys & Emotion	speech_balloon	💬
+U	Smileys & Emotion	eye_in_speech_bubble	👁️‍🗨️
+U	Smileys & Emotion	left_speech_bubble	🗨️
+U	Smileys & Emotion	right_anger_bubble	🗯️
+U	Smileys & Emotion	thought_balloon	💭
+U	Smileys & Emotion	zzz	💤
+U	People & Body	waving_hand	👋	👋🏻 👋🏼 👋🏽 👋🏾 👋🏿
+U	People & Body	raised_back_of_hand	🤚	🤚🏻 🤚🏼 🤚🏽 🤚🏾 🤚🏿
+U	People & Body	hand_with_fingers_splayed	🖐️	🖐🏻 🖐🏼 🖐🏽 🖐🏾 🖐🏿
+U	People & Body	raised_hand	✋	✋🏻 ✋🏼 ✋🏽 ✋🏾 ✋🏿
+U	People & Body	vulcan_salute	🖖	🖖🏻 🖖🏼 🖖🏽 🖖🏾 🖖🏿
+U	People & Body	rightwards_hand	🫱	🫱🏻 🫱🏼 🫱🏽 🫱🏾 🫱🏿
+U	People & Body	leftwards_hand	🫲	🫲🏻 🫲🏼 🫲🏽 🫲🏾 🫲🏿
+U	People & Body	palm_down_hand	🫳	🫳🏻 🫳🏼 🫳🏽 🫳🏾 🫳🏿
+U	People & Body	palm_up_hand	🫴	🫴🏻 🫴🏼 🫴🏽 🫴🏾 🫴🏿
+U	People & Body	leftwards_pushing_hand	🫷	🫷🏻 🫷🏼 🫷🏽 🫷🏾 🫷🏿
+U	People & Body	rightwards_pushing_hand	🫸	🫸🏻 🫸🏼 🫸🏽 🫸🏾 🫸🏿
+U	People & Body	ok_hand	👌	👌🏻 👌🏼 👌🏽 👌🏾 👌🏿
+U	People & Body	pinched_fingers	🤌	🤌🏻 🤌🏼 🤌🏽 🤌🏾 🤌🏿
+U	People & Body	pinching_hand	🤏	🤏🏻 🤏🏼 🤏🏽 🤏🏾 🤏🏿
+U	People & Body	victory_hand	✌️	✌🏻 ✌🏼 ✌🏽 ✌🏾 ✌🏿
+U	People & Body	crossed_fingers	🤞	🤞🏻 🤞🏼 🤞🏽 🤞🏾 🤞🏿
+U	People & Body	hand_with_index_finger_and_thumb_crossed	🫰	🫰🏻 🫰🏼 🫰🏽 🫰🏾 🫰🏿
+U	People & Body	love_you_gesture	🤟	🤟🏻 🤟🏼 🤟🏽 🤟🏾 🤟🏿
+U	People & Body	sign_of_the_horns	🤘	🤘🏻 🤘🏼 🤘🏽 🤘🏾 🤘🏿
+U	People & Body	call_me_hand	🤙	🤙🏻 🤙🏼 🤙🏽 🤙🏾 🤙🏿
+U	People & Body	backhand_index_pointing_left	👈	👈🏻 👈🏼 👈🏽 👈🏾 👈🏿
+U	People & Body	backhand_index_pointing_right	👉	👉🏻 👉🏼 👉🏽 👉🏾 👉🏿
+U	People & Body	backhand_index_pointing_up	👆	👆🏻 👆🏼 👆🏽 👆🏾 👆🏿
+U	People & Body	middle_finger	🖕	🖕🏻 🖕🏼 🖕🏽 🖕🏾 🖕🏿
+U	People & Body	backhand_index_pointing_down	👇	👇🏻 👇🏼 👇🏽 👇🏾 👇🏿
+U	People & Body	index_pointing_up	☝️	☝🏻 ☝🏼 ☝🏽 ☝🏾 ☝🏿
+U	People & Body	index_pointing_at_the_viewer	🫵	🫵🏻 🫵🏼 🫵🏽 🫵🏾 🫵🏿
+U	People & Body	thumbs_up	👍	👍🏻 👍🏼 👍🏽 👍🏾 👍🏿
+U	People & Body	thumbs_down	👎	👎🏻 👎🏼 👎🏽 👎🏾 👎🏿
+U	People & Body	raised_fist	✊	✊🏻 ✊🏼 ✊🏽 ✊🏾 ✊🏿
+U	People & Body	oncoming_fist	👊	👊🏻 👊🏼 👊🏽 👊🏾 👊🏿
+U	People & Body	left_facing_fist	🤛	🤛🏻 🤛🏼 🤛🏽 🤛🏾 🤛🏿
+U	People & Body	right_facing_fist	🤜	🤜🏻 🤜🏼 🤜🏽 🤜🏾 🤜🏿
+U	People & Body	clapping_hands	👏	👏🏻 👏🏼 👏🏽 👏🏾 👏🏿
+U	People & Body	raising_hands	🙌	🙌🏻 🙌🏼 🙌🏽 🙌🏾 🙌🏿
+U	People & Body	heart_hands	🫶	🫶🏻 🫶🏼 🫶🏽 🫶🏾 🫶🏿
+U	People & Body	open_hands	👐	👐🏻 👐🏼 👐🏽 👐🏾 👐🏿
+U	People & Body	palms_up_together	🤲	🤲🏻 🤲🏼 🤲🏽 🤲🏾 🤲🏿
+U	People & Body	handshake	🤝	🤝🏻 🤝🏼 🤝🏽 🤝🏾 🤝🏿
+U	People & Body	folded_hands	🙏	🙏🏻 🙏🏼 🙏🏽 🙏🏾 🙏🏿
+U	People & Body	writing_hand	✍️	✍🏻 ✍🏼 ✍🏽 ✍🏾 ✍🏿
+U	People & Body	nail_polish	💅	💅🏻 💅🏼 💅🏽 💅🏾 💅🏿
+U	People & Body	selfie	🤳	🤳🏻 🤳🏼 🤳🏽 🤳🏾 🤳🏿
+U	People & Body	flexed_biceps	💪	💪🏻 💪🏼 💪🏽 💪🏾 💪🏿
+U	People & Body	mechanical_arm	🦾
+U	People & Body	mechanical_leg	🦿
+U	People & Body	leg	🦵	🦵🏻 🦵🏼 🦵🏽 🦵🏾 🦵🏿
+U	People & Body	foot	🦶	🦶🏻 🦶🏼 🦶🏽 🦶🏾 🦶🏿
+U	People & Body	ear	👂	👂🏻 👂🏼 👂🏽 👂🏾 👂🏿
+U	People & Body	ear_with_hearing_aid	🦻	🦻🏻 🦻🏼 🦻🏽 🦻🏾 🦻🏿
+U	People & Body	nose	👃	👃🏻 👃🏼 👃🏽 👃🏾 👃🏿
+U	People & Body	brain	🧠
+U	People & Body	anatomical_heart	🫀
+U	People & Body	lungs	🫁
+U	People & Body	tooth	🦷
+U	People & Body	bone	🦴
+U	People & Body	eyes	👀
+U	People & Body	eye	👁️
+U	People & Body	tongue	👅
+U	People & Body	mouth	👄
+U	People & Body	biting_lip	🫦
+U	People & Body	baby	👶	👶🏻 👶🏼 👶🏽 👶🏾 👶🏿
+U	People & Body	child	🧒	🧒🏻 🧒🏼 🧒🏽 🧒🏾 🧒🏿
+U	People & Body	boy	👦	👦🏻 👦🏼 👦🏽 👦🏾 👦🏿
+U	People & Body	girl	👧	👧🏻 👧🏼 👧🏽 👧🏾 👧🏿
+U	People & Body	person	🧑	🧑🏻 🧑🏼 🧑🏽 🧑🏾 🧑🏿
+U	People & Body	person_blond_hair	👱	👱🏻 👱🏼 👱🏽 👱🏾 👱🏿
+U	People & Body	man	👨	👨🏻 👨🏼 👨🏽 👨🏾 👨🏿
+U	People & Body	person_beard	🧔	🧔🏻 🧔🏼 🧔🏽 🧔🏾 🧔🏿
+U	People & Body	man_beard	🧔‍♂️	🧔🏻‍♂️ 🧔🏼‍♂️ 🧔🏽‍♂️ 🧔🏾‍♂️ 🧔🏿‍♂️
+U	People & Body	woman_beard	🧔‍♀️	🧔🏻‍♀️ 🧔🏼‍♀️ 🧔🏽‍♀️ 🧔🏾‍♀️ 🧔🏿‍♀️
+U	People & Body	man_red_hair	👨‍🦰	👨🏻‍🦰 👨🏼‍🦰 👨🏽‍🦰 👨🏾‍🦰 👨🏿‍🦰
+U	People & Body	man_curly_hair	👨‍🦱	👨🏻‍🦱 👨🏼‍🦱 👨🏽‍🦱 👨🏾‍🦱 👨🏿‍🦱
+U	People & Body	man_white_hair	👨‍🦳	👨🏻‍🦳 👨🏼‍🦳 👨🏽‍🦳 👨🏾‍🦳 👨🏿‍🦳
+U	People & Body	man_bald	👨‍🦲	👨🏻‍🦲 👨🏼‍🦲 👨🏽‍🦲 👨🏾‍🦲 👨🏿‍🦲
+U	People & Body	woman	👩	👩🏻 👩🏼 👩🏽 👩🏾 👩🏿
+U	People & Body	woman_red_hair	👩‍🦰	👩🏻‍🦰 👩🏼‍🦰 👩🏽‍🦰 👩🏾‍🦰 👩🏿‍🦰
+U	People & Body	person_red_hair	🧑‍🦰	🧑🏻‍🦰 🧑🏼‍🦰 🧑🏽‍🦰 🧑🏾‍🦰 🧑🏿‍🦰
+U	People & Body	woman_curly_hair	👩‍🦱	👩🏻‍🦱 👩🏼‍🦱 👩🏽‍🦱 👩🏾‍🦱 👩🏿‍🦱
+U	People & Body	person_curly_hair	🧑‍🦱	🧑🏻‍🦱 🧑🏼‍🦱 🧑🏽‍🦱 🧑🏾‍🦱 🧑🏿‍🦱
+U	People & Body	woman_white_hair	👩‍🦳	👩🏻‍🦳 👩🏼‍🦳 👩🏽‍🦳 👩🏾‍🦳 👩🏿‍🦳
+U	People & Body	person_white_hair	🧑‍🦳	🧑🏻‍🦳 🧑🏼‍🦳 🧑🏽‍🦳 🧑🏾‍🦳 🧑🏿‍🦳
+U	People & Body	woman_bald	👩‍🦲	👩🏻‍🦲 👩🏼‍🦲 👩🏽‍🦲 👩🏾‍🦲 👩🏿‍🦲
+U	People & Body	person_bald	🧑‍🦲	🧑🏻‍🦲 🧑🏼‍🦲 🧑🏽‍🦲 🧑🏾‍🦲 🧑🏿‍🦲
+U	People & Body	woman_blond_hair	👱‍♀️	👱🏻‍♀️ 👱🏼‍♀️ 👱🏽‍♀️ 👱🏾‍♀️ 👱🏿‍♀️
+U	People & Body	man_blond_hair	👱‍♂️	👱🏻‍♂️ 👱🏼‍♂️ 👱🏽‍♂️ 👱🏾‍♂️ 👱🏿‍♂️
+U	People & Body	older_person	🧓	🧓🏻 🧓🏼 🧓🏽 🧓🏾 🧓🏿
+U	People & Body	old_man	👴	👴🏻 👴🏼 👴🏽 👴🏾 👴🏿
+U	People & Body	old_woman	👵	👵🏻 👵🏼 👵🏽 👵🏾 👵🏿
+U	People & Body	person_frowning	🙍	🙍🏻 🙍🏼 🙍🏽 🙍🏾 🙍🏿
+U	People & Body	man_frowning	🙍‍♂️	🙍🏻‍♂️ 🙍🏼‍♂️ 🙍🏽‍♂️ 🙍🏾‍♂️ 🙍🏿‍♂️
+U	People & Body	woman_frowning	🙍‍♀️	🙍🏻‍♀️ 🙍🏼‍♀️ 🙍🏽‍♀️ 🙍🏾‍♀️ 🙍🏿‍♀️
+U	People & Body	person_pouting	🙎	🙎🏻 🙎🏼 🙎🏽 🙎🏾 🙎🏿
+U	People & Body	man_pouting	🙎‍♂️	🙎🏻‍♂️ 🙎🏼‍♂️ 🙎🏽‍♂️ 🙎🏾‍♂️ 🙎🏿‍♂️
+U	People & Body	woman_pouting	🙎‍♀️	🙎🏻‍♀️ 🙎🏼‍♀️ 🙎🏽‍♀️ 🙎🏾‍♀️ 🙎🏿‍♀️
+U	People & Body	person_gesturing_no	🙅	🙅🏻 🙅🏼 🙅🏽 🙅🏾 🙅🏿
+U	People & Body	man_gesturing_no	🙅‍♂️	🙅🏻‍♂️ 🙅🏼‍♂️ 🙅🏽‍♂️ 🙅🏾‍♂️ 🙅🏿‍♂️
+U	People & Body	woman_gesturing_no	🙅‍♀️	🙅🏻‍♀️ 🙅🏼‍♀️ 🙅🏽‍♀️ 🙅🏾‍♀️ 🙅🏿‍♀️
+U	People & Body	person_gesturing_ok	🙆	🙆🏻 🙆🏼 🙆🏽 🙆🏾 🙆🏿
+U	People & Body	man_gesturing_ok	🙆‍♂️	🙆🏻‍♂️ 🙆🏼‍♂️ 🙆🏽‍♂️ 🙆🏾‍♂️ 🙆🏿‍♂️
+U	People & Body	woman_gesturing_ok	🙆‍♀️	🙆🏻‍♀️ 🙆🏼‍♀️ 🙆🏽‍♀️ 🙆🏾‍♀️ 🙆🏿‍♀️
+U	People & Body	person_tipping_hand	💁	💁🏻 💁🏼 💁🏽 💁🏾 💁🏿
+U	People & Body	man_tipping_hand	💁‍♂️	💁🏻‍♂️ 💁🏼‍♂️ 💁🏽‍♂️ 💁🏾‍♂️ 💁🏿‍♂️
+U	People & Body	woman_tipping_hand	💁‍♀️	💁🏻‍♀️ 💁🏼‍♀️ 💁🏽‍♀️ 💁🏾‍♀️ 💁🏿‍♀️
+U	People & Body	person_raising_hand	🙋	🙋🏻 🙋🏼 🙋🏽 🙋🏾 🙋🏿
+U	People & Body	man_raising_hand	🙋‍♂️	🙋🏻‍♂️ 🙋🏼‍♂️ 🙋🏽‍♂️ 🙋🏾‍♂️ 🙋🏿‍♂️
+U	People & Body	woman_raising_hand	🙋‍♀️	🙋🏻‍♀️ 🙋🏼‍♀️ 🙋🏽‍♀️ 🙋🏾‍♀️ 🙋🏿‍♀️
+U	People & Body	deaf_person	🧏	🧏🏻 🧏🏼 🧏🏽 🧏🏾 🧏🏿
+U	People & Body	deaf_man	🧏‍♂️	🧏🏻‍♂️ 🧏🏼‍♂️ 🧏🏽‍♂️ 🧏🏾‍♂️ 🧏🏿‍♂️
+U	People & Body	deaf_woman	🧏‍♀️	🧏🏻‍♀️ 🧏🏼‍♀️ 🧏🏽‍♀️ 🧏🏾‍♀️ 🧏🏿‍♀️
+U	People & Body	person_bowing	🙇	🙇🏻 🙇🏼 🙇🏽 🙇🏾 🙇🏿
+U	People & Body	man_bowing	🙇‍♂️	🙇🏻‍♂️ 🙇🏼‍♂️ 🙇🏽‍♂️ 🙇🏾‍♂️ 🙇🏿‍♂️
+U	People & Body	woman_bowing	🙇‍♀️	🙇🏻‍♀️ 🙇🏼‍♀️ 🙇🏽‍♀️ 🙇🏾‍♀️ 🙇🏿‍♀️
+U	People & Body	person_facepalming	🤦	🤦🏻 🤦🏼 🤦🏽 🤦🏾 🤦🏿
+U	People & Body	man_facepalming	🤦‍♂️	🤦🏻‍♂️ 🤦🏼‍♂️ 🤦🏽‍♂️ 🤦🏾‍♂️ 🤦🏿‍♂️
+U	People & Body	woman_facepalming	🤦‍♀️	🤦🏻‍♀️ 🤦🏼‍♀️ 🤦🏽‍♀️ 🤦🏾‍♀️ 🤦🏿‍♀️
+U	People & Body	person_shrugging	🤷	🤷🏻 🤷🏼 🤷🏽 🤷🏾 🤷🏿
+U	People & Body	man_shrugging	🤷‍♂️	🤷🏻‍♂️ 🤷🏼‍♂️ 🤷🏽‍♂️ 🤷🏾‍♂️ 🤷🏿‍♂️
+U	People & Body	woman_shrugging	🤷‍♀️	🤷🏻‍♀️ 🤷🏼‍♀️ 🤷🏽‍♀️ 🤷🏾‍♀️ 🤷🏿‍♀️
+U	People & Body	health_worker	🧑‍⚕️	🧑🏻‍⚕️ 🧑🏼‍⚕️ 🧑🏽‍⚕️ 🧑🏾‍⚕️ 🧑🏿‍⚕️
+U	People & Body	man_health_worker	👨‍⚕️	👨🏻‍⚕️ 👨🏼‍⚕️ 👨🏽‍⚕️ 👨🏾‍⚕️ 👨🏿‍⚕️
+U	People & Body	woman_health_worker	👩‍⚕️	👩🏻‍⚕️ 👩🏼‍⚕️ 👩🏽‍⚕️ 👩🏾‍⚕️ 👩🏿‍⚕️
+U	People & Body	student	🧑‍🎓	🧑🏻‍🎓 🧑🏼‍🎓 🧑🏽‍🎓 🧑🏾‍🎓 🧑🏿‍🎓
+U	People & Body	man_student	👨‍🎓	👨🏻‍🎓 👨🏼‍🎓 👨🏽‍🎓 👨🏾‍🎓 👨🏿‍🎓
+U	People & Body	woman_student	👩‍🎓	👩🏻‍🎓 👩🏼‍🎓 👩🏽‍🎓 👩🏾‍🎓 👩🏿‍🎓
+U	People & Body	teacher	🧑‍🏫	🧑🏻‍🏫 🧑🏼‍🏫 🧑🏽‍🏫 🧑🏾‍🏫 🧑🏿‍🏫
+U	People & Body	man_teacher	👨‍🏫	👨🏻‍🏫 👨🏼‍🏫 👨🏽‍🏫 👨🏾‍🏫 👨🏿‍🏫
+U	People & Body	woman_teacher	👩‍🏫	👩🏻‍🏫 👩🏼‍🏫 👩🏽‍🏫 👩🏾‍🏫 👩🏿‍🏫
+U	People & Body	judge	🧑‍⚖️	🧑🏻‍⚖️ 🧑🏼‍⚖️ 🧑🏽‍⚖️ 🧑🏾‍⚖️ 🧑🏿‍⚖️
+U	People & Body	man_judge	👨‍⚖️	👨🏻‍⚖️ 👨🏼‍⚖️ 👨🏽‍⚖️ 👨🏾‍⚖️ 👨🏿‍⚖️
+U	People & Body	woman_judge	👩‍⚖️	👩🏻‍⚖️ 👩🏼‍⚖️ 👩🏽‍⚖️ 👩🏾‍⚖️ 👩🏿‍⚖️
+U	People & Body	farmer	🧑‍🌾	🧑🏻‍🌾 🧑🏼‍🌾 🧑🏽‍🌾 🧑🏾‍🌾 🧑🏿‍🌾
+U	People & Body	man_farmer	👨‍🌾	👨🏻‍🌾 👨🏼‍🌾 👨🏽‍🌾 👨🏾‍🌾 👨🏿‍🌾
+U	People & Body	woman_farmer	👩‍🌾	👩🏻‍🌾 👩🏼‍🌾 👩🏽‍🌾 👩🏾‍🌾 👩🏿‍🌾
+U	People & Body	cook	🧑‍🍳	🧑🏻‍🍳 🧑🏼‍🍳 🧑🏽‍🍳 🧑🏾‍🍳 🧑🏿‍🍳
+U	People & Body	man_cook	👨‍🍳	👨🏻‍🍳 👨🏼‍🍳 👨🏽‍🍳 👨🏾‍🍳 👨🏿‍🍳
+U	People & Body	woman_cook	👩‍🍳	👩🏻‍🍳 👩🏼‍🍳 👩🏽‍🍳 👩🏾‍🍳 👩🏿‍🍳
+U	People & Body	mechanic	🧑‍🔧	🧑🏻‍🔧 🧑🏼‍🔧 🧑🏽‍🔧 🧑🏾‍🔧 🧑🏿‍🔧
+U	People & Body	man_mechanic	👨‍🔧	👨🏻‍🔧 👨🏼‍🔧 👨🏽‍🔧 👨🏾‍🔧 👨🏿‍🔧
+U	People & Body	woman_mechanic	👩‍🔧	👩🏻‍🔧 👩🏼‍🔧 👩🏽‍🔧 👩🏾‍🔧 👩🏿‍🔧
+U	People & Body	factory_worker	🧑‍🏭	🧑🏻‍🏭 🧑🏼‍🏭 🧑🏽‍🏭 🧑🏾‍🏭 🧑🏿‍🏭
+U	People & Body	man_factory_worker	👨‍🏭	👨🏻‍🏭 👨🏼‍🏭 👨🏽‍🏭 👨🏾‍🏭 👨🏿‍🏭
+U	People & Body	woman_factory_worker	👩‍🏭	👩🏻‍🏭 👩🏼‍🏭 👩🏽‍🏭 👩🏾‍🏭 👩🏿‍🏭
+U	People & Body	office_worker	🧑‍💼	🧑🏻‍💼 🧑🏼‍💼 🧑🏽‍💼 🧑🏾‍💼 🧑🏿‍💼
+U	People & Body	man_office_worker	👨‍💼	👨🏻‍💼 👨🏼‍💼 👨🏽‍💼 👨🏾‍💼 👨🏿‍💼
+U	People & Body	woman_office_worker	👩‍💼	👩🏻‍💼 👩🏼‍💼 👩🏽‍💼 👩🏾‍💼 👩🏿‍💼
+U	People & Body	scientist	🧑‍🔬	🧑🏻‍🔬 🧑🏼‍🔬 🧑🏽‍🔬 🧑🏾‍🔬 🧑🏿‍🔬
+U	People & Body	man_scientist	👨‍🔬	👨🏻‍🔬 👨🏼‍🔬 👨🏽‍🔬 👨🏾‍🔬 👨🏿‍🔬
+U	People & Body	woman_scientist	👩‍🔬	👩🏻‍🔬 👩🏼‍🔬 👩🏽‍🔬 👩🏾‍🔬 👩🏿‍🔬
+U	People & Body	technologist	🧑‍💻	🧑🏻‍💻 🧑🏼‍💻 🧑🏽‍💻 🧑🏾‍💻 🧑🏿‍💻
+U	People & Body	man_technologist	👨‍💻	👨🏻‍💻 👨🏼‍💻 👨🏽‍💻 👨🏾‍💻 👨🏿‍💻
+U	People & Body	woman_technologist	👩‍💻	👩🏻‍💻 👩🏼‍💻 👩🏽‍💻 👩🏾‍💻 👩🏿‍💻
+U	People & Body	singer	🧑‍🎤	🧑🏻‍🎤 🧑🏼‍🎤 🧑🏽‍🎤 🧑🏾‍🎤 🧑🏿‍🎤
+U	People & Body	man_singer	👨‍🎤	👨🏻‍🎤 👨🏼‍🎤 👨🏽‍🎤 👨🏾‍🎤 👨🏿‍🎤
+U	People & Body	woman_singer	👩‍🎤	👩🏻‍🎤 👩🏼‍🎤 👩🏽‍🎤 👩🏾‍🎤 👩🏿‍🎤
+U	People & Body	artist	🧑‍🎨	🧑🏻‍🎨 🧑🏼‍🎨 🧑🏽‍🎨 🧑🏾‍🎨 🧑🏿‍🎨
+U	People & Body	man_artist	👨‍🎨	👨🏻‍🎨 👨🏼‍🎨 👨🏽‍🎨 👨🏾‍🎨 👨🏿‍🎨
+U	People & Body	woman_artist	👩‍🎨	👩🏻‍🎨 👩🏼‍🎨 👩🏽‍🎨 👩🏾‍🎨 👩🏿‍🎨
+U	People & Body	pilot	🧑‍✈️	🧑🏻‍✈️ 🧑🏼‍✈️ 🧑🏽‍✈️ 🧑🏾‍✈️ 🧑🏿‍✈️
+U	People & Body	man_pilot	👨‍✈️	👨🏻‍✈️ 👨🏼‍✈️ 👨🏽‍✈️ 👨🏾‍✈️ 👨🏿‍✈️
+U	People & Body	woman_pilot	👩‍✈️	👩🏻‍✈️ 👩🏼‍✈️ 👩🏽‍✈️ 👩🏾‍✈️ 👩🏿‍✈️
+U	People & Body	astronaut	🧑‍🚀	🧑🏻‍🚀 🧑🏼‍🚀 🧑🏽‍🚀 🧑🏾‍🚀 🧑🏿‍🚀
+U	People & Body	man_astronaut	👨‍🚀	👨🏻‍🚀 👨🏼‍🚀 👨🏽‍🚀 👨🏾‍🚀 👨🏿‍🚀
+U	People & Body	woman_astronaut	👩‍🚀	👩🏻‍🚀 👩🏼‍🚀 👩🏽‍🚀 👩🏾‍🚀 👩🏿‍🚀
+U	People & Body	firefighter	🧑‍🚒	🧑🏻‍🚒 🧑🏼‍🚒 🧑🏽‍🚒 🧑🏾‍🚒 🧑🏿‍🚒
+U	People & Body	man_firefighter	👨‍🚒	👨🏻‍🚒 👨🏼‍🚒 👨🏽‍🚒 👨🏾‍🚒 👨🏿‍🚒
+U	People & Body	woman_firefighter	👩‍🚒	👩🏻‍🚒 👩🏼‍🚒 👩🏽‍🚒 👩🏾‍🚒 👩🏿‍🚒
+U	People & Body	police_officer	👮	👮🏻 👮🏼 👮🏽 👮🏾 👮🏿
+U	People & Body	man_police_officer	👮‍♂️	👮🏻‍♂️ 👮🏼‍♂️ 👮🏽‍♂️ 👮🏾‍♂️ 👮🏿‍♂️
+U	People & Body	woman_police_officer	👮‍♀️	👮🏻‍♀️ 👮🏼‍♀️ 👮🏽‍♀️ 👮🏾‍♀️ 👮🏿‍♀️
+U	People & Body	detective	🕵️	🕵🏻 🕵🏼 🕵🏽 🕵🏾 🕵🏿
+U	People & Body	man_detective	🕵️‍♂️	🕵🏻‍♂️ 🕵🏼‍♂️ 🕵🏽‍♂️ 🕵🏾‍♂️ 🕵🏿‍♂️
+U	People & Body	woman_detective	🕵️‍♀️	🕵🏻‍♀️ 🕵🏼‍♀️ 🕵🏽‍♀️ 🕵🏾‍♀️ 🕵🏿‍♀️
+U	People & Body	guard	💂	💂🏻 💂🏼 💂🏽 💂🏾 💂🏿
+U	People & Body	man_guard	💂‍♂️	💂🏻‍♂️ 💂🏼‍♂️ 💂🏽‍♂️ 💂🏾‍♂️ 💂🏿‍♂️
+U	People & Body	woman_guard	💂‍♀️	💂🏻‍♀️ 💂🏼‍♀️ 💂🏽‍♀️ 💂🏾‍♀️ 💂🏿‍♀️
+U	People & Body	ninja	🥷	🥷🏻 🥷🏼 🥷🏽 🥷🏾 🥷🏿
+U	People & Body	construction_worker	👷	👷🏻 👷🏼 👷🏽 👷🏾 👷🏿
+U	People & Body	man_construction_worker	👷‍♂️	👷🏻‍♂️ 👷🏼‍♂️ 👷🏽‍♂️ 👷🏾‍♂️ 👷🏿‍♂️
+U	People & Body	woman_construction_worker	👷‍♀️	👷🏻‍♀️ 👷🏼‍♀️ 👷🏽‍♀️ 👷🏾‍♀️ 👷🏿‍♀️
+U	People & Body	person_with_crown	🫅	🫅🏻 🫅🏼 🫅🏽 🫅🏾 🫅🏿
+U	People & Body	prince	🤴	🤴🏻 🤴🏼 🤴🏽 🤴🏾 🤴🏿
+U	People & Body	princess	👸	👸🏻 👸🏼 👸🏽 👸🏾 👸🏿
+U	People & Body	person_wearing_turban	👳	👳🏻 👳🏼 👳🏽 👳🏾 👳🏿
+U	People & Body	man_wearing_turban	👳‍♂️	👳🏻‍♂️ 👳🏼‍♂️ 👳🏽‍♂️ 👳🏾‍♂️ 👳🏿‍♂️
+U	People & Body	woman_wearing_turban	👳‍♀️	👳🏻‍♀️ 👳🏼‍♀️ 👳🏽‍♀️ 👳🏾‍♀️ 👳🏿‍♀️
+U	People & Body	person_with_skullcap	👲	👲🏻 👲🏼 👲🏽 👲🏾 👲🏿
+U	People & Body	woman_with_headscarf	🧕	🧕🏻 🧕🏼 🧕🏽 🧕🏾 🧕🏿
+U	People & Body	person_in_tuxedo	🤵	🤵🏻 🤵🏼 🤵🏽 🤵🏾 🤵🏿
+U	People & Body	man_in_tuxedo	🤵‍♂️	🤵🏻‍♂️ 🤵🏼‍♂️ 🤵🏽‍♂️ 🤵🏾‍♂️ 🤵🏿‍♂️
+U	People & Body	woman_in_tuxedo	🤵‍♀️	🤵🏻‍♀️ 🤵🏼‍♀️ 🤵🏽‍♀️ 🤵🏾‍♀️ 🤵🏿‍♀️
+U	People & Body	person_with_veil	👰	👰🏻 👰🏼 👰🏽 👰🏾 👰🏿
+U	People & Body	man_with_veil	👰‍♂️	👰🏻‍♂️ 👰🏼‍♂️ 👰🏽‍♂️ 👰🏾‍♂️ 👰🏿‍♂️
+U	People & Body	woman_with_veil	👰‍♀️	👰🏻‍♀️ 👰🏼‍♀️ 👰🏽‍♀️ 👰🏾‍♀️ 👰🏿‍♀️
+U	People & Body	pregnant_woman	🤰	🤰🏻 🤰🏼 🤰🏽 🤰🏾 🤰🏿
+U	People & Body	pregnant_man	🫃	🫃🏻 🫃🏼 🫃🏽 🫃🏾 🫃🏿
+U	People & Body	pregnant_person	🫄	🫄🏻 🫄🏼 🫄🏽 🫄🏾 🫄🏿
+U	People & Body	breast_feeding	🤱	🤱🏻 🤱🏼 🤱🏽 🤱🏾 🤱🏿
+U	People & Body	woman_feeding_baby	👩‍🍼	👩🏻‍🍼 👩🏼‍🍼 👩🏽‍🍼 👩🏾‍🍼 👩🏿‍🍼
+U	People & Body	man_feeding_baby	👨‍🍼	👨🏻‍🍼 👨🏼‍🍼 👨🏽‍🍼 👨🏾‍🍼 👨🏿‍🍼
+U	People & Body	person_feeding_baby	🧑‍🍼	🧑🏻‍🍼 🧑🏼‍🍼 🧑🏽‍🍼 🧑🏾‍🍼 🧑🏿‍🍼
+U	People & Body	baby_angel	👼	👼🏻 👼🏼 👼🏽 👼🏾 👼🏿
+U	People & Body	santa_claus	🎅	🎅🏻 🎅🏼 🎅🏽 🎅🏾 🎅🏿
+U	People & Body	mrs_claus	🤶	🤶🏻 🤶🏼 🤶🏽 🤶🏾 🤶🏿
+U	People & Body	mx_claus	🧑‍🎄	🧑🏻‍🎄 🧑🏼‍🎄 🧑🏽‍🎄 🧑🏾‍🎄 🧑🏿‍🎄
+U	People & Body	superhero	🦸	🦸🏻 🦸🏼 🦸🏽 🦸🏾 🦸🏿
+U	People & Body	man_superhero	🦸‍♂️	🦸🏻‍♂️ 🦸🏼‍♂️ 🦸🏽‍♂️ 🦸🏾‍♂️ 🦸🏿‍♂️
+U	People & Body	woman_superhero	🦸‍♀️	🦸🏻‍♀️ 🦸🏼‍♀️ 🦸🏽‍♀️ 🦸🏾‍♀️ 🦸🏿‍♀️
+U	People & Body	supervillain	🦹	🦹🏻 🦹🏼 🦹🏽 🦹🏾 🦹🏿
+U	People & Body	man_supervillain	🦹‍♂️	🦹🏻‍♂️ 🦹🏼‍♂️ 🦹🏽‍♂️ 🦹🏾‍♂️ 🦹🏿‍♂️
+U	People & Body	woman_supervillain	🦹‍♀️	🦹🏻‍♀️ 🦹🏼‍♀️ 🦹🏽‍♀️ 🦹🏾‍♀️ 🦹🏿‍♀️
+U	People & Body	mage	🧙	🧙🏻 🧙🏼 🧙🏽 🧙🏾 🧙🏿
+U	People & Body	man_mage	🧙‍♂️	🧙🏻‍♂️ 🧙🏼‍♂️ 🧙🏽‍♂️ 🧙🏾‍♂️ 🧙🏿‍♂️
+U	People & Body	woman_mage	🧙‍♀️	🧙🏻‍♀️ 🧙🏼‍♀️ 🧙🏽‍♀️ 🧙🏾‍♀️ 🧙🏿‍♀️
+U	People & Body	fairy	🧚	🧚🏻 🧚🏼 🧚🏽 🧚🏾 🧚🏿
+U	People & Body	man_fairy	🧚‍♂️	🧚🏻‍♂️ 🧚🏼‍♂️ 🧚🏽‍♂️ 🧚🏾‍♂️ 🧚🏿‍♂️
+U	People & Body	woman_fairy	🧚‍♀️	🧚🏻‍♀️ 🧚🏼‍♀️ 🧚🏽‍♀️ 🧚🏾‍♀️ 🧚🏿‍♀️
+U	People & Body	vampire	🧛	🧛🏻 🧛🏼 🧛🏽 🧛🏾 🧛🏿
+U	People & Body	man_vampire	🧛‍♂️	🧛🏻‍♂️ 🧛🏼‍♂️ 🧛🏽‍♂️ 🧛🏾‍♂️ 🧛🏿‍♂️
+U	People & Body	woman_vampire	🧛‍♀️	🧛🏻‍♀️ 🧛🏼‍♀️ 🧛🏽‍♀️ 🧛🏾‍♀️ 🧛🏿‍♀️
+U	People & Body	merperson	🧜	🧜🏻 🧜🏼 🧜🏽 🧜🏾 🧜🏿
+U	People & Body	merman	🧜‍♂️	🧜🏻‍♂️ 🧜🏼‍♂️ 🧜🏽‍♂️ 🧜🏾‍♂️ 🧜🏿‍♂️
+U	People & Body	mermaid	🧜‍♀️	🧜🏻‍♀️ 🧜🏼‍♀️ 🧜🏽‍♀️ 🧜🏾‍♀️ 🧜🏿‍♀️
+U	People & Body	elf	🧝	🧝🏻 🧝🏼 🧝🏽 🧝🏾 🧝🏿
+U	People & Body	man_elf	🧝‍♂️	🧝🏻‍♂️ 🧝🏼‍♂️ 🧝🏽‍♂️ 🧝🏾‍♂️ 🧝🏿‍♂️
+U	People & Body	woman_elf	🧝‍♀️	🧝🏻‍♀️ 🧝🏼‍♀️ 🧝🏽‍♀️ 🧝🏾‍♀️ 🧝🏿‍♀️
+U	People & Body	genie	🧞
+U	People & Body	man_genie	🧞‍♂️
+U	People & Body	woman_genie	🧞‍♀️
+U	People & Body	zombie	🧟
+U	People & Body	man_zombie	🧟‍♂️
+U	People & Body	woman_zombie	🧟‍♀️
+U	People & Body	troll	🧌
+U	People & Body	hairy_creature	🫈
+U	People & Body	person_getting_massage	💆	💆🏻 💆🏼 💆🏽 💆🏾 💆🏿
+U	People & Body	man_getting_massage	💆‍♂️	💆🏻‍♂️ 💆🏼‍♂️ 💆🏽‍♂️ 💆🏾‍♂️ 💆🏿‍♂️
+U	People & Body	woman_getting_massage	💆‍♀️	💆🏻‍♀️ 💆🏼‍♀️ 💆🏽‍♀️ 💆🏾‍♀️ 💆🏿‍♀️
+U	People & Body	person_getting_haircut	💇	💇🏻 💇🏼 💇🏽 💇🏾 💇🏿
+U	People & Body	man_getting_haircut	💇‍♂️	💇🏻‍♂️ 💇🏼‍♂️ 💇🏽‍♂️ 💇🏾‍♂️ 💇🏿‍♂️
+U	People & Body	woman_getting_haircut	💇‍♀️	💇🏻‍♀️ 💇🏼‍♀️ 💇🏽‍♀️ 💇🏾‍♀️ 💇🏿‍♀️
+U	People & Body	person_walking	🚶	🚶🏻 🚶🏼 🚶🏽 🚶🏾 🚶🏿
+U	People & Body	man_walking	🚶‍♂️	🚶🏻‍♂️ 🚶🏼‍♂️ 🚶🏽‍♂️ 🚶🏾‍♂️ 🚶🏿‍♂️
+U	People & Body	woman_walking	🚶‍♀️	🚶🏻‍♀️ 🚶🏼‍♀️ 🚶🏽‍♀️ 🚶🏾‍♀️ 🚶🏿‍♀️
+U	People & Body	person_walking_facing_right	🚶‍➡️	🚶🏻‍➡️ 🚶🏼‍➡️ 🚶🏽‍➡️ 🚶🏾‍➡️ 🚶🏿‍➡️
+U	People & Body	woman_walking_facing_right	🚶‍♀️‍➡️	🚶🏻‍♀️‍➡️ 🚶🏼‍♀️‍➡️ 🚶🏽‍♀️‍➡️ 🚶🏾‍♀️‍➡️ 🚶🏿‍♀️‍➡️
+U	People & Body	man_walking_facing_right	🚶‍♂️‍➡️	🚶🏻‍♂️‍➡️ 🚶🏼‍♂️‍➡️ 🚶🏽‍♂️‍➡️ 🚶🏾‍♂️‍➡️ 🚶🏿‍♂️‍➡️
+U	People & Body	person_standing	🧍	🧍🏻 🧍🏼 🧍🏽 🧍🏾 🧍🏿
+U	People & Body	man_standing	🧍‍♂️	🧍🏻‍♂️ 🧍🏼‍♂️ 🧍🏽‍♂️ 🧍🏾‍♂️ 🧍🏿‍♂️
+U	People & Body	woman_standing	🧍‍♀️	🧍🏻‍♀️ 🧍🏼‍♀️ 🧍🏽‍♀️ 🧍🏾‍♀️ 🧍🏿‍♀️
+U	People & Body	person_kneeling	🧎	🧎🏻 🧎🏼 🧎🏽 🧎🏾 🧎🏿
+U	People & Body	man_kneeling	🧎‍♂️	🧎🏻‍♂️ 🧎🏼‍♂️ 🧎🏽‍♂️ 🧎🏾‍♂️ 🧎🏿‍♂️
+U	People & Body	woman_kneeling	🧎‍♀️	🧎🏻‍♀️ 🧎🏼‍♀️ 🧎🏽‍♀️ 🧎🏾‍♀️ 🧎🏿‍♀️
+U	People & Body	person_kneeling_facing_right	🧎‍➡️	🧎🏻‍➡️ 🧎🏼‍➡️ 🧎🏽‍➡️ 🧎🏾‍➡️ 🧎🏿‍➡️
+U	People & Body	woman_kneeling_facing_right	🧎‍♀️‍➡️	🧎🏻‍♀️‍➡️ 🧎🏼‍♀️‍➡️ 🧎🏽‍♀️‍➡️ 🧎🏾‍♀️‍➡️ 🧎🏿‍♀️‍➡️
+U	People & Body	man_kneeling_facing_right	🧎‍♂️‍➡️	🧎🏻‍♂️‍➡️ 🧎🏼‍♂️‍➡️ 🧎🏽‍♂️‍➡️ 🧎🏾‍♂️‍➡️ 🧎🏿‍♂️‍➡️
+U	People & Body	person_with_white_cane	🧑‍🦯	🧑🏻‍🦯 🧑🏼‍🦯 🧑🏽‍🦯 🧑🏾‍🦯 🧑🏿‍🦯
+U	People & Body	person_with_white_cane_facing_right	🧑‍🦯‍➡️	🧑🏻‍🦯‍➡️ 🧑🏼‍🦯‍➡️ 🧑🏽‍🦯‍➡️ 🧑🏾‍🦯‍➡️ 🧑🏿‍🦯‍➡️
+U	People & Body	man_with_white_cane	👨‍🦯	👨🏻‍🦯 👨🏼‍🦯 👨🏽‍🦯 👨🏾‍🦯 👨🏿‍🦯
+U	People & Body	man_with_white_cane_facing_right	👨‍🦯‍➡️	👨🏻‍🦯‍➡️ 👨🏼‍🦯‍➡️ 👨🏽‍🦯‍➡️ 👨🏾‍🦯‍➡️ 👨🏿‍🦯‍➡️
+U	People & Body	woman_with_white_cane	👩‍🦯	👩🏻‍🦯 👩🏼‍🦯 👩🏽‍🦯 👩🏾‍🦯 👩🏿‍🦯
+U	People & Body	woman_with_white_cane_facing_right	👩‍🦯‍➡️	👩🏻‍🦯‍➡️ 👩🏼‍🦯‍➡️ 👩🏽‍🦯‍➡️ 👩🏾‍🦯‍➡️ 👩🏿‍🦯‍➡️
+U	People & Body	person_in_motorized_wheelchair	🧑‍🦼	🧑🏻‍🦼 🧑🏼‍🦼 🧑🏽‍🦼 🧑🏾‍🦼 🧑🏿‍🦼
+U	People & Body	person_in_motorized_wheelchair_facing_right	🧑‍🦼‍➡️	🧑🏻‍🦼‍➡️ 🧑🏼‍🦼‍➡️ 🧑🏽‍🦼‍➡️ 🧑🏾‍🦼‍➡️ 🧑🏿‍🦼‍➡️
+U	People & Body	man_in_motorized_wheelchair	👨‍🦼	👨🏻‍🦼 👨🏼‍🦼 👨🏽‍🦼 👨🏾‍🦼 👨🏿‍🦼
+U	People & Body	man_in_motorized_wheelchair_facing_right	👨‍🦼‍➡️	👨🏻‍🦼‍➡️ 👨🏼‍🦼‍➡️ 👨🏽‍🦼‍➡️ 👨🏾‍🦼‍➡️ 👨🏿‍🦼‍➡️
+U	People & Body	woman_in_motorized_wheelchair	👩‍🦼	👩🏻‍🦼 👩🏼‍🦼 👩🏽‍🦼 👩🏾‍🦼 👩🏿‍🦼
+U	People & Body	woman_in_motorized_wheelchair_facing_right	👩‍🦼‍➡️	👩🏻‍🦼‍➡️ 👩🏼‍🦼‍➡️ 👩🏽‍🦼‍➡️ 👩🏾‍🦼‍➡️ 👩🏿‍🦼‍➡️
+U	People & Body	person_in_manual_wheelchair	🧑‍🦽	🧑🏻‍🦽 🧑🏼‍🦽 🧑🏽‍🦽 🧑🏾‍🦽 🧑🏿‍🦽
+U	People & Body	person_in_manual_wheelchair_facing_right	🧑‍🦽‍➡️	🧑🏻‍🦽‍➡️ 🧑🏼‍🦽‍➡️ 🧑🏽‍🦽‍➡️ 🧑🏾‍🦽‍➡️ 🧑🏿‍🦽‍➡️
+U	People & Body	man_in_manual_wheelchair	👨‍🦽	👨🏻‍🦽 👨🏼‍🦽 👨🏽‍🦽 👨🏾‍🦽 👨🏿‍🦽
+U	People & Body	man_in_manual_wheelchair_facing_right	👨‍🦽‍➡️	👨🏻‍🦽‍➡️ 👨🏼‍🦽‍➡️ 👨🏽‍🦽‍➡️ 👨🏾‍🦽‍➡️ 👨🏿‍🦽‍➡️
+U	People & Body	woman_in_manual_wheelchair	👩‍🦽	👩🏻‍🦽 👩🏼‍🦽 👩🏽‍🦽 👩🏾‍🦽 👩🏿‍🦽
+U	People & Body	woman_in_manual_wheelchair_facing_right	👩‍🦽‍➡️	👩🏻‍🦽‍➡️ 👩🏼‍🦽‍➡️ 👩🏽‍🦽‍➡️ 👩🏾‍🦽‍➡️ 👩🏿‍🦽‍➡️
+U	People & Body	person_running	🏃	🏃🏻 🏃🏼 🏃🏽 🏃🏾 🏃🏿
+U	People & Body	man_running	🏃‍♂️	🏃🏻‍♂️ 🏃🏼‍♂️ 🏃🏽‍♂️ 🏃🏾‍♂️ 🏃🏿‍♂️
+U	People & Body	woman_running	🏃‍♀️	🏃🏻‍♀️ 🏃🏼‍♀️ 🏃🏽‍♀️ 🏃🏾‍♀️ 🏃🏿‍♀️
+U	People & Body	person_running_facing_right	🏃‍➡️	🏃🏻‍➡️ 🏃🏼‍➡️ 🏃🏽‍➡️ 🏃🏾‍➡️ 🏃🏿‍➡️
+U	People & Body	woman_running_facing_right	🏃‍♀️‍➡️	🏃🏻‍♀️‍➡️ 🏃🏼‍♀️‍➡️ 🏃🏽‍♀️‍➡️ 🏃🏾‍♀️‍➡️ 🏃🏿‍♀️‍➡️
+U	People & Body	man_running_facing_right	🏃‍♂️‍➡️	🏃🏻‍♂️‍➡️ 🏃🏼‍♂️‍➡️ 🏃🏽‍♂️‍➡️ 🏃🏾‍♂️‍➡️ 🏃🏿‍♂️‍➡️
+U	People & Body	ballet_dancer	🧑‍🩰	🧑🏻‍🩰 🧑🏼‍🩰 🧑🏽‍🩰 🧑🏾‍🩰 🧑🏿‍🩰
+U	People & Body	woman_dancing	💃	💃🏻 💃🏼 💃🏽 💃🏾 💃🏿
+U	People & Body	man_dancing	🕺	🕺🏻 🕺🏼 🕺🏽 🕺🏾 🕺🏿
+U	People & Body	person_in_suit_levitating	🕴️	🕴🏻 🕴🏼 🕴🏽 🕴🏾 🕴🏿
+U	People & Body	people_with_bunny_ears	👯	👯🏻 👯🏼 👯🏽 👯🏾 👯🏿
+U	People & Body	men_with_bunny_ears	👯‍♂️	👯🏻‍♂️ 👯🏼‍♂️ 👯🏽‍♂️ 👯🏾‍♂️ 👯🏿‍♂️
+U	People & Body	women_with_bunny_ears	👯‍♀️	👯🏻‍♀️ 👯🏼‍♀️ 👯🏽‍♀️ 👯🏾‍♀️ 👯🏿‍♀️
+U	People & Body	person_in_steamy_room	🧖	🧖🏻 🧖🏼 🧖🏽 🧖🏾 🧖🏿
+U	People & Body	man_in_steamy_room	🧖‍♂️	🧖🏻‍♂️ 🧖🏼‍♂️ 🧖🏽‍♂️ 🧖🏾‍♂️ 🧖🏿‍♂️
+U	People & Body	woman_in_steamy_room	🧖‍♀️	🧖🏻‍♀️ 🧖🏼‍♀️ 🧖🏽‍♀️ 🧖🏾‍♀️ 🧖🏿‍♀️
+U	People & Body	person_climbing	🧗	🧗🏻 🧗🏼 🧗🏽 🧗🏾 🧗🏿
+U	People & Body	man_climbing	🧗‍♂️	🧗🏻‍♂️ 🧗🏼‍♂️ 🧗🏽‍♂️ 🧗🏾‍♂️ 🧗🏿‍♂️
+U	People & Body	woman_climbing	🧗‍♀️	🧗🏻‍♀️ 🧗🏼‍♀️ 🧗🏽‍♀️ 🧗🏾‍♀️ 🧗🏿‍♀️
+U	People & Body	person_fencing	🤺
+U	People & Body	horse_racing	🏇	🏇🏻 🏇🏼 🏇🏽 🏇🏾 🏇🏿
+U	People & Body	skier	⛷️
+U	People & Body	snowboarder	🏂	🏂🏻 🏂🏼 🏂🏽 🏂🏾 🏂🏿
+U	People & Body	person_golfing	🏌️	🏌🏻 🏌🏼 🏌🏽 🏌🏾 🏌🏿
+U	People & Body	man_golfing	🏌️‍♂️	🏌🏻‍♂️ 🏌🏼‍♂️ 🏌🏽‍♂️ 🏌🏾‍♂️ 🏌🏿‍♂️
+U	People & Body	woman_golfing	🏌️‍♀️	🏌🏻‍♀️ 🏌🏼‍♀️ 🏌🏽‍♀️ 🏌🏾‍♀️ 🏌🏿‍♀️
+U	People & Body	person_surfing	🏄	🏄🏻 🏄🏼 🏄🏽 🏄🏾 🏄🏿
+U	People & Body	man_surfing	🏄‍♂️	🏄🏻‍♂️ 🏄🏼‍♂️ 🏄🏽‍♂️ 🏄🏾‍♂️ 🏄🏿‍♂️
+U	People & Body	woman_surfing	🏄‍♀️	🏄🏻‍♀️ 🏄🏼‍♀️ 🏄🏽‍♀️ 🏄🏾‍♀️ 🏄🏿‍♀️
+U	People & Body	person_rowing_boat	🚣	🚣🏻 🚣🏼 🚣🏽 🚣🏾 🚣🏿
+U	People & Body	man_rowing_boat	🚣‍♂️	🚣🏻‍♂️ 🚣🏼‍♂️ 🚣🏽‍♂️ 🚣🏾‍♂️ 🚣🏿‍♂️
+U	People & Body	woman_rowing_boat	🚣‍♀️	🚣🏻‍♀️ 🚣🏼‍♀️ 🚣🏽‍♀️ 🚣🏾‍♀️ 🚣🏿‍♀️
+U	People & Body	person_swimming	🏊	🏊🏻 🏊🏼 🏊🏽 🏊🏾 🏊🏿
+U	People & Body	man_swimming	🏊‍♂️	🏊🏻‍♂️ 🏊🏼‍♂️ 🏊🏽‍♂️ 🏊🏾‍♂️ 🏊🏿‍♂️
+U	People & Body	woman_swimming	🏊‍♀️	🏊🏻‍♀️ 🏊🏼‍♀️ 🏊🏽‍♀️ 🏊🏾‍♀️ 🏊🏿‍♀️
+U	People & Body	person_bouncing_ball	⛹️	⛹🏻 ⛹🏼 ⛹🏽 ⛹🏾 ⛹🏿
+U	People & Body	man_bouncing_ball	⛹️‍♂️	⛹🏻‍♂️ ⛹🏼‍♂️ ⛹🏽‍♂️ ⛹🏾‍♂️ ⛹🏿‍♂️
+U	People & Body	woman_bouncing_ball	⛹️‍♀️	⛹🏻‍♀️ ⛹🏼‍♀️ ⛹🏽‍♀️ ⛹🏾‍♀️ ⛹🏿‍♀️
+U	People & Body	person_lifting_weights	🏋️	🏋🏻 🏋🏼 🏋🏽 🏋🏾 🏋🏿
+U	People & Body	man_lifting_weights	🏋️‍♂️	🏋🏻‍♂️ 🏋🏼‍♂️ 🏋🏽‍♂️ 🏋🏾‍♂️ 🏋🏿‍♂️
+U	People & Body	woman_lifting_weights	🏋️‍♀️	🏋🏻‍♀️ 🏋🏼‍♀️ 🏋🏽‍♀️ 🏋🏾‍♀️ 🏋🏿‍♀️
+U	People & Body	person_biking	🚴	🚴🏻 🚴🏼 🚴🏽 🚴🏾 🚴🏿
+U	People & Body	man_biking	🚴‍♂️	🚴🏻‍♂️ 🚴🏼‍♂️ 🚴🏽‍♂️ 🚴🏾‍♂️ 🚴🏿‍♂️
+U	People & Body	woman_biking	🚴‍♀️	🚴🏻‍♀️ 🚴🏼‍♀️ 🚴🏽‍♀️ 🚴🏾‍♀️ 🚴🏿‍♀️
+U	People & Body	person_mountain_biking	🚵	🚵🏻 🚵🏼 🚵🏽 🚵🏾 🚵🏿
+U	People & Body	man_mountain_biking	🚵‍♂️	🚵🏻‍♂️ 🚵🏼‍♂️ 🚵🏽‍♂️ 🚵🏾‍♂️ 🚵🏿‍♂️
+U	People & Body	woman_mountain_biking	🚵‍♀️	🚵🏻‍♀️ 🚵🏼‍♀️ 🚵🏽‍♀️ 🚵🏾‍♀️ 🚵🏿‍♀️
+U	People & Body	person_cartwheeling	🤸	🤸🏻 🤸🏼 🤸🏽 🤸🏾 🤸🏿
+U	People & Body	man_cartwheeling	🤸‍♂️	🤸🏻‍♂️ 🤸🏼‍♂️ 🤸🏽‍♂️ 🤸🏾‍♂️ 🤸🏿‍♂️
+U	People & Body	woman_cartwheeling	🤸‍♀️	🤸🏻‍♀️ 🤸🏼‍♀️ 🤸🏽‍♀️ 🤸🏾‍♀️ 🤸🏿‍♀️
+U	People & Body	people_wrestling	🤼	🤼🏻 🤼🏼 🤼🏽 🤼🏾 🤼🏿
+U	People & Body	men_wrestling	🤼‍♂️	🤼🏻‍♂️ 🤼🏼‍♂️ 🤼🏽‍♂️ 🤼🏾‍♂️ 🤼🏿‍♂️
+U	People & Body	women_wrestling	🤼‍♀️	🤼🏻‍♀️ 🤼🏼‍♀️ 🤼🏽‍♀️ 🤼🏾‍♀️ 🤼🏿‍♀️
+U	People & Body	person_playing_water_polo	🤽	🤽🏻 🤽🏼 🤽🏽 🤽🏾 🤽🏿
+U	People & Body	man_playing_water_polo	🤽‍♂️	🤽🏻‍♂️ 🤽🏼‍♂️ 🤽🏽‍♂️ 🤽🏾‍♂️ 🤽🏿‍♂️
+U	People & Body	woman_playing_water_polo	🤽‍♀️	🤽🏻‍♀️ 🤽🏼‍♀️ 🤽🏽‍♀️ 🤽🏾‍♀️ 🤽🏿‍♀️
+U	People & Body	person_playing_handball	🤾	🤾🏻 🤾🏼 🤾🏽 🤾🏾 🤾🏿
+U	People & Body	man_playing_handball	🤾‍♂️	🤾🏻‍♂️ 🤾🏼‍♂️ 🤾🏽‍♂️ 🤾🏾‍♂️ 🤾🏿‍♂️
+U	People & Body	woman_playing_handball	🤾‍♀️	🤾🏻‍♀️ 🤾🏼‍♀️ 🤾🏽‍♀️ 🤾🏾‍♀️ 🤾🏿‍♀️
+U	People & Body	person_juggling	🤹	🤹🏻 🤹🏼 🤹🏽 🤹🏾 🤹🏿
+U	People & Body	man_juggling	🤹‍♂️	🤹🏻‍♂️ 🤹🏼‍♂️ 🤹🏽‍♂️ 🤹🏾‍♂️ 🤹🏿‍♂️
+U	People & Body	woman_juggling	🤹‍♀️	🤹🏻‍♀️ 🤹🏼‍♀️ 🤹🏽‍♀️ 🤹🏾‍♀️ 🤹🏿‍♀️
+U	People & Body	person_in_lotus_position	🧘	🧘🏻 🧘🏼 🧘🏽 🧘🏾 🧘🏿
+U	People & Body	man_in_lotus_position	🧘‍♂️	🧘🏻‍♂️ 🧘🏼‍♂️ 🧘🏽‍♂️ 🧘🏾‍♂️ 🧘🏿‍♂️
+U	People & Body	woman_in_lotus_position	🧘‍♀️	🧘🏻‍♀️ 🧘🏼‍♀️ 🧘🏽‍♀️ 🧘🏾‍♀️ 🧘🏿‍♀️
+U	People & Body	person_taking_bath	🛀	🛀🏻 🛀🏼 🛀🏽 🛀🏾 🛀🏿
+U	People & Body	person_in_bed	🛌	🛌🏻 🛌🏼 🛌🏽 🛌🏾 🛌🏿
+U	People & Body	people_holding_hands	🧑‍🤝‍🧑	🧑🏻‍🤝‍🧑🏻 🧑🏻‍🤝‍🧑🏼 🧑🏻‍🤝‍🧑🏽 🧑🏻‍🤝‍🧑🏾 🧑🏻‍🤝‍🧑🏿
+U	People & Body	women_holding_hands	👭	👭🏻 👭🏼 👭🏽 👭🏾 👭🏿
+U	People & Body	woman_and_man_holding_hands	👫	👫🏻 👫🏼 👫🏽 👫🏾 👫🏿
+U	People & Body	men_holding_hands	👬	👬🏻 👬🏼 👬🏽 👬🏾 👬🏿
+U	People & Body	kiss	💏	💏🏻 💏🏼 💏🏽 💏🏾 💏🏿
+U	People & Body	kiss_woman_man	👩‍❤️‍💋‍👨	👩🏻‍❤️‍💋‍👨🏻 👩🏻‍❤️‍💋‍👨🏼 👩🏻‍❤️‍💋‍👨🏽 👩🏻‍❤️‍💋‍👨🏾 👩🏻‍❤️‍💋‍👨🏿
+U	People & Body	kiss_man_man	👨‍❤️‍💋‍👨	👨🏻‍❤️‍💋‍👨🏻 👨🏻‍❤️‍💋‍👨🏼 👨🏻‍❤️‍💋‍👨🏽 👨🏻‍❤️‍💋‍👨🏾 👨🏻‍❤️‍💋‍👨🏿
+U	People & Body	kiss_woman_woman	👩‍❤️‍💋‍👩	👩🏻‍❤️‍💋‍👩🏻 👩🏻‍❤️‍💋‍👩🏼 👩🏻‍❤️‍💋‍👩🏽 👩🏻‍❤️‍💋‍👩🏾 👩🏻‍❤️‍💋‍👩🏿
+U	People & Body	couple_with_heart	💑	💑🏻 💑🏼 💑🏽 💑🏾 💑🏿
+U	People & Body	couple_with_heart_woman_man	👩‍❤️‍👨	👩🏻‍❤️‍👨🏻 👩🏻‍❤️‍👨🏼 👩🏻‍❤️‍👨🏽 👩🏻‍❤️‍👨🏾 👩🏻‍❤️‍👨🏿
+U	People & Body	couple_with_heart_man_man	👨‍❤️‍👨	👨🏻‍❤️‍👨🏻 👨🏻‍❤️‍👨🏼 👨🏻‍❤️‍👨🏽 👨🏻‍❤️‍👨🏾 👨🏻‍❤️‍👨🏿
+U	People & Body	couple_with_heart_woman_woman	👩‍❤️‍👩	👩🏻‍❤️‍👩🏻 👩🏻‍❤️‍👩🏼 👩🏻‍❤️‍👩🏽 👩🏻‍❤️‍👩🏾 👩🏻‍❤️‍👩🏿
+U	People & Body	family_man_woman_boy	👨‍👩‍👦
+U	People & Body	family_man_woman_girl	👨‍👩‍👧
+U	People & Body	family_man_woman_girl_boy	👨‍👩‍👧‍👦
+U	People & Body	family_man_woman_boy_boy	👨‍👩‍👦‍👦
+U	People & Body	family_man_woman_girl_girl	👨‍👩‍👧‍👧
+U	People & Body	family_man_man_boy	👨‍👨‍👦
+U	People & Body	family_man_man_girl	👨‍👨‍👧
+U	People & Body	family_man_man_girl_boy	👨‍👨‍👧‍👦
+U	People & Body	family_man_man_boy_boy	👨‍👨‍👦‍👦
+U	People & Body	family_man_man_girl_girl	👨‍👨‍👧‍👧
+U	People & Body	family_woman_woman_boy	👩‍👩‍👦
+U	People & Body	family_woman_woman_girl	👩‍👩‍👧
+U	People & Body	family_woman_woman_girl_boy	👩‍👩‍👧‍👦
+U	People & Body	family_woman_woman_boy_boy	👩‍👩‍👦‍👦
+U	People & Body	family_woman_woman_girl_girl	👩‍👩‍👧‍👧
+U	People & Body	family_man_boy	👨‍👦
+U	People & Body	family_man_boy_boy	👨‍👦‍👦
+U	People & Body	family_man_girl	👨‍👧
+U	People & Body	family_man_girl_boy	👨‍👧‍👦
+U	People & Body	family_man_girl_girl	👨‍👧‍👧
+U	People & Body	family_woman_boy	👩‍👦
+U	People & Body	family_woman_boy_boy	👩‍👦‍👦
+U	People & Body	family_woman_girl	👩‍👧
+U	People & Body	family_woman_girl_boy	👩‍👧‍👦
+U	People & Body	family_woman_girl_girl	👩‍👧‍👧
+U	People & Body	speaking_head	🗣️
+U	People & Body	bust_in_silhouette	👤
+U	People & Body	busts_in_silhouette	👥
+U	People & Body	people_hugging	🫂
+U	People & Body	family	👪
+U	People & Body	family_adult_adult_child	🧑‍🧑‍🧒
+U	People & Body	family_adult_adult_child_child	🧑‍🧑‍🧒‍🧒
+U	People & Body	family_adult_child	🧑‍🧒
+U	People & Body	family_adult_child_child	🧑‍🧒‍🧒
+U	People & Body	footprints	👣
+U	People & Body	fingerprint	🫆
+U	Component	red_hair	🦰
+U	Component	curly_hair	🦱
+U	Component	white_hair	🦳
+U	Component	bald	🦲
+U	Animals & Nature	monkey_face	🐵
+U	Animals & Nature	monkey	🐒
+U	Animals & Nature	gorilla	🦍
+U	Animals & Nature	orangutan	🦧
+U	Animals & Nature	dog_face	🐶
+U	Animals & Nature	dog	🐕
+U	Animals & Nature	guide_dog	🦮
+U	Animals & Nature	service_dog	🐕‍🦺
+U	Animals & Nature	poodle	🐩
+U	Animals & Nature	wolf	🐺
+U	Animals & Nature	fox	🦊
+U	Animals & Nature	raccoon	🦝
+U	Animals & Nature	cat_face	🐱
+U	Animals & Nature	cat	🐈
+U	Animals & Nature	black_cat	🐈‍⬛
+U	Animals & Nature	lion	🦁
+U	Animals & Nature	tiger_face	🐯
+U	Animals & Nature	tiger	🐅
+U	Animals & Nature	leopard	🐆
+U	Animals & Nature	horse_face	🐴
+U	Animals & Nature	moose	🫎
+U	Animals & Nature	donkey	🫏
+U	Animals & Nature	horse	🐎
+U	Animals & Nature	unicorn	🦄
+U	Animals & Nature	zebra	🦓
+U	Animals & Nature	deer	🦌
+U	Animals & Nature	bison	🦬
+U	Animals & Nature	cow_face	🐮
+U	Animals & Nature	ox	🐂
+U	Animals & Nature	water_buffalo	🐃
+U	Animals & Nature	cow	🐄
+U	Animals & Nature	pig_face	🐷
+U	Animals & Nature	pig	🐖
+U	Animals & Nature	boar	🐗
+U	Animals & Nature	pig_nose	🐽
+U	Animals & Nature	ram	🐏
+U	Animals & Nature	ewe	🐑
+U	Animals & Nature	goat	🐐
+U	Animals & Nature	camel	🐪
+U	Animals & Nature	two_hump_camel	🐫
+U	Animals & Nature	llama	🦙
+U	Animals & Nature	giraffe	🦒
+U	Animals & Nature	elephant	🐘
+U	Animals & Nature	mammoth	🦣
+U	Animals & Nature	rhinoceros	🦏
+U	Animals & Nature	hippopotamus	🦛
+U	Animals & Nature	mouse_face	🐭
+U	Animals & Nature	mouse	🐁
+U	Animals & Nature	rat	🐀
+U	Animals & Nature	hamster	🐹
+U	Animals & Nature	rabbit_face	🐰
+U	Animals & Nature	rabbit	🐇
+U	Animals & Nature	chipmunk	🐿️
+U	Animals & Nature	beaver	🦫
+U	Animals & Nature	hedgehog	🦔
+U	Animals & Nature	bat	🦇
+U	Animals & Nature	bear	🐻
+U	Animals & Nature	polar_bear	🐻‍❄️
+U	Animals & Nature	koala	🐨
+U	Animals & Nature	panda	🐼
+U	Animals & Nature	sloth	🦥
+U	Animals & Nature	otter	🦦
+U	Animals & Nature	skunk	🦨
+U	Animals & Nature	kangaroo	🦘
+U	Animals & Nature	badger	🦡
+U	Animals & Nature	paw_prints	🐾
+U	Animals & Nature	turkey	🦃
+U	Animals & Nature	chicken	🐔
+U	Animals & Nature	rooster	🐓
+U	Animals & Nature	hatching_chick	🐣
+U	Animals & Nature	baby_chick	🐤
+U	Animals & Nature	front_facing_baby_chick	🐥
+U	Animals & Nature	bird	🐦
+U	Animals & Nature	penguin	🐧
+U	Animals & Nature	dove	🕊️
+U	Animals & Nature	eagle	🦅
+U	Animals & Nature	duck	🦆
+U	Animals & Nature	swan	🦢
+U	Animals & Nature	owl	🦉
+U	Animals & Nature	dodo	🦤
+U	Animals & Nature	feather	🪶
+U	Animals & Nature	flamingo	🦩
+U	Animals & Nature	peacock	🦚
+U	Animals & Nature	parrot	🦜
+U	Animals & Nature	wing	🪽
+U	Animals & Nature	black_bird	🐦‍⬛
+U	Animals & Nature	goose	🪿
+U	Animals & Nature	phoenix	🐦‍🔥
+U	Animals & Nature	frog	🐸
+U	Animals & Nature	crocodile	🐊
+U	Animals & Nature	turtle	🐢
+U	Animals & Nature	lizard	🦎
+U	Animals & Nature	snake	🐍
+U	Animals & Nature	dragon_face	🐲
+U	Animals & Nature	dragon	🐉
+U	Animals & Nature	sauropod	🦕
+U	Animals & Nature	t_rex	🦖
+U	Animals & Nature	spouting_whale	🐳
+U	Animals & Nature	whale	🐋
+U	Animals & Nature	dolphin	🐬
+U	Animals & Nature	orca	🫍
+U	Animals & Nature	seal	🦭
+U	Animals & Nature	fish	🐟
+U	Animals & Nature	tropical_fish	🐠
+U	Animals & Nature	blowfish	🐡
+U	Animals & Nature	shark	🦈
+U	Animals & Nature	octopus	🐙
+U	Animals & Nature	spiral_shell	🐚
+U	Animals & Nature	coral	🪸
+U	Animals & Nature	jellyfish	🪼
+U	Animals & Nature	crab	🦀
+U	Animals & Nature	lobster	🦞
+U	Animals & Nature	shrimp	🦐
+U	Animals & Nature	squid	🦑
+U	Animals & Nature	oyster	🦪
+U	Animals & Nature	snail	🐌
+U	Animals & Nature	butterfly	🦋
+U	Animals & Nature	bug	🐛
+U	Animals & Nature	ant	🐜
+U	Animals & Nature	honeybee	🐝
+U	Animals & Nature	beetle	🪲
+U	Animals & Nature	lady_beetle	🐞
+U	Animals & Nature	cricket	🦗
+U	Animals & Nature	cockroach	🪳
+U	Animals & Nature	spider	🕷️
+U	Animals & Nature	spider_web	🕸️
+U	Animals & Nature	scorpion	🦂
+U	Animals & Nature	mosquito	🦟
+U	Animals & Nature	fly	🪰
+U	Animals & Nature	worm	🪱
+U	Animals & Nature	microbe	🦠
+U	Animals & Nature	bouquet	💐
+U	Animals & Nature	cherry_blossom	🌸
+U	Animals & Nature	white_flower	💮
+U	Animals & Nature	lotus	🪷
+U	Animals & Nature	rosette	🏵️
+U	Animals & Nature	rose	🌹
+U	Animals & Nature	wilted_flower	🥀
+U	Animals & Nature	hibiscus	🌺
+U	Animals & Nature	sunflower	🌻
+U	Animals & Nature	blossom	🌼
+U	Animals & Nature	tulip	🌷
+U	Animals & Nature	hyacinth	🪻
+U	Animals & Nature	seedling	🌱
+U	Animals & Nature	potted_plant	🪴
+U	Animals & Nature	evergreen_tree	🌲
+U	Animals & Nature	deciduous_tree	🌳
+U	Animals & Nature	palm_tree	🌴
+U	Animals & Nature	cactus	🌵
+U	Animals & Nature	sheaf_of_rice	🌾
+U	Animals & Nature	herb	🌿
+U	Animals & Nature	shamrock	☘️
+U	Animals & Nature	four_leaf_clover	🍀
+U	Animals & Nature	maple_leaf	🍁
+U	Animals & Nature	fallen_leaf	🍂
+U	Animals & Nature	leaf_fluttering_in_wind	🍃
+U	Animals & Nature	empty_nest	🪹
+U	Animals & Nature	nest_with_eggs	🪺
+U	Animals & Nature	mushroom	🍄
+U	Animals & Nature	leafless_tree	🪾
+U	Food & Drink	grapes	🍇
+U	Food & Drink	melon	🍈
+U	Food & Drink	watermelon	🍉
+U	Food & Drink	tangerine	🍊
+U	Food & Drink	lemon	🍋
+U	Food & Drink	lime	🍋‍🟩
+U	Food & Drink	banana	🍌
+U	Food & Drink	pineapple	🍍
+U	Food & Drink	mango	🥭
+U	Food & Drink	red_apple	🍎
+U	Food & Drink	green_apple	🍏
+U	Food & Drink	pear	🍐
+U	Food & Drink	peach	🍑
+U	Food & Drink	cherries	🍒
+U	Food & Drink	strawberry	🍓
+U	Food & Drink	blueberries	🫐
+U	Food & Drink	kiwi_fruit	🥝
+U	Food & Drink	tomato	🍅
+U	Food & Drink	olive	🫒
+U	Food & Drink	coconut	🥥
+U	Food & Drink	avocado	🥑
+U	Food & Drink	eggplant	🍆
+U	Food & Drink	potato	🥔
+U	Food & Drink	carrot	🥕
+U	Food & Drink	ear_of_corn	🌽
+U	Food & Drink	hot_pepper	🌶️
+U	Food & Drink	bell_pepper	🫑
+U	Food & Drink	cucumber	🥒
+U	Food & Drink	leafy_green	🥬
+U	Food & Drink	broccoli	🥦
+U	Food & Drink	garlic	🧄
+U	Food & Drink	onion	🧅
+U	Food & Drink	peanuts	🥜
+U	Food & Drink	beans	🫘
+U	Food & Drink	chestnut	🌰
+U	Food & Drink	ginger_root	🫚
+U	Food & Drink	pea_pod	🫛
+U	Food & Drink	brown_mushroom	🍄‍🟫
+U	Food & Drink	root_vegetable	🫜
+U	Food & Drink	bread	🍞
+U	Food & Drink	croissant	🥐
+U	Food & Drink	baguette_bread	🥖
+U	Food & Drink	flatbread	🫓
+U	Food & Drink	pretzel	🥨
+U	Food & Drink	bagel	🥯
+U	Food & Drink	pancakes	🥞
+U	Food & Drink	waffle	🧇
+U	Food & Drink	cheese_wedge	🧀
+U	Food & Drink	meat_on_bone	🍖
+U	Food & Drink	poultry_leg	🍗
+U	Food & Drink	cut_of_meat	🥩
+U	Food & Drink	bacon	🥓
+U	Food & Drink	hamburger	🍔
+U	Food & Drink	french_fries	🍟
+U	Food & Drink	pizza	🍕
+U	Food & Drink	hot_dog	🌭
+U	Food & Drink	sandwich	🥪
+U	Food & Drink	taco	🌮
+U	Food & Drink	burrito	🌯
+U	Food & Drink	tamale	🫔
+U	Food & Drink	stuffed_flatbread	🥙
+U	Food & Drink	falafel	🧆
+U	Food & Drink	egg	🥚
+U	Food & Drink	cooking	🍳
+U	Food & Drink	shallow_pan_of_food	🥘
+U	Food & Drink	pot_of_food	🍲
+U	Food & Drink	fondue	🫕
+U	Food & Drink	bowl_with_spoon	🥣
+U	Food & Drink	green_salad	🥗
+U	Food & Drink	popcorn	🍿
+U	Food & Drink	butter	🧈
+U	Food & Drink	salt	🧂
+U	Food & Drink	canned_food	🥫
+U	Food & Drink	bento_box	🍱
+U	Food & Drink	rice_cracker	🍘
+U	Food & Drink	rice_ball	🍙
+U	Food & Drink	cooked_rice	🍚
+U	Food & Drink	curry_rice	🍛
+U	Food & Drink	steaming_bowl	🍜
+U	Food & Drink	spaghetti	🍝
+U	Food & Drink	roasted_sweet_potato	🍠
+U	Food & Drink	oden	🍢
+U	Food & Drink	sushi	🍣
+U	Food & Drink	fried_shrimp	🍤
+U	Food & Drink	fish_cake_with_swirl	🍥
+U	Food & Drink	moon_cake	🥮
+U	Food & Drink	dango	🍡
+U	Food & Drink	dumpling	🥟
+U	Food & Drink	fortune_cookie	🥠
+U	Food & Drink	takeout_box	🥡
+U	Food & Drink	soft_ice_cream	🍦
+U	Food & Drink	shaved_ice	🍧
+U	Food & Drink	ice_cream	🍨
+U	Food & Drink	doughnut	🍩
+U	Food & Drink	cookie	🍪
+U	Food & Drink	birthday_cake	🎂
+U	Food & Drink	shortcake	🍰
+U	Food & Drink	cupcake	🧁
+U	Food & Drink	pie	🥧
+U	Food & Drink	chocolate_bar	🍫
+U	Food & Drink	candy	🍬
+U	Food & Drink	lollipop	🍭
+U	Food & Drink	custard	🍮
+U	Food & Drink	honey_pot	🍯
+U	Food & Drink	baby_bottle	🍼
+U	Food & Drink	glass_of_milk	🥛
+U	Food & Drink	hot_beverage	☕
+U	Food & Drink	teapot	🫖
+U	Food & Drink	teacup_without_handle	🍵
+U	Food & Drink	sake	🍶
+U	Food & Drink	bottle_with_popping_cork	🍾
+U	Food & Drink	wine_glass	🍷
+U	Food & Drink	cocktail_glass	🍸
+U	Food & Drink	tropical_drink	🍹
+U	Food & Drink	beer_mug	🍺
+U	Food & Drink	clinking_beer_mugs	🍻
+U	Food & Drink	clinking_glasses	🥂
+U	Food & Drink	tumbler_glass	🥃
+U	Food & Drink	pouring_liquid	🫗
+U	Food & Drink	cup_with_straw	🥤
+U	Food & Drink	bubble_tea	🧋
+U	Food & Drink	beverage_box	🧃
+U	Food & Drink	mate	🧉
+U	Food & Drink	ice	🧊
+U	Food & Drink	chopsticks	🥢
+U	Food & Drink	fork_and_knife_with_plate	🍽️
+U	Food & Drink	fork_and_knife	🍴
+U	Food & Drink	spoon	🥄
+U	Food & Drink	kitchen_knife	🔪
+U	Food & Drink	jar	🫙
+U	Food & Drink	amphora	🏺
+U	Travel & Places	globe_showing_europe_africa	🌍
+U	Travel & Places	globe_showing_americas	🌎
+U	Travel & Places	globe_showing_asia_australia	🌏
+U	Travel & Places	globe_with_meridians	🌐
+U	Travel & Places	world_map	🗺️
+U	Travel & Places	map_of_japan	🗾
+U	Travel & Places	compass	🧭
+U	Travel & Places	snow_capped_mountain	🏔️
+U	Travel & Places	mountain	⛰️
+U	Travel & Places	landslide	🛘
+U	Travel & Places	volcano	🌋
+U	Travel & Places	mount_fuji	🗻
+U	Travel & Places	camping	🏕️
+U	Travel & Places	beach_with_umbrella	🏖️
+U	Travel & Places	desert	🏜️
+U	Travel & Places	desert_island	🏝️
+U	Travel & Places	national_park	🏞️
+U	Travel & Places	stadium	🏟️
+U	Travel & Places	classical_building	🏛️
+U	Travel & Places	building_construction	🏗️
+U	Travel & Places	brick	🧱
+U	Travel & Places	rock	🪨
+U	Travel & Places	wood	🪵
+U	Travel & Places	hut	🛖
+U	Travel & Places	houses	🏘️
+U	Travel & Places	derelict_house	🏚️
+U	Travel & Places	house	🏠
+U	Travel & Places	house_with_garden	🏡
+U	Travel & Places	office_building	🏢
+U	Travel & Places	japanese_post_office	🏣
+U	Travel & Places	post_office	🏤
+U	Travel & Places	hospital	🏥
+U	Travel & Places	bank	🏦
+U	Travel & Places	hotel	🏨
+U	Travel & Places	love_hotel	🏩
+U	Travel & Places	convenience_store	🏪
+U	Travel & Places	school	🏫
+U	Travel & Places	department_store	🏬
+U	Travel & Places	factory	🏭
+U	Travel & Places	japanese_castle	🏯
+U	Travel & Places	castle	🏰
+U	Travel & Places	wedding	💒
+U	Travel & Places	tokyo_tower	🗼
+U	Travel & Places	statue_of_liberty	🗽
+U	Travel & Places	church	⛪
+U	Travel & Places	mosque	🕌
+U	Travel & Places	hindu_temple	🛕
+U	Travel & Places	synagogue	🕍
+U	Travel & Places	shinto_shrine	⛩️
+U	Travel & Places	kaaba	🕋
+U	Travel & Places	fountain	⛲
+U	Travel & Places	tent	⛺
+U	Travel & Places	foggy	🌁
+U	Travel & Places	night_with_stars	🌃
+U	Travel & Places	cityscape	🏙️
+U	Travel & Places	sunrise_over_mountains	🌄
+U	Travel & Places	sunrise	🌅
+U	Travel & Places	cityscape_at_dusk	🌆
+U	Travel & Places	sunset	🌇
+U	Travel & Places	bridge_at_night	🌉
+U	Travel & Places	hot_springs	♨️
+U	Travel & Places	carousel_horse	🎠
+U	Travel & Places	playground_slide	🛝
+U	Travel & Places	ferris_wheel	🎡
+U	Travel & Places	roller_coaster	🎢
+U	Travel & Places	barber_pole	💈
+U	Travel & Places	circus_tent	🎪
+U	Travel & Places	locomotive	🚂
+U	Travel & Places	railway_car	🚃
+U	Travel & Places	high_speed_train	🚄
+U	Travel & Places	bullet_train	🚅
+U	Travel & Places	train	🚆
+U	Travel & Places	metro	🚇
+U	Travel & Places	light_rail	🚈
+U	Travel & Places	station	🚉
+U	Travel & Places	tram	🚊
+U	Travel & Places	monorail	🚝
+U	Travel & Places	mountain_railway	🚞
+U	Travel & Places	tram_car	🚋
+U	Travel & Places	bus	🚌
+U	Travel & Places	oncoming_bus	🚍
+U	Travel & Places	trolleybus	🚎
+U	Travel & Places	minibus	🚐
+U	Travel & Places	ambulance	🚑
+U	Travel & Places	fire_engine	🚒
+U	Travel & Places	police_car	🚓
+U	Travel & Places	oncoming_police_car	🚔
+U	Travel & Places	taxi	🚕
+U	Travel & Places	oncoming_taxi	🚖
+U	Travel & Places	automobile	🚗
+U	Travel & Places	oncoming_automobile	🚘
+U	Travel & Places	sport_utility_vehicle	🚙
+U	Travel & Places	pickup_truck	🛻
+U	Travel & Places	delivery_truck	🚚
+U	Travel & Places	articulated_lorry	🚛
+U	Travel & Places	tractor	🚜
+U	Travel & Places	racing_car	🏎️
+U	Travel & Places	motorcycle	🏍️
+U	Travel & Places	motor_scooter	🛵
+U	Travel & Places	manual_wheelchair	🦽
+U	Travel & Places	motorized_wheelchair	🦼
+U	Travel & Places	auto_rickshaw	🛺
+U	Travel & Places	bicycle	🚲
+U	Travel & Places	kick_scooter	🛴
+U	Travel & Places	skateboard	🛹
+U	Travel & Places	roller_skate	🛼
+U	Travel & Places	bus_stop	🚏
+U	Travel & Places	motorway	🛣️
+U	Travel & Places	railway_track	🛤️
+U	Travel & Places	oil_drum	🛢️
+U	Travel & Places	fuel_pump	⛽
+U	Travel & Places	wheel	🛞
+U	Travel & Places	police_car_light	🚨
+U	Travel & Places	horizontal_traffic_light	🚥
+U	Travel & Places	vertical_traffic_light	🚦
+U	Travel & Places	stop_sign	🛑
+U	Travel & Places	construction	🚧
+U	Travel & Places	anchor	⚓
+U	Travel & Places	ring_buoy	🛟
+U	Travel & Places	sailboat	⛵
+U	Travel & Places	canoe	🛶
+U	Travel & Places	speedboat	🚤
+U	Travel & Places	passenger_ship	🛳️
+U	Travel & Places	ferry	⛴️
+U	Travel & Places	motor_boat	🛥️
+U	Travel & Places	ship	🚢
+U	Travel & Places	airplane	✈️
+U	Travel & Places	small_airplane	🛩️
+U	Travel & Places	airplane_departure	🛫
+U	Travel & Places	airplane_arrival	🛬
+U	Travel & Places	parachute	🪂
+U	Travel & Places	seat	💺
+U	Travel & Places	helicopter	🚁
+U	Travel & Places	suspension_railway	🚟
+U	Travel & Places	mountain_cableway	🚠
+U	Travel & Places	aerial_tramway	🚡
+U	Travel & Places	satellite	🛰️
+U	Travel & Places	rocket	🚀
+U	Travel & Places	flying_saucer	🛸
+U	Travel & Places	bellhop_bell	🛎️
+U	Travel & Places	luggage	🧳
+U	Travel & Places	hourglass_done	⌛
+U	Travel & Places	hourglass_not_done	⏳
+U	Travel & Places	watch	⌚
+U	Travel & Places	alarm_clock	⏰
+U	Travel & Places	stopwatch	⏱️
+U	Travel & Places	timer_clock	⏲️
+U	Travel & Places	mantelpiece_clock	🕰️
+U	Travel & Places	twelve_o_clock	🕛
+U	Travel & Places	twelve_thirty	🕧
+U	Travel & Places	one_o_clock	🕐
+U	Travel & Places	one_thirty	🕜
+U	Travel & Places	two_o_clock	🕑
+U	Travel & Places	two_thirty	🕝
+U	Travel & Places	three_o_clock	🕒
+U	Travel & Places	three_thirty	🕞
+U	Travel & Places	four_o_clock	🕓
+U	Travel & Places	four_thirty	🕟
+U	Travel & Places	five_o_clock	🕔
+U	Travel & Places	five_thirty	🕠
+U	Travel & Places	six_o_clock	🕕
+U	Travel & Places	six_thirty	🕡
+U	Travel & Places	seven_o_clock	🕖
+U	Travel & Places	seven_thirty	🕢
+U	Travel & Places	eight_o_clock	🕗
+U	Travel & Places	eight_thirty	🕣
+U	Travel & Places	nine_o_clock	🕘
+U	Travel & Places	nine_thirty	🕤
+U	Travel & Places	ten_o_clock	🕙
+U	Travel & Places	ten_thirty	🕥
+U	Travel & Places	eleven_o_clock	🕚
+U	Travel & Places	eleven_thirty	🕦
+U	Travel & Places	new_moon	🌑
+U	Travel & Places	waxing_crescent_moon	🌒
+U	Travel & Places	first_quarter_moon	🌓
+U	Travel & Places	waxing_gibbous_moon	🌔
+U	Travel & Places	full_moon	🌕
+U	Travel & Places	waning_gibbous_moon	🌖
+U	Travel & Places	last_quarter_moon	🌗
+U	Travel & Places	waning_crescent_moon	🌘
+U	Travel & Places	crescent_moon	🌙
+U	Travel & Places	new_moon_face	🌚
+U	Travel & Places	first_quarter_moon_face	🌛
+U	Travel & Places	last_quarter_moon_face	🌜
+U	Travel & Places	thermometer	🌡️
+U	Travel & Places	sun	☀️
+U	Travel & Places	full_moon_face	🌝
+U	Travel & Places	sun_with_face	🌞
+U	Travel & Places	ringed_planet	🪐
+U	Travel & Places	star	⭐
+U	Travel & Places	glowing_star	🌟
+U	Travel & Places	shooting_star	🌠
+U	Travel & Places	milky_way	🌌
+U	Travel & Places	cloud	☁️
+U	Travel & Places	sun_behind_cloud	⛅
+U	Travel & Places	cloud_with_lightning_and_rain	⛈️
+U	Travel & Places	sun_behind_small_cloud	🌤️
+U	Travel & Places	sun_behind_large_cloud	🌥️
+U	Travel & Places	sun_behind_rain_cloud	🌦️
+U	Travel & Places	cloud_with_rain	🌧️
+U	Travel & Places	cloud_with_snow	🌨️
+U	Travel & Places	cloud_with_lightning	🌩️
+U	Travel & Places	tornado	🌪️
+U	Travel & Places	fog	🌫️
+U	Travel & Places	wind_face	🌬️
+U	Travel & Places	cyclone	🌀
+U	Travel & Places	rainbow	🌈
+U	Travel & Places	closed_umbrella	🌂
+U	Travel & Places	umbrella	☂️
+U	Travel & Places	umbrella_with_rain_drops	☔
+U	Travel & Places	umbrella_on_ground	⛱️
+U	Travel & Places	high_voltage	⚡
+U	Travel & Places	snowflake	❄️
+U	Travel & Places	snowman	☃️
+U	Travel & Places	snowman_without_snow	⛄
+U	Travel & Places	comet	☄️
+U	Travel & Places	fire	🔥
+U	Travel & Places	droplet	💧
+U	Travel & Places	water_wave	🌊
+U	Activities	jack_o_lantern	🎃
+U	Activities	christmas_tree	🎄
+U	Activities	fireworks	🎆
+U	Activities	sparkler	🎇
+U	Activities	firecracker	🧨
+U	Activities	sparkles	✨
+U	Activities	balloon	🎈
+U	Activities	party_popper	🎉
+U	Activities	confetti_ball	🎊
+U	Activities	tanabata_tree	🎋
+U	Activities	pine_decoration	🎍
+U	Activities	japanese_dolls	🎎
+U	Activities	carp_streamer	🎏
+U	Activities	wind_chime	🎐
+U	Activities	moon_viewing_ceremony	🎑
+U	Activities	red_envelope	🧧
+U	Activities	ribbon	🎀
+U	Activities	wrapped_gift	🎁
+U	Activities	reminder_ribbon	🎗️
+U	Activities	admission_tickets	🎟️
+U	Activities	ticket	🎫
+U	Activities	military_medal	🎖️
+U	Activities	trophy	🏆
+U	Activities	sports_medal	🏅
+U	Activities	1st_place_medal	🥇
+U	Activities	2nd_place_medal	🥈
+U	Activities	3rd_place_medal	🥉
+U	Activities	soccer_ball	⚽
+U	Activities	baseball	⚾
+U	Activities	softball	🥎
+U	Activities	basketball	🏀
+U	Activities	volleyball	🏐
+U	Activities	american_football	🏈
+U	Activities	rugby_football	🏉
+U	Activities	tennis	🎾
+U	Activities	flying_disc	🥏
+U	Activities	bowling	🎳
+U	Activities	cricket_game	🏏
+U	Activities	field_hockey	🏑
+U	Activities	ice_hockey	🏒
+U	Activities	lacrosse	🥍
+U	Activities	ping_pong	🏓
+U	Activities	badminton	🏸
+U	Activities	boxing_glove	🥊
+U	Activities	martial_arts_uniform	🥋
+U	Activities	goal_net	🥅
+U	Activities	flag_in_hole	⛳
+U	Activities	ice_skate	⛸️
+U	Activities	fishing_pole	🎣
+U	Activities	diving_mask	🤿
+U	Activities	running_shirt	🎽
+U	Activities	skis	🎿
+U	Activities	sled	🛷
+U	Activities	curling_stone	🥌
+U	Activities	bullseye	🎯
+U	Activities	yo_yo	🪀
+U	Activities	kite	🪁
+U	Activities	water_pistol	🔫
+U	Activities	pool_8_ball	🎱
+U	Activities	crystal_ball	🔮
+U	Activities	magic_wand	🪄
+U	Activities	video_game	🎮
+U	Activities	joystick	🕹️
+U	Activities	slot_machine	🎰
+U	Activities	game_die	🎲
+U	Activities	puzzle_piece	🧩
+U	Activities	teddy_bear	🧸
+U	Activities	pinata	🪅
+U	Activities	mirror_ball	🪩
+U	Activities	nesting_dolls	🪆
+U	Activities	spade_suit	♠️
+U	Activities	heart_suit	♥️
+U	Activities	diamond_suit	♦️
+U	Activities	club_suit	♣️
+U	Activities	chess_pawn	♟️
+U	Activities	joker	🃏
+U	Activities	mahjong_red_dragon	🀄
+U	Activities	flower_playing_cards	🎴
+U	Activities	performing_arts	🎭
+U	Activities	framed_picture	🖼️
+U	Activities	artist_palette	🎨
+U	Activities	thread	🧵
+U	Activities	sewing_needle	🪡
+U	Activities	yarn	🧶
+U	Activities	knot	🪢
+U	Objects	glasses	👓
+U	Objects	sunglasses	🕶️
+U	Objects	goggles	🥽
+U	Objects	lab_coat	🥼
+U	Objects	safety_vest	🦺
+U	Objects	necktie	👔
+U	Objects	t_shirt	👕
+U	Objects	jeans	👖
+U	Objects	scarf	🧣
+U	Objects	gloves	🧤
+U	Objects	coat	🧥
+U	Objects	socks	🧦
+U	Objects	dress	👗
+U	Objects	kimono	👘
+U	Objects	sari	🥻
+U	Objects	one_piece_swimsuit	🩱
+U	Objects	briefs	🩲
+U	Objects	shorts	🩳
+U	Objects	bikini	👙
+U	Objects	womans_clothes	👚
+U	Objects	folding_hand_fan	🪭
+U	Objects	purse	👛
+U	Objects	handbag	👜
+U	Objects	clutch_bag	👝
+U	Objects	shopping_bags	🛍️
+U	Objects	backpack	🎒
+U	Objects	thong_sandal	🩴
+U	Objects	mans_shoe	👞
+U	Objects	running_shoe	👟
+U	Objects	hiking_boot	🥾
+U	Objects	flat_shoe	🥿
+U	Objects	high_heeled_shoe	👠
+U	Objects	womans_sandal	👡
+U	Objects	ballet_shoes	🩰
+U	Objects	womans_boot	👢
+U	Objects	hair_pick	🪮
+U	Objects	crown	👑
+U	Objects	womans_hat	👒
+U	Objects	top_hat	🎩
+U	Objects	graduation_cap	🎓
+U	Objects	billed_cap	🧢
+U	Objects	military_helmet	🪖
+U	Objects	rescue_workers_helmet	⛑️
+U	Objects	prayer_beads	📿
+U	Objects	lipstick	💄
+U	Objects	ring	💍
+U	Objects	gem_stone	💎
+U	Objects	muted_speaker	🔇
+U	Objects	speaker_low_volume	🔈
+U	Objects	speaker_medium_volume	🔉
+U	Objects	speaker_high_volume	🔊
+U	Objects	loudspeaker	📢
+U	Objects	megaphone	📣
+U	Objects	postal_horn	📯
+U	Objects	bell	🔔
+U	Objects	bell_with_slash	🔕
+U	Objects	musical_score	🎼
+U	Objects	musical_note	🎵
+U	Objects	musical_notes	🎶
+U	Objects	studio_microphone	🎙️
+U	Objects	level_slider	🎚️
+U	Objects	control_knobs	🎛️
+U	Objects	microphone	🎤
+U	Objects	headphone	🎧
+U	Objects	radio	📻
+U	Objects	saxophone	🎷
+U	Objects	trumpet	🎺
+U	Objects	trombone	🪊
+U	Objects	accordion	🪗
+U	Objects	guitar	🎸
+U	Objects	musical_keyboard	🎹
+U	Objects	violin	🎻
+U	Objects	banjo	🪕
+U	Objects	drum	🥁
+U	Objects	long_drum	🪘
+U	Objects	maracas	🪇
+U	Objects	flute	🪈
+U	Objects	harp	🪉
+U	Objects	mobile_phone	📱
+U	Objects	mobile_phone_with_arrow	📲
+U	Objects	telephone	☎️
+U	Objects	telephone_receiver	📞
+U	Objects	pager	📟
+U	Objects	fax_machine	📠
+U	Objects	battery	🔋
+U	Objects	low_battery	🪫
+U	Objects	electric_plug	🔌
+U	Objects	laptop	💻
+U	Objects	desktop_computer	🖥️
+U	Objects	printer	🖨️
+U	Objects	keyboard	⌨️
+U	Objects	computer_mouse	🖱️
+U	Objects	trackball	🖲️
+U	Objects	computer_disk	💽
+U	Objects	floppy_disk	💾
+U	Objects	optical_disk	💿
+U	Objects	dvd	📀
+U	Objects	abacus	🧮
+U	Objects	movie_camera	🎥
+U	Objects	film_frames	🎞️
+U	Objects	film_projector	📽️
+U	Objects	clapper_board	🎬
+U	Objects	television	📺
+U	Objects	camera	📷
+U	Objects	camera_with_flash	📸
+U	Objects	video_camera	📹
+U	Objects	videocassette	📼
+U	Objects	magnifying_glass_tilted_left	🔍
+U	Objects	magnifying_glass_tilted_right	🔎
+U	Objects	candle	🕯️
+U	Objects	light_bulb	💡
+U	Objects	flashlight	🔦
+U	Objects	red_paper_lantern	🏮
+U	Objects	diya_lamp	🪔
+U	Objects	notebook_with_decorative_cover	📔
+U	Objects	closed_book	📕
+U	Objects	open_book	📖
+U	Objects	green_book	📗
+U	Objects	blue_book	📘
+U	Objects	orange_book	📙
+U	Objects	books	📚
+U	Objects	notebook	📓
+U	Objects	ledger	📒
+U	Objects	page_with_curl	📃
+U	Objects	scroll	📜
+U	Objects	page_facing_up	📄
+U	Objects	newspaper	📰
+U	Objects	rolled_up_newspaper	🗞️
+U	Objects	bookmark_tabs	📑
+U	Objects	bookmark	🔖
+U	Objects	label	🏷️
+U	Objects	coin	🪙
+U	Objects	money_bag	💰
+U	Objects	treasure_chest	🪎
+U	Objects	yen_banknote	💴
+U	Objects	dollar_banknote	💵
+U	Objects	euro_banknote	💶
+U	Objects	pound_banknote	💷
+U	Objects	money_with_wings	💸
+U	Objects	credit_card	💳
+U	Objects	receipt	🧾
+U	Objects	chart_increasing_with_yen	💹
+U	Objects	envelope	✉️
+U	Objects	e_mail	📧
+U	Objects	incoming_envelope	📨
+U	Objects	envelope_with_arrow	📩
+U	Objects	outbox_tray	📤
+U	Objects	inbox_tray	📥
+U	Objects	package	📦
+U	Objects	closed_mailbox_with_raised_flag	📫
+U	Objects	closed_mailbox_with_lowered_flag	📪
+U	Objects	open_mailbox_with_raised_flag	📬
+U	Objects	open_mailbox_with_lowered_flag	📭
+U	Objects	postbox	📮
+U	Objects	ballot_box_with_ballot	🗳️
+U	Objects	pencil	✏️
+U	Objects	black_nib	✒️
+U	Objects	fountain_pen	🖋️
+U	Objects	pen	🖊️
+U	Objects	paintbrush	🖌️
+U	Objects	crayon	🖍️
+U	Objects	memo	📝
+U	Objects	briefcase	💼
+U	Objects	file_folder	📁
+U	Objects	open_file_folder	📂
+U	Objects	card_index_dividers	🗂️
+U	Objects	calendar	📅
+U	Objects	tear_off_calendar	📆
+U	Objects	spiral_notepad	🗒️
+U	Objects	spiral_calendar	🗓️
+U	Objects	card_index	📇
+U	Objects	chart_increasing	📈
+U	Objects	chart_decreasing	📉
+U	Objects	bar_chart	📊
+U	Objects	clipboard	📋
+U	Objects	pushpin	📌
+U	Objects	round_pushpin	📍
+U	Objects	paperclip	📎
+U	Objects	linked_paperclips	🖇️
+U	Objects	straight_ruler	📏
+U	Objects	triangular_ruler	📐
+U	Objects	scissors	✂️
+U	Objects	card_file_box	🗃️
+U	Objects	file_cabinet	🗄️
+U	Objects	wastebasket	🗑️
+U	Objects	locked	🔒
+U	Objects	unlocked	🔓
+U	Objects	locked_with_pen	🔏
+U	Objects	locked_with_key	🔐
+U	Objects	key	🔑
+U	Objects	old_key	🗝️
+U	Objects	hammer	🔨
+U	Objects	axe	🪓
+U	Objects	pick	⛏️
+U	Objects	hammer_and_pick	⚒️
+U	Objects	hammer_and_wrench	🛠️
+U	Objects	dagger	🗡️
+U	Objects	crossed_swords	⚔️
+U	Objects	bomb	💣
+U	Objects	boomerang	🪃
+U	Objects	bow_and_arrow	🏹
+U	Objects	shield	🛡️
+U	Objects	carpentry_saw	🪚
+U	Objects	wrench	🔧
+U	Objects	screwdriver	🪛
+U	Objects	nut_and_bolt	🔩
+U	Objects	gear	⚙️
+U	Objects	clamp	🗜️
+U	Objects	balance_scale	⚖️
+U	Objects	white_cane	🦯
+U	Objects	link	🔗
+U	Objects	broken_chain	⛓️‍💥
+U	Objects	chains	⛓️
+U	Objects	hook	🪝
+U	Objects	toolbox	🧰
+U	Objects	magnet	🧲
+U	Objects	ladder	🪜
+U	Objects	shovel	🪏
+U	Objects	alembic	⚗️
+U	Objects	test_tube	🧪
+U	Objects	petri_dish	🧫
+U	Objects	dna	🧬
+U	Objects	microscope	🔬
+U	Objects	telescope	🔭
+U	Objects	satellite_antenna	📡
+U	Objects	syringe	💉
+U	Objects	drop_of_blood	🩸
+U	Objects	pill	💊
+U	Objects	adhesive_bandage	🩹
+U	Objects	crutch	🩼
+U	Objects	stethoscope	🩺
+U	Objects	x_ray	🩻
+U	Objects	door	🚪
+U	Objects	elevator	🛗
+U	Objects	mirror	🪞
+U	Objects	window	🪟
+U	Objects	bed	🛏️
+U	Objects	couch_and_lamp	🛋️
+U	Objects	chair	🪑
+U	Objects	toilet	🚽
+U	Objects	plunger	🪠
+U	Objects	shower	🚿
+U	Objects	bathtub	🛁
+U	Objects	mouse_trap	🪤
+U	Objects	razor	🪒
+U	Objects	lotion_bottle	🧴
+U	Objects	safety_pin	🧷
+U	Objects	broom	🧹
+U	Objects	basket	🧺
+U	Objects	roll_of_paper	🧻
+U	Objects	bucket	🪣
+U	Objects	soap	🧼
+U	Objects	bubbles	🫧
+U	Objects	toothbrush	🪥
+U	Objects	sponge	🧽
+U	Objects	fire_extinguisher	🧯
+U	Objects	shopping_cart	🛒
+U	Objects	cigarette	🚬
+U	Objects	coffin	⚰️
+U	Objects	headstone	🪦
+U	Objects	funeral_urn	⚱️
+U	Objects	nazar_amulet	🧿
+U	Objects	hamsa	🪬
+U	Objects	moai	🗿
+U	Objects	placard	🪧
+U	Objects	identification_card	🪪
+U	Symbols	atm_sign	🏧
+U	Symbols	litter_in_bin_sign	🚮
+U	Symbols	potable_water	🚰
+U	Symbols	wheelchair_symbol	♿
+U	Symbols	mens_room	🚹
+U	Symbols	womens_room	🚺
+U	Symbols	restroom	🚻
+U	Symbols	baby_symbol	🚼
+U	Symbols	water_closet	🚾
+U	Symbols	passport_control	🛂
+U	Symbols	customs	🛃
+U	Symbols	baggage_claim	🛄
+U	Symbols	left_luggage	🛅
+U	Symbols	warning	⚠️
+U	Symbols	children_crossing	🚸
+U	Symbols	no_entry	⛔
+U	Symbols	prohibited	🚫
+U	Symbols	no_bicycles	🚳
+U	Symbols	no_smoking	🚭
+U	Symbols	no_littering	🚯
+U	Symbols	non_potable_water	🚱
+U	Symbols	no_pedestrians	🚷
+U	Symbols	no_mobile_phones	📵
+U	Symbols	no_one_under_eighteen	🔞
+U	Symbols	radioactive	☢️
+U	Symbols	biohazard	☣️
+U	Symbols	up_arrow	⬆️
+U	Symbols	up_right_arrow	↗️
+U	Symbols	right_arrow	➡️
+U	Symbols	down_right_arrow	↘️
+U	Symbols	down_arrow	⬇️
+U	Symbols	down_left_arrow	↙️
+U	Symbols	left_arrow	⬅️
+U	Symbols	up_left_arrow	↖️
+U	Symbols	up_down_arrow	↕️
+U	Symbols	left_right_arrow	↔️
+U	Symbols	right_arrow_curving_left	↩️
+U	Symbols	left_arrow_curving_right	↪️
+U	Symbols	right_arrow_curving_up	⤴️
+U	Symbols	right_arrow_curving_down	⤵️
+U	Symbols	clockwise_vertical_arrows	🔃
+U	Symbols	counterclockwise_arrows_button	🔄
+U	Symbols	back_arrow	🔙
+U	Symbols	end_arrow	🔚
+U	Symbols	on!_arrow	🔛
+U	Symbols	soon_arrow	🔜
+U	Symbols	top_arrow	🔝
+U	Symbols	place_of_worship	🛐
+U	Symbols	atom_symbol	⚛️
+U	Symbols	om	🕉️
+U	Symbols	star_of_david	✡️
+U	Symbols	wheel_of_dharma	☸️
+U	Symbols	yin_yang	☯️
+U	Symbols	latin_cross	✝️
+U	Symbols	orthodox_cross	☦️
+U	Symbols	star_and_crescent	☪️
+U	Symbols	peace_symbol	☮️
+U	Symbols	menorah	🕎
+U	Symbols	dotted_six_pointed_star	🔯
+U	Symbols	khanda	🪯
+U	Symbols	aries	♈
+U	Symbols	taurus	♉
+U	Symbols	gemini	♊
+U	Symbols	cancer	♋
+U	Symbols	leo	♌
+U	Symbols	virgo	♍
+U	Symbols	libra	♎
+U	Symbols	scorpio	♏
+U	Symbols	sagittarius	♐
+U	Symbols	capricorn	♑
+U	Symbols	aquarius	♒
+U	Symbols	pisces	♓
+U	Symbols	ophiuchus	⛎
+U	Symbols	shuffle_tracks_button	🔀
+U	Symbols	repeat_button	🔁
+U	Symbols	repeat_single_button	🔂
+U	Symbols	play_button	▶️
+U	Symbols	fast_forward_button	⏩
+U	Symbols	next_track_button	⏭️
+U	Symbols	play_or_pause_button	⏯️
+U	Symbols	reverse_button	◀️
+U	Symbols	fast_reverse_button	⏪
+U	Symbols	last_track_button	⏮️
+U	Symbols	upwards_button	🔼
+U	Symbols	fast_up_button	⏫
+U	Symbols	downwards_button	🔽
+U	Symbols	fast_down_button	⏬
+U	Symbols	pause_button	⏸️
+U	Symbols	stop_button	⏹️
+U	Symbols	record_button	⏺️
+U	Symbols	eject_button	⏏️
+U	Symbols	cinema	🎦
+U	Symbols	dim_button	🔅
+U	Symbols	bright_button	🔆
+U	Symbols	antenna_bars	📶
+U	Symbols	wireless	🛜
+U	Symbols	vibration_mode	📳
+U	Symbols	mobile_phone_off	📴
+U	Symbols	female_sign	♀️
+U	Symbols	male_sign	♂️
+U	Symbols	transgender_symbol	⚧️
+U	Symbols	multiply	✖️
+U	Symbols	plus	➕
+U	Symbols	minus	➖
+U	Symbols	divide	➗
+U	Symbols	heavy_equals_sign	🟰
+U	Symbols	infinity	♾️
+U	Symbols	double_exclamation_mark	‼️
+U	Symbols	exclamation_question_mark	⁉️
+U	Symbols	red_question_mark	❓
+U	Symbols	white_question_mark	❔
+U	Symbols	white_exclamation_mark	❕
+U	Symbols	red_exclamation_mark	❗
+U	Symbols	wavy_dash	〰️
+U	Symbols	currency_exchange	💱
+U	Symbols	heavy_dollar_sign	💲
+U	Symbols	medical_symbol	⚕️
+U	Symbols	recycling_symbol	♻️
+U	Symbols	fleur_de_lis	⚜️
+U	Symbols	trident_emblem	🔱
+U	Symbols	name_badge	📛
+U	Symbols	japanese_symbol_for_beginner	🔰
+U	Symbols	hollow_red_circle	⭕
+U	Symbols	check_mark_button	✅
+U	Symbols	check_box_with_check	☑️
+U	Symbols	check_mark	✔️
+U	Symbols	cross_mark	❌
+U	Symbols	cross_mark_button	❎
+U	Symbols	curly_loop	➰
+U	Symbols	double_curly_loop	➿
+U	Symbols	part_alternation_mark	〽️
+U	Symbols	eight_spoked_asterisk	✳️
+U	Symbols	eight_pointed_star	✴️
+U	Symbols	sparkle	❇️
+U	Symbols	copyright	©️
+U	Symbols	registered	®️
+U	Symbols	trade_mark	™️
+U	Symbols	splatter	🫟
+U	Symbols	input_latin_uppercase	🔠
+U	Symbols	input_latin_lowercase	🔡
+U	Symbols	input_numbers	🔢
+U	Symbols	input_symbols	🔣
+U	Symbols	input_latin_letters	🔤
+U	Symbols	a_button_(blood_type)	🅰️
+U	Symbols	ab_button_(blood_type)	🆎
+U	Symbols	b_button_(blood_type)	🅱️
+U	Symbols	cl_button	🆑
+U	Symbols	cool_button	🆒
+U	Symbols	free_button	🆓
+U	Symbols	information	ℹ️
+U	Symbols	id_button	🆔
+U	Symbols	circled_m	Ⓜ️
+U	Symbols	new_button	🆕
+U	Symbols	ng_button	🆖
+U	Symbols	o_button_(blood_type)	🅾️
+U	Symbols	ok_button	🆗
+U	Symbols	p_button	🅿️
+U	Symbols	sos_button	🆘
+U	Symbols	up!_button	🆙
+U	Symbols	vs_button	🆚
+U	Symbols	japanese_here_button	🈁
+U	Symbols	japanese_service_charge_button	🈂️
+U	Symbols	japanese_monthly_amount_button	🈷️
+U	Symbols	japanese_not_free_of_charge_button	🈶
+U	Symbols	japanese_reserved_button	🈯
+U	Symbols	japanese_bargain_button	🉐
+U	Symbols	japanese_discount_button	🈹
+U	Symbols	japanese_free_of_charge_button	🈚
+U	Symbols	japanese_prohibited_button	🈲
+U	Symbols	japanese_acceptable_button	🉑
+U	Symbols	japanese_application_button	🈸
+U	Symbols	japanese_passing_grade_button	🈴
+U	Symbols	japanese_vacancy_button	🈳
+U	Symbols	japanese_congratulations_button	㊗️
+U	Symbols	japanese_secret_button	㊙️
+U	Symbols	japanese_open_for_business_button	🈺
+U	Symbols	japanese_no_vacancy_button	🈵
+U	Symbols	red_circle	🔴
+U	Symbols	orange_circle	🟠
+U	Symbols	yellow_circle	🟡
+U	Symbols	green_circle	🟢
+U	Symbols	blue_circle	🔵
+U	Symbols	purple_circle	🟣
+U	Symbols	brown_circle	🟤
+U	Symbols	black_circle	⚫
+U	Symbols	white_circle	⚪
+U	Symbols	red_square	🟥
+U	Symbols	orange_square	🟧
+U	Symbols	yellow_square	🟨
+U	Symbols	green_square	🟩
+U	Symbols	blue_square	🟦
+U	Symbols	purple_square	🟪
+U	Symbols	brown_square	🟫
+U	Symbols	black_large_square	⬛
+U	Symbols	white_large_square	⬜
+U	Symbols	black_medium_square	◼️
+U	Symbols	white_medium_square	◻️
+U	Symbols	black_medium_small_square	◾
+U	Symbols	white_medium_small_square	◽
+U	Symbols	black_small_square	▪️
+U	Symbols	white_small_square	▫️
+U	Symbols	large_orange_diamond	🔶
+U	Symbols	large_blue_diamond	🔷
+U	Symbols	small_orange_diamond	🔸
+U	Symbols	small_blue_diamond	🔹
+U	Symbols	red_triangle_pointed_up	🔺
+U	Symbols	red_triangle_pointed_down	🔻
+U	Symbols	diamond_with_a_dot	💠
+U	Symbols	radio_button	🔘
+U	Symbols	white_square_button	🔳
+U	Symbols	black_square_button	🔲
+U	Flags	chequered_flag	🏁
+U	Flags	triangular_flag	🚩
+U	Flags	crossed_flags	🎌
+U	Flags	black_flag	🏴
+U	Flags	white_flag	🏳️
+U	Flags	rainbow_flag	🏳️‍🌈
+U	Flags	transgender_flag	🏳️‍⚧️
+U	Flags	pirate_flag	🏴‍☠️
+U	Flags	ascension_island	🇦🇨
+U	Flags	andorra	🇦🇩
+U	Flags	united_arab_emirates	🇦🇪
+U	Flags	afghanistan	🇦🇫
+U	Flags	antigua_and_barbuda	🇦🇬
+U	Flags	anguilla	🇦🇮
+U	Flags	albania	🇦🇱
+U	Flags	armenia	🇦🇲
+U	Flags	angola	🇦🇴
+U	Flags	antarctica	🇦🇶
+U	Flags	argentina	🇦🇷
+U	Flags	american_samoa	🇦🇸
+U	Flags	austria	🇦🇹
+U	Flags	australia	🇦🇺
+U	Flags	aruba	🇦🇼
+U	Flags	aland_islands	🇦🇽
+U	Flags	azerbaijan	🇦🇿
+U	Flags	bosnia_and_herzegovina	🇧🇦
+U	Flags	barbados	🇧🇧
+U	Flags	bangladesh	🇧🇩
+U	Flags	belgium	🇧🇪
+U	Flags	burkina_faso	🇧🇫
+U	Flags	bulgaria	🇧🇬
+U	Flags	bahrain	🇧🇭
+U	Flags	burundi	🇧🇮
+U	Flags	benin	🇧🇯
+U	Flags	st_barthelemy	🇧🇱
+U	Flags	bermuda	🇧🇲
+U	Flags	brunei	🇧🇳
+U	Flags	bolivia	🇧🇴
+U	Flags	caribbean_netherlands	🇧🇶
+U	Flags	brazil	🇧🇷
+U	Flags	bahamas	🇧🇸
+U	Flags	bhutan	🇧🇹
+U	Flags	bouvet_island	🇧🇻
+U	Flags	botswana	🇧🇼
+U	Flags	belarus	🇧🇾
+U	Flags	belize	🇧🇿
+U	Flags	canada	🇨🇦
+U	Flags	cocos_(keeling)_islands	🇨🇨
+U	Flags	congo_kinshasa	🇨🇩
+U	Flags	central_african_republic	🇨🇫
+U	Flags	congo_brazzaville	🇨🇬
+U	Flags	switzerland	🇨🇭
+U	Flags	cote_d_ivoire	🇨🇮
+U	Flags	cook_islands	🇨🇰
+U	Flags	chile	🇨🇱
+U	Flags	cameroon	🇨🇲
+U	Flags	china	🇨🇳
+U	Flags	colombia	🇨🇴
+U	Flags	clipperton_island	🇨🇵
+U	Flags	sark	🇨🇶
+U	Flags	costa_rica	🇨🇷
+U	Flags	cuba	🇨🇺
+U	Flags	cape_verde	🇨🇻
+U	Flags	curacao	🇨🇼
+U	Flags	christmas_island	🇨🇽
+U	Flags	cyprus	🇨🇾
+U	Flags	czechia	🇨🇿
+U	Flags	germany	🇩🇪
+U	Flags	diego_garcia	🇩🇬
+U	Flags	djibouti	🇩🇯
+U	Flags	denmark	🇩🇰
+U	Flags	dominica	🇩🇲
+U	Flags	dominican_republic	🇩🇴
+U	Flags	algeria	🇩🇿
+U	Flags	ceuta_and_melilla	🇪🇦
+U	Flags	ecuador	🇪🇨
+U	Flags	estonia	🇪🇪
+U	Flags	egypt	🇪🇬
+U	Flags	western_sahara	🇪🇭
+U	Flags	eritrea	🇪🇷
+U	Flags	spain	🇪🇸
+U	Flags	ethiopia	🇪🇹
+U	Flags	european_union	🇪🇺
+U	Flags	finland	🇫🇮
+U	Flags	fiji	🇫🇯
+U	Flags	falkland_islands	🇫🇰
+U	Flags	micronesia	🇫🇲
+U	Flags	faroe_islands	🇫🇴
+U	Flags	france	🇫🇷
+U	Flags	gabon	🇬🇦
+U	Flags	united_kingdom	🇬🇧
+U	Flags	grenada	🇬🇩
+U	Flags	georgia	🇬🇪
+U	Flags	french_guiana	🇬🇫
+U	Flags	guernsey	🇬🇬
+U	Flags	ghana	🇬🇭
+U	Flags	gibraltar	🇬🇮
+U	Flags	greenland	🇬🇱
+U	Flags	gambia	🇬🇲
+U	Flags	guinea	🇬🇳
+U	Flags	guadeloupe	🇬🇵
+U	Flags	equatorial_guinea	🇬🇶
+U	Flags	greece	🇬🇷
+U	Flags	south_georgia_and_south_sandwich_islands	🇬🇸
+U	Flags	guatemala	🇬🇹
+U	Flags	guam	🇬🇺
+U	Flags	guinea_bissau	🇬🇼
+U	Flags	guyana	🇬🇾
+U	Flags	hong_kong_sar_china	🇭🇰
+U	Flags	heard_and_mcdonald_islands	🇭🇲
+U	Flags	honduras	🇭🇳
+U	Flags	croatia	🇭🇷
+U	Flags	haiti	🇭🇹
+U	Flags	hungary	🇭🇺
+U	Flags	canary_islands	🇮🇨
+U	Flags	indonesia	🇮🇩
+U	Flags	ireland	🇮🇪
+U	Flags	israel	🇮🇱
+U	Flags	isle_of_man	🇮🇲
+U	Flags	india	🇮🇳
+U	Flags	british_indian_ocean_territory	🇮🇴
+U	Flags	iraq	🇮🇶
+U	Flags	iran	🇮🇷
+U	Flags	iceland	🇮🇸
+U	Flags	italy	🇮🇹
+U	Flags	jersey	🇯🇪
+U	Flags	jamaica	🇯🇲
+U	Flags	jordan	🇯🇴
+U	Flags	japan	🇯🇵
+U	Flags	kenya	🇰🇪
+U	Flags	kyrgyzstan	🇰🇬
+U	Flags	cambodia	🇰🇭
+U	Flags	kiribati	🇰🇮
+U	Flags	comoros	🇰🇲
+U	Flags	st_kitts_and_nevis	🇰🇳
+U	Flags	north_korea	🇰🇵
+U	Flags	south_korea	🇰🇷
+U	Flags	kuwait	🇰🇼
+U	Flags	cayman_islands	🇰🇾
+U	Flags	kazakhstan	🇰🇿
+U	Flags	laos	🇱🇦
+U	Flags	lebanon	🇱🇧
+U	Flags	st_lucia	🇱🇨
+U	Flags	liechtenstein	🇱🇮
+U	Flags	sri_lanka	🇱🇰
+U	Flags	liberia	🇱🇷
+U	Flags	lesotho	🇱🇸
+U	Flags	lithuania	🇱🇹
+U	Flags	luxembourg	🇱🇺
+U	Flags	latvia	🇱🇻
+U	Flags	libya	🇱🇾
+U	Flags	morocco	🇲🇦
+U	Flags	monaco	🇲🇨
+U	Flags	moldova	🇲🇩
+U	Flags	montenegro	🇲🇪
+U	Flags	st_martin	🇲🇫
+U	Flags	madagascar	🇲🇬
+U	Flags	marshall_islands	🇲🇭
+U	Flags	north_macedonia	🇲🇰
+U	Flags	mali	🇲🇱
+U	Flags	myanmar_(burma)	🇲🇲
+U	Flags	mongolia	🇲🇳
+U	Flags	macao_sar_china	🇲🇴
+U	Flags	northern_mariana_islands	🇲🇵
+U	Flags	martinique	🇲🇶
+U	Flags	mauritania	🇲🇷
+U	Flags	montserrat	🇲🇸
+U	Flags	malta	🇲🇹
+U	Flags	mauritius	🇲🇺
+U	Flags	maldives	🇲🇻
+U	Flags	malawi	🇲🇼
+U	Flags	mexico	🇲🇽
+U	Flags	malaysia	🇲🇾
+U	Flags	mozambique	🇲🇿
+U	Flags	namibia	🇳🇦
+U	Flags	new_caledonia	🇳🇨
+U	Flags	niger	🇳🇪
+U	Flags	norfolk_island	🇳🇫
+U	Flags	nigeria	🇳🇬
+U	Flags	nicaragua	🇳🇮
+U	Flags	netherlands	🇳🇱
+U	Flags	norway	🇳🇴
+U	Flags	nepal	🇳🇵
+U	Flags	nauru	🇳🇷
+U	Flags	niue	🇳🇺
+U	Flags	new_zealand	🇳🇿
+U	Flags	oman	🇴🇲
+U	Flags	panama	🇵🇦
+U	Flags	peru	🇵🇪
+U	Flags	french_polynesia	🇵🇫
+U	Flags	papua_new_guinea	🇵🇬
+U	Flags	philippines	🇵🇭
+U	Flags	pakistan	🇵🇰
+U	Flags	poland	🇵🇱
+U	Flags	st_pierre_and_miquelon	🇵🇲
+U	Flags	pitcairn_islands	🇵🇳
+U	Flags	puerto_rico	🇵🇷
+U	Flags	palestinian_territories	🇵🇸
+U	Flags	portugal	🇵🇹
+U	Flags	palau	🇵🇼
+U	Flags	paraguay	🇵🇾
+U	Flags	qatar	🇶🇦
+U	Flags	reunion	🇷🇪
+U	Flags	romania	🇷🇴
+U	Flags	serbia	🇷🇸
+U	Flags	russia	🇷🇺
+U	Flags	rwanda	🇷🇼
+U	Flags	saudi_arabia	🇸🇦
+U	Flags	solomon_islands	🇸🇧
+U	Flags	seychelles	🇸🇨
+U	Flags	sudan	🇸🇩
+U	Flags	sweden	🇸🇪
+U	Flags	singapore	🇸🇬
+U	Flags	st_helena	🇸🇭
+U	Flags	slovenia	🇸🇮
+U	Flags	svalbard_and_jan_mayen	🇸🇯
+U	Flags	slovakia	🇸🇰
+U	Flags	sierra_leone	🇸🇱
+U	Flags	san_marino	🇸🇲
+U	Flags	senegal	🇸🇳
+U	Flags	somalia	🇸🇴
+U	Flags	suriname	🇸🇷
+U	Flags	south_sudan	🇸🇸
+U	Flags	sao_tome_and_principe	🇸🇹
+U	Flags	el_salvador	🇸🇻
+U	Flags	sint_maarten	🇸🇽
+U	Flags	syria	🇸🇾
+U	Flags	eswatini	🇸🇿
+U	Flags	tristan_da_cunha	🇹🇦
+U	Flags	turks_and_caicos_islands	🇹🇨
+U	Flags	chad	🇹🇩
+U	Flags	french_southern_territories	🇹🇫
+U	Flags	togo	🇹🇬
+U	Flags	thailand	🇹🇭
+U	Flags	tajikistan	🇹🇯
+U	Flags	tokelau	🇹🇰
+U	Flags	timor_leste	🇹🇱
+U	Flags	turkmenistan	🇹🇲
+U	Flags	tunisia	🇹🇳
+U	Flags	tonga	🇹🇴
+U	Flags	turkiye	🇹🇷
+U	Flags	trinidad_and_tobago	🇹🇹
+U	Flags	tuvalu	🇹🇻
+U	Flags	taiwan	🇹🇼
+U	Flags	tanzania	🇹🇿
+U	Flags	ukraine	🇺🇦
+U	Flags	uganda	🇺🇬
+U	Flags	us_outlying_islands	🇺🇲
+U	Flags	united_nations	🇺🇳
+U	Flags	united_states	🇺🇸
+U	Flags	uruguay	🇺🇾
+U	Flags	uzbekistan	🇺🇿
+U	Flags	vatican_city	🇻🇦
+U	Flags	st_vincent_and_grenadines	🇻🇨
+U	Flags	venezuela	🇻🇪
+U	Flags	british_virgin_islands	🇻🇬
+U	Flags	us_virgin_islands	🇻🇮
+U	Flags	vietnam	🇻🇳
+U	Flags	vanuatu	🇻🇺
+U	Flags	wallis_and_futuna	🇼🇫
+U	Flags	samoa	🇼🇸
+U	Flags	kosovo	🇽🇰
+U	Flags	yemen	🇾🇪
+U	Flags	mayotte	🇾🇹
+U	Flags	south_africa	🇿🇦
+U	Flags	zambia	🇿🇲
+U	Flags	zimbabwe	🇿🇼
+U	Flags	england	🏴󠁧󠁢󠁥󠁮󠁧󠁿
+U	Flags	scotland	🏴󠁧󠁢󠁳󠁣󠁴󠁿
+U	Flags	wales	🏴󠁧󠁢󠁷󠁬󠁳󠁿
+S	earth_africa	🌍
+S	grapes	🍇
+S	jack_o_lantern	🎃
+S	checkered_flag	🏁
+S	atm	🏧
+S	skin-tone-2	🏻
+S	monkey_face	🐵
+S	mute	🔇
+S	grinning	😀
+S	earth_americas	🌎
+S	melon	🍈
+S	christmas_tree	🎄
+S	skin-tone-3	🏼
+S	monkey	🐒
+S	speaker	🔈
+S	grin	😁
+S	triangular_flag_on_post	🚩
+S	put_litter_in_its_place	🚮
+S	earth_asia	🌏
+S	watermelon	🍉
+S	fireworks	🎆
+S	crossed_flags	🎌
+S	skin-tone-4	🏽
+S	sound	🔉
+S	joy	😂
+S	potable_water	🚰
+S	gorilla	🦍
+S	globe_with_meridians	🌐
+S	tangerine	🍊
+S	sparkler	🎇
+S	waving_black_flag	🏴
+S	skin-tone-5	🏾
+S	dog	🐶
+S	loud_sound	🔊
+S	rolling_on_the_floor_laughing	🤣
+S	wheelchair	♿
+S	lemon	🍋
+S	waving_white_flag	🏳️
+S	skin-tone-6	🏿
+S	dog2	🐕
+S	loudspeaker	📢
+S	world_map	🗺️
+S	smiley	😃
+S	mens	🚹
+S	sparkles	✨
+S	banana	🍌
+S	balloon	🎈
+S	rainbow-flag	🏳️‍🌈
+S	poodle	🐩
+S	mega	📣
+S	japan	🗾
+S	smile	😄
+S	womens	🚺
+S	flag-ac	🇦🇨
+S	pineapple	🍍
+S	tada	🎉
+S	snow_capped_mountain	🏔️
+S	wolf	🐺
+S	postal_horn	📯
+S	sweat_smile	😅
+S	restroom	🚻
+S	flag-ad	🇦🇩
+S	apple	🍎
+S	confetti_ball	🎊
+S	bell	🔔
+S	laughing	😆
+S	baby_symbol	🚼
+S	fox_face	🦊
+S	mountain	⛰️
+S	flag-ae	🇦🇪
+S	volcano	🌋
+S	green_apple	🍏
+S	tanabata_tree	🎋
+S	cat	🐱
+S	no_bell	🔕
+S	wink	😉
+S	wc	🚾
+S	flag-af	🇦🇫
+S	pear	🍐
+S	bamboo	🎍
+S	musical_score	🎼
+S	cat2	🐈
+S	mount_fuji	🗻
+S	blush	😊
+S	passport_control	🛂
+S	flag-ag	🇦🇬
+S	peach	🍑
+S	dolls	🎎
+S	musical_note	🎵
+S	camping	🏕️
+S	yum	😋
+S	customs	🛃
+S	lion_face	🦁
+S	flag-ai	🇦🇮
+S	cherries	🍒
+S	flags	🎏
+S	notes	🎶
+S	beach_with_umbrella	🏖️
+S	tiger	🐯
+S	sunglasses	😎
+S	baggage_claim	🛄
+S	flag-al	🇦🇱
+S	strawberry	🍓
+S	wind_chime	🎐
+S	studio_microphone	🎙️
+S	desert	🏜️
+S	tiger2	🐅
+S	heart_eyes	😍
+S	left_luggage	🛅
+S	flag-am	🇦🇲
+S	rice_scene	🎑
+S	level_slider	🎚️
+S	desert_island	🏝️
+S	leopard	🐆
+S	kissing_heart	😘
+S	kiwifruit	🥝
+S	warning	⚠️
+S	flag-ao	🇦🇴
+S	tomato	🍅
+S	ribbon	🎀
+S	control_knobs	🎛️
+S	national_park	🏞️
+S	horse	🐴
+S	kissing	😗
+S	children_crossing	🚸
+S	flag-aq	🇦🇶
+S	gift	🎁
+S	microphone	🎤
+S	stadium	🏟️
+S	racehorse	🐎
+S	kissing_smiling_eyes	😙
+S	coconut	🥥
+S	no_entry	⛔
+S	flag-ar	🇦🇷
+S	reminder_ribbon	🎗️
+S	headphones	🎧
+S	classical_building	🏛️
+S	kissing_closed_eyes	😚
+S	no_entry_sign	🚫
+S	avocado	🥑
+S	unicorn_face	🦄
+S	flag-as	🇦🇸
+S	eggplant	🍆
+S	admission_tickets	🎟️
+S	building_construction	🏗️
+S	radio	📻
+S	no_bicycles	🚳
+S	zebra_face	🦓
+S	relaxed	☺️
+S	flag-at	🇦🇹
+S	ticket	🎫
+S	saxophone	🎷
+S	house_buildings	🏘️
+S	slightly_smiling_face	🙂
+S	no_smoking	🚭
+S	potato	🥔
+S	deer	🦌
+S	flag-au	🇦🇺
+S	medal	🎖️
+S	guitar	🎸
+S	cityscape	🏙️
+S	cow	🐮
+S	do_not_litter	🚯
+S	hugging_face	🤗
+S	carrot	🥕
+S	flag-aw	🇦🇼
+S	corn	🌽
+S	musical_keyboard	🎹
+S	trophy	🏆
+S	derelict_house_building	🏚️
+S	ox	🐂
+S	non-potable_water	🚱
+S	star-struck	🤩
+S	flag-ax	🇦🇽
+S	hot_pepper	🌶️
+S	trumpet	🎺
+S	sports_medal	🏅
+S	house	🏠
+S	water_buffalo	🐃
+S	no_pedestrians	🚷
+S	thinking_face	🤔
+S	flag-az	🇦🇿
+S	violin	🎻
+S	house_with_garden	🏡
+S	cow2	🐄
+S	no_mobile_phones	📵
+S	face_with_raised_eyebrow	🤨
+S	first_place_medal	🥇
+S	cucumber	🥒
+S	flag-ba	🇧🇦
+S	office	🏢
+S	pig	🐷
+S	underage	🔞
+S	neutral_face	😐
+S	drum_with_drumsticks	🥁
+S	second_place_medal	🥈
+S	broccoli	🥦
+S	flag-bb	🇧🇧
+S	mushroom	🍄
+S	post_office	🏣
+S	pig2	🐖
+S	iphone	📱
+S	expressionless	😑
+S	third_place_medal	🥉
+S	radioactive_sign	☢️
+S	flag-bd	🇧🇩
+S	european_post_office	🏤
+S	boar	🐗
+S	calling	📲
+S	no_mouth	😶
+S	peanuts	🥜
+S	biohazard_sign	☣️
+S	soccer	⚽
+S	flag-be	🇧🇪
+S	chestnut	🌰
+S	hospital	🏥
+S	pig_nose	🐽
+S	face_with_rolling_eyes	🙄
+S	phone	☎️
+S	baseball	⚾
+S	arrow_up	⬆️
+S	flag-bf	🇧🇫
+S	bread	🍞
+S	basketball	🏀
+S	bank	🏦
+S	ram	🐏
+S	telephone_receiver	📞
+S	smirk	😏
+S	arrow_upper_right	↗️
+S	flag-bg	🇧🇬
+S	volleyball	🏐
+S	hotel	🏨
+S	sheep	🐑
+S	pager	📟
+S	persevere	😣
+S	croissant	🥐
+S	arrow_right	➡️
+S	flag-bh	🇧🇭
+S	football	🏈
+S	love_hotel	🏩
+S	goat	🐐
+S	fax	📠
+S	disappointed_relieved	😥
+S	baguette_bread	🥖
+S	arrow_lower_right	↘️
+S	flag-bi	🇧🇮
+S	rugby_football	🏉
+S	convenience_store	🏪
+S	dromedary_camel	🐪
+S	battery	🔋
+S	open_mouth	😮
+S	pretzel	🥨
+S	arrow_down	⬇️
+S	flag-bj	🇧🇯
+S	tennis	🎾
+S	school	🏫
+S	camel	🐫
+S	electric_plug	🔌
+S	zipper_mouth_face	🤐
+S	pancakes	🥞
+S	arrow_lower_left	↙️
+S	flag-bl	🇧🇱
+S	8ball	🎱
+S	department_store	🏬
+S	computer	💻
+S	hushed	😯
+S	giraffe_face	🦒
+S	cheese_wedge	🧀
+S	arrow_left	⬅️
+S	flag-bm	🇧🇲
+S	meat_on_bone	🍖
+S	bowling	🎳
+S	factory	🏭
+S	elephant	🐘
+S	desktop_computer	🖥️
+S	sleepy	😪
+S	arrow_upper_left	↖️
+S	flag-bn	🇧🇳
+S	poultry_leg	🍗
+S	cricket_bat_and_ball	🏏
+S	japanese_castle	🏯
+S	printer	🖨️
+S	tired_face	😫
+S	rhinoceros	🦏
+S	arrow_up_down	↕️
+S	flag-bo	🇧🇴
+S	field_hockey_stick_and_ball	🏑
+S	european_castle	🏰
+S	mouse	🐭
+S	sleeping	😴
+S	cut_of_meat	🥩
+S	left_right_arrow	↔️
+S	keyboard	⌨️
+S	flag-bq	🇧🇶
+S	ice_hockey_stick_and_puck	🏒
+S	mouse2	🐁
+S	wedding	💒
+S	three_button_mouse	🖱️
+S	relieved	😌
+S	bacon	🥓
+S	leftwards_arrow_with_hook	↩️
+S	flag-br	🇧🇷
+S	hamburger	🍔
+S	table_tennis_paddle_and_ball	🏓
+S	rat	🐀
+S	trackball	🖲️
+S	tokyo_tower	🗼
+S	stuck_out_tongue	😛
+S	arrow_right_hook	↪️
+S	flag-bs	🇧🇸
+S	fries	🍟
+S	badminton_racquet_and_shuttlecock	🏸
+S	hamster	🐹
+S	minidisc	💽
+S	statue_of_liberty	🗽
+S	stuck_out_tongue_winking_eye	😜
+S	arrow_heading_up	⤴️
+S	flag-bt	🇧🇹
+S	pizza	🍕
+S	rabbit	🐰
+S	floppy_disk	💾
+S	stuck_out_tongue_closed_eyes	😝
+S	boxing_glove	🥊
+S	church	⛪
+S	arrow_heading_down	⤵️
+S	flag-bv	🇧🇻
+S	hotdog	🌭
+S	rabbit2	🐇
+S	cd	💿
+S	arrows_clockwise	🔃
+S	mosque	🕌
+S	drooling_face	🤤
+S	martial_arts_uniform	🥋
+S	flag-bw	🇧🇼
+S	chipmunk	🐿️
+S	dvd	📀
+S	arrows_counterclockwise	🔄
+S	synagogue	🕍
+S	unamused	😒
+S	goal_net	🥅
+S	sandwich	🥪
+S	flag-by	🇧🇾
+S	taco	🌮
+S	movie_camera	🎥
+S	dart	🎯
+S	back	🔙
+S	sweat	😓
+S	hedgehog	🦔
+S	shinto_shrine	⛩️
+S	flag-bz	🇧🇿
+S	burrito	🌯
+S	film_frames	🎞️
+S	end	🔚
+S	kaaba	🕋
+S	pensive	😔
+S	bat	🦇
+S	golf	⛳
+S	flag-ca	🇨🇦
+S	bear	🐻
+S	film_projector	📽️
+S	on	🔛
+S	confused	😕
+S	stuffed_flatbread	🥙
+S	fountain	⛲
+S	ice_skate	⛸️
+S	flag-cc	🇨🇨
+S	fishing_pole_and_fish	🎣
+S	clapper	🎬
+S	koala	🐨
+S	soon	🔜
+S	upside_down_face	🙃
+S	egg	🥚
+S	tent	⛺
+S	flag-cd	🇨🇩
+S	foggy	🌁
+S	fried_egg	🍳
+S	running_shirt_with_sash	🎽
+S	panda_face	🐼
+S	tv	📺
+S	top	🔝
+S	money_mouth_face	🤑
+S	flag-cf	🇨🇫
+S	night_with_stars	🌃
+S	ski	🎿
+S	feet	🐾
+S	camera	📷
+S	astonished	😲
+S	place_of_worship	🛐
+S	shallow_pan_of_food	🥘
+S	flag-cg	🇨🇬
+S	sunrise_over_mountains	🌄
+S	stew	🍲
+S	camera_with_flash	📸
+S	sled	🛷
+S	turkey	🦃
+S	white_frowning_face	☹️
+S	atom_symbol	⚛️
+S	flag-ch	🇨🇭
+S	sunrise	🌅
+S	chicken	🐔
+S	video_camera	📹
+S	om_symbol	🕉️
+S	slightly_frowning_face	🙁
+S	curling_stone	🥌
+S	bowl_with_spoon	🥣
+S	flag-ci	🇨🇮
+S	city_sunset	🌆
+S	video_game	🎮
+S	rooster	🐓
+S	vhs	📼
+S	confounded	😖
+S	green_salad	🥗
+S	star_of_david	✡️
+S	flag-ck	🇨🇰
+S	city_sunrise	🌇
+S	popcorn	🍿
+S	hatching_chick	🐣
+S	mag	🔍
+S	joystick	🕹️
+S	disappointed	😞
+S	wheel_of_dharma	☸️
+S	flag-cl	🇨🇱
+S	bridge_at_night	🌉
+S	game_die	🎲
+S	baby_chick	🐤
+S	mag_right	🔎
+S	worried	😟
+S	canned_food	🥫
+S	yin_yang	☯️
+S	flag-cm	🇨🇲
+S	bento	🍱
+S	hatched_chick	🐥
+S	microscope	🔬
+S	triumph	😤
+S	spades	♠️
+S	hotsprings	♨️
+S	latin_cross	✝️
+S	cn	🇨🇳
+S	milky_way	🌌
+S	rice_cracker	🍘
+S	bird	🐦
+S	telescope	🔭
+S	cry	😢
+S	orthodox_cross	☦️
+S	hearts	♥️
+S	flag-co	🇨🇴
+S	rice_ball	🍙
+S	carousel_horse	🎠
+S	penguin	🐧
+S	satellite_antenna	📡
+S	sob	😭
+S	star_and_crescent	☪️
+S	diamonds	♦️
+S	flag-cp	🇨🇵
+S	rice	🍚
+S	ferris_wheel	🎡
+S	dove_of_peace	🕊️
+S	candle	🕯️
+S	frowning	😦
+S	peace_symbol	☮️
+S	clubs	♣️
+S	black_joker	🃏
+S	flag-cr	🇨🇷
+S	curry	🍛
+S	roller_coaster	🎢
+S	bulb	💡
+S	menorah_with_nine_branches	🕎
+S	anguished	😧
+S	eagle	🦅
+S	mahjong	🀄
+S	flag-cu	🇨🇺
+S	ramen	🍜
+S	barber	💈
+S	flashlight	🔦
+S	six_pointed_star	🔯
+S	fearful	😨
+S	duck	🦆
+S	flag-cv	🇨🇻
+S	spaghetti	🍝
+S	circus_tent	🎪
+S	flower_playing_cards	🎴
+S	izakaya_lantern	🏮
+S	weary	😩
+S	owl	🦉
+S	aries	♈
+S	flag-cw	🇨🇼
+S	sweet_potato	🍠
+S	performing_arts	🎭
+S	frog	🐸
+S	notebook_with_decorative_cover	📔
+S	exploding_head	🤯
+S	taurus	♉
+S	flag-cx	🇨🇽
+S	oden	🍢
+S	crocodile	🐊
+S	closed_book	📕
+S	frame_with_picture	🖼️
+S	grimacing	😬
+S	gemini	♊
+S	flag-cy	🇨🇾
+S	sushi	🍣
+S	art	🎨
+S	turtle	🐢
+S	book	📖
+S	cold_sweat	😰
+S	cancer	♋
+S	flag-cz	🇨🇿
+S	fried_shrimp	🍤
+S	slot_machine	🎰
+S	green_book	📗
+S	scream	😱
+S	lizard	🦎
+S	leo	♌
+S	de	🇩🇪
+S	fish_cake	🍥
+S	snake	🐍
+S	blue_book	📘
+S	flushed	😳
+S	steam_locomotive	🚂
+S	virgo	♍
+S	flag-dg	🇩🇬
+S	dango	🍡
+S	dragon_face	🐲
+S	orange_book	📙
+S	railway_car	🚃
+S	zany_face	🤪
+S	libra	♎
+S	flag-dj	🇩🇯
+S	dragon	🐉
+S	books	📚
+S	dizzy_face	😵
+S	bullettrain_side	🚄
+S	dumpling	🥟
+S	scorpius	♏
+S	flag-dk	🇩🇰
+S	notebook	📓
+S	rage	😡
+S	bullettrain_front	🚅
+S	fortune_cookie	🥠
+S	sauropod	🦕
+S	sagittarius	♐
+S	flag-dm	🇩🇲
+S	ledger	📒
+S	angry	😠
+S	train2	🚆
+S	takeout_box	🥡
+S	t-rex	🦖
+S	capricorn	♑
+S	flag-do	🇩🇴
+S	icecream	🍦
+S	whale	🐳
+S	page_with_curl	📃
+S	metro	🚇
+S	face_with_symbols_on_mouth	🤬
+S	aquarius	♒
+S	flag-dz	🇩🇿
+S	shaved_ice	🍧
+S	whale2	🐋
+S	scroll	📜
+S	mask	😷
+S	light_rail	🚈
+S	pisces	♓
+S	flag-ea	🇪🇦
+S	ice_cream	🍨
+S	dolphin	🐬
+S	page_facing_up	📄
+S	station	🚉
+S	face_with_thermometer	🤒
+S	ophiuchus	⛎
+S	flag-ec	🇪🇨
+S	doughnut	🍩
+S	fish	🐟
+S	newspaper	📰
+S	twisted_rightwards_arrows	🔀
+S	tram	🚊
+S	face_with_head_bandage	🤕
+S	flag-ee	🇪🇪
+S	cookie	🍪
+S	tropical_fish	🐠
+S	repeat	🔁
+S	rolled_up_newspaper	🗞️
+S	monorail	🚝
+S	nauseated_face	🤢
+S	flag-eg	🇪🇬
+S	birthday	🎂
+S	blowfish	🐡
+S	bookmark_tabs	📑
+S	repeat_one	🔂
+S	mountain_railway	🚞
+S	face_vomiting	🤮
+S	flag-eh	🇪🇭
+S	cake	🍰
+S	bookmark	🔖
+S	train	🚋
+S	sneezing_face	🤧
+S	shark	🦈
+S	arrow_forward	▶️
+S	flag-er	🇪🇷
+S	label	🏷️
+S	octopus	🐙
+S	innocent	😇
+S	bus	🚌
+S	pie	🥧
+S	fast_forward	⏩
+S	es	🇪🇸
+S	chocolate_bar	🍫
+S	shell	🐚
+S	moneybag	💰
+S	oncoming_bus	🚍
+S	face_with_cowboy_hat	🤠
+S	black_right_pointing_double_triangle_with_vertical_bar	⏭️
+S	flag-et	🇪🇹
+S	candy	🍬
+S	yen	💴
+S	trolleybus	🚎
+S	clown_face	🤡
+S	crab	🦀
+S	black_right_pointing_triangle_with_double_vertical_bar	⏯️
+S	flag-eu	🇪🇺
+S	lollipop	🍭
+S	dollar	💵
+S	minibus	🚐
+S	lying_face	🤥
+S	shrimp	🦐
+S	arrow_backward	◀️
+S	flag-fi	🇫🇮
+S	custard	🍮
+S	euro	💶
+S	ambulance	🚑
+S	shushing_face	🤫
+S	squid	🦑
+S	rewind	⏪
+S	flag-fj	🇫🇯
+S	honey_pot	🍯
+S	snail	🐌
+S	pound	💷
+S	fire_engine	🚒
+S	face_with_hand_over_mouth	🤭
+S	black_left_pointing_double_triangle_with_vertical_bar	⏮️
+S	flag-fk	🇫🇰
+S	baby_bottle	🍼
+S	money_with_wings	💸
+S	arrow_up_small	🔼
+S	police_car	🚓
+S	butterfly	🦋
+S	face_with_monocle	🧐
+S	flag-fm	🇫🇲
+S	bug	🐛
+S	credit_card	💳
+S	oncoming_police_car	🚔
+S	nerd_face	🤓
+S	glass_of_milk	🥛
+S	arrow_double_up	⏫
+S	flag-fo	🇫🇴
+S	ant	🐜
+S	chart	💹
+S	arrow_down_small	🔽
+S	smiling_imp	😈
+S	taxi	🚕
+S	coffee	☕
+S	fr	🇫🇷
+S	tea	🍵
+S	bee	🐝
+S	imp	👿
+S	currency_exchange	💱
+S	oncoming_taxi	🚖
+S	arrow_double_down	⏬
+S	flag-ga	🇬🇦
+S	sake	🍶
+S	beetle	🐞
+S	japanese_ogre	👹
+S	heavy_dollar_sign	💲
+S	car	🚗
+S	double_vertical_bar	⏸️
+S	gb	🇬🇧
+S	champagne	🍾
+S	japanese_goblin	👺
+S	oncoming_automobile	🚘
+S	cricket	🦗
+S	black_square_for_stop	⏹️
+S	email	✉️
+S	flag-gd	🇬🇩
+S	wine_glass	🍷
+S	skull	💀
+S	e-mail	📧
+S	spider	🕷️
+S	blue_car	🚙
+S	black_circle_for_record	⏺️
+S	flag-ge	🇬🇪
+S	cocktail	🍸
+S	incoming_envelope	📨
+S	spider_web	🕸️
+S	truck	🚚
+S	eject	⏏️
+S	skull_and_crossbones	☠️
+S	flag-gf	🇬🇫
+S	tropical_drink	🍹
+S	cinema	🎦
+S	ghost	👻
+S	envelope_with_arrow	📩
+S	articulated_lorry	🚛
+S	scorpion	🦂
+S	flag-gg	🇬🇬
+S	beer	🍺
+S	alien	👽
+S	bouquet	💐
+S	outbox_tray	📤
+S	low_brightness	🔅
+S	tractor	🚜
+S	flag-gh	🇬🇭
+S	cherry_blossom	🌸
+S	beers	🍻
+S	space_invader	👾
+S	inbox_tray	📥
+S	high_brightness	🔆
+S	bike	🚲
+S	flag-gi	🇬🇮
+S	white_flower	💮
+S	package	📦
+S	signal_strength	📶
+S	scooter	🛴
+S	robot_face	🤖
+S	clinking_glasses	🥂
+S	flag-gl	🇬🇱
+S	rosette	🏵️
+S	hankey	💩
+S	mailbox	📫
+S	vibration_mode	📳
+S	motor_scooter	🛵
+S	tumbler_glass	🥃
+S	flag-gm	🇬🇲
+S	rose	🌹
+S	mailbox_closed	📪
+S	mobile_phone_off	📴
+S	smiley_cat	😺
+S	busstop	🚏
+S	cup_with_straw	🥤
+S	flag-gn	🇬🇳
+S	mailbox_with_mail	📬
+S	smile_cat	😸
+S	motorway	🛣️
+S	wilted_flower	🥀
+S	chopsticks	🥢
+S	female_sign	♀️
+S	flag-gp	🇬🇵
+S	hibiscus	🌺
+S	knife_fork_plate	🍽️
+S	mailbox_with_no_mail	📭
+S	joy_cat	😹
+S	railway_track	🛤️
+S	male_sign	♂️
+S	flag-gq	🇬🇶
+S	sunflower	🌻
+S	fork_and_knife	🍴
+S	postbox	📮
+S	heart_eyes_cat	😻
+S	medical_symbol	⚕️
+S	fuelpump	⛽
+S	flag-gr	🇬🇷
+S	blossom	🌼
+S	ballot_box_with_ballot	🗳️
+S	smirk_cat	😼
+S	rotating_light	🚨
+S	spoon	🥄
+S	recycle	♻️
+S	flag-gs	🇬🇸
+S	tulip	🌷
+S	hocho	🔪
+S	kissing_cat	😽
+S	traffic_light	🚥
+S	fleur_de_lis	⚜️
+S	pencil2	✏️
+S	flag-gt	🇬🇹
+S	seedling	🌱
+S	amphora	🏺
+S	trident	🔱
+S	scream_cat	🙀
+S	vertical_traffic_light	🚦
+S	black_nib	✒️
+S	flag-gu	🇬🇺
+S	evergreen_tree	🌲
+S	name_badge	📛
+S	lower_left_fountain_pen	🖋️
+S	crying_cat_face	😿
+S	construction	🚧
+S	flag-gw	🇬🇼
+S	deciduous_tree	🌳
+S	beginner	🔰
+S	lower_left_ballpoint_pen	🖊️
+S	pouting_cat	😾
+S	octagonal_sign	🛑
+S	flag-gy	🇬🇾
+S	palm_tree	🌴
+S	lower_left_paintbrush	🖌️
+S	see_no_evil	🙈
+S	anchor	⚓
+S	o	⭕
+S	flag-hk	🇭🇰
+S	cactus	🌵
+S	lower_left_crayon	🖍️
+S	hear_no_evil	🙉
+S	boat	⛵
+S	white_check_mark	✅
+S	flag-hm	🇭🇲
+S	ear_of_rice	🌾
+S	memo	📝
+S	speak_no_evil	🙊
+S	canoe	🛶
+S	ballot_box_with_check	☑️
+S	flag-hn	🇭🇳
+S	herb	🌿
+S	baby	👶
+S	briefcase	💼
+S	speedboat	🚤
+S	heavy_check_mark	✔️
+S	flag-hr	🇭🇷
+S	file_folder	📁
+S	passenger_ship	🛳️
+S	child	🧒
+S	shamrock	☘️
+S	heavy_multiplication_x	✖️
+S	flag-ht	🇭🇹
+S	four_leaf_clover	🍀
+S	boy	👦
+S	open_file_folder	📂
+S	ferry	⛴️
+S	x	❌
+S	flag-hu	🇭🇺
+S	maple_leaf	🍁
+S	girl	👧
+S	card_index_dividers	🗂️
+S	motor_boat	🛥️
+S	negative_squared_cross_mark	❎
+S	flag-ic	🇮🇨
+S	fallen_leaf	🍂
+S	date	📅
+S	ship	🚢
+S	adult	🧑
+S	heavy_plus_sign	➕
+S	flag-id	🇮🇩
+S	leaves	🍃
+S	man	👨
+S	calendar	📆
+S	airplane	✈️
+S	heavy_minus_sign	➖
+S	flag-ie	🇮🇪
+S	woman	👩
+S	spiral_note_pad	🗒️
+S	small_airplane	🛩️
+S	heavy_division_sign	➗
+S	flag-il	🇮🇱
+S	spiral_calendar_pad	🗓️
+S	airplane_departure	🛫
+S	older_adult	🧓
+S	curly_loop	➰
+S	flag-im	🇮🇲
+S	older_man	👴
+S	card_index	📇
+S	airplane_arriving	🛬
+S	loop	➿
+S	flag-in	🇮🇳
+S	older_woman	👵
+S	seat	💺
+S	chart_with_upwards_trend	📈
+S	part_alternation_mark	〽️
+S	flag-io	🇮🇴
+S	male-doctor	👨‍⚕️
+S	chart_with_downwards_trend	📉
+S	helicopter	🚁
+S	eight_spoked_asterisk	✳️
+S	flag-iq	🇮🇶
+S	female-doctor	👩‍⚕️
+S	bar_chart	📊
+S	suspension_railway	🚟
+S	eight_pointed_black_star	✴️
+S	flag-ir	🇮🇷
+S	male-student	👨‍🎓
+S	clipboard	📋
+S	mountain_cableway	🚠
+S	sparkle	❇️
+S	flag-is	🇮🇸
+S	female-student	👩‍🎓
+S	pushpin	📌
+S	aerial_tramway	🚡
+S	bangbang	‼️
+S	it	🇮🇹
+S	male-teacher	👨‍🏫
+S	round_pushpin	📍
+S	satellite	🛰️
+S	interrobang	⁉️
+S	flag-je	🇯🇪
+S	female-teacher	👩‍🏫
+S	paperclip	📎
+S	rocket	🚀
+S	question	❓
+S	flag-jm	🇯🇲
+S	male-judge	👨‍⚖️
+S	linked_paperclips	🖇️
+S	flying_saucer	🛸
+S	grey_question	❔
+S	flag-jo	🇯🇴
+S	female-judge	👩‍⚖️
+S	straight_ruler	📏
+S	bellhop_bell	🛎️
+S	grey_exclamation	❕
+S	jp	🇯🇵
+S	male-farmer	👨‍🌾
+S	triangular_ruler	📐
+S	door	🚪
+S	exclamation	❗
+S	flag-ke	🇰🇪
+S	female-farmer	👩‍🌾
+S	bed	🛏️
+S	scissors	✂️
+S	wavy_dash	〰️
+S	copyright	©️
+S	flag-kg	🇰🇬
+S	male-cook	👨‍🍳
+S	card_file_box	🗃️
+S	couch_and_lamp	🛋️
+S	registered	®️
+S	flag-kh	🇰🇭
+S	female-cook	👩‍🍳
+S	file_cabinet	🗄️
+S	toilet	🚽
+S	flag-ki	🇰🇮
+S	male-mechanic	👨‍🔧
+S	wastebasket	🗑️
+S	shower	🚿
+S	tm	™️
+S	hash	#️⃣
+S	flag-km	🇰🇲
+S	female-mechanic	👩‍🔧
+S	lock	🔒
+S	bathtub	🛁
+S	keycap_star	*️⃣
+S	flag-kn	🇰🇳
+S	male-factory-worker	👨‍🏭
+S	unlock	🔓
+S	hourglass	⌛
+S	zero	0️⃣
+S	flag-kp	🇰🇵
+S	female-factory-worker	👩‍🏭
+S	lock_with_ink_pen	🔏
+S	hourglass_flowing_sand	⏳
+S	one	1️⃣
+S	kr	🇰🇷
+S	male-office-worker	👨‍💼
+S	closed_lock_with_key	🔐
+S	watch	⌚
+S	two	2️⃣
+S	flag-kw	🇰🇼
+S	female-office-worker	👩‍💼
+S	key	🔑
+S	alarm_clock	⏰
+S	three	3️⃣
+S	flag-ky	🇰🇾
+S	male-scientist	👨‍🔬
+S	old_key	🗝️
+S	stopwatch	⏱️
+S	four	4️⃣
+S	flag-kz	🇰🇿
+S	female-scientist	👩‍🔬
+S	hammer	🔨
+S	timer_clock	⏲️
+S	five	5️⃣
+S	flag-la	🇱🇦
+S	male-technologist	👨‍💻
+S	mantelpiece_clock	🕰️
+S	pick	⛏️
+S	six	6️⃣
+S	flag-lb	🇱🇧
+S	female-technologist	👩‍💻
+S	clock12	🕛
+S	hammer_and_pick	⚒️
+S	seven	7️⃣
+S	flag-lc	🇱🇨
+S	male-singer	👨‍🎤
+S	clock1230	🕧
+S	hammer_and_wrench	🛠️
+S	eight	8️⃣
+S	flag-li	🇱🇮
+S	female-singer	👩‍🎤
+S	clock1	🕐
+S	dagger_knife	🗡️
+S	nine	9️⃣
+S	flag-lk	🇱🇰
+S	male-artist	👨‍🎨
+S	clock130	🕜
+S	crossed_swords	⚔️
+S	flag-lr	🇱🇷
+S	female-artist	👩‍🎨
+S	keycap_ten	🔟
+S	gun	🔫
+S	clock2	🕑
+S	flag-ls	🇱🇸
+S	bow_and_arrow	🏹
+S	male-pilot	👨‍✈️
+S	100	💯
+S	clock230	🕝
+S	flag-lt	🇱🇹
+S	female-pilot	👩‍✈️
+S	capital_abcd	🔠
+S	clock3	🕒
+S	shield	🛡️
+S	flag-lu	🇱🇺
+S	male-astronaut	👨‍🚀
+S	abcd	🔡
+S	wrench	🔧
+S	clock330	🕞
+S	flag-lv	🇱🇻
+S	female-astronaut	👩‍🚀
+S	1234	🔢
+S	nut_and_bolt	🔩
+S	clock4	🕓
+S	flag-ly	🇱🇾
+S	male-firefighter	👨‍🚒
+S	symbols	🔣
+S	clock430	🕟
+S	gear	⚙️
+S	flag-ma	🇲🇦
+S	female-firefighter	👩‍🚒
+S	abc	🔤
+S	clock5	🕔
+S	compression	🗜️
+S	a	🅰️
+S	flag-mc	🇲🇨
+S	clock530	🕠
+S	alembic	⚗️
+S	ab	🆎
+S	flag-md	🇲🇩
+S	male-police-officer	👮‍♂️
+S	clock6	🕕
+S	scales	⚖️
+S	b	🅱️
+S	flag-me	🇲🇪
+S	female-police-officer	👮‍♀️
+S	link	🔗
+S	clock630	🕡
+S	cl	🆑
+S	flag-mf	🇲🇫
+S	clock7	🕖
+S	chains	⛓️
+S	cool	🆒
+S	flag-mg	🇲🇬
+S	syringe	💉
+S	clock730	🕢
+S	male-detective	🕵️‍♂️
+S	free	🆓
+S	flag-mh	🇲🇭
+S	pill	💊
+S	clock8	🕗
+S	female-detective	🕵️‍♀️
+S	flag-mk	🇲🇰
+S	clock830	🕣
+S	smoking	🚬
+S	information_source	ℹ️
+S	id	🆔
+S	flag-ml	🇲🇱
+S	male-guard	💂‍♂️
+S	clock9	🕘
+S	coffin	⚰️
+S	flag-mm	🇲🇲
+S	female-guard	💂‍♀️
+S	clock930	🕤
+S	m	Ⓜ️
+S	funeral_urn	⚱️
+S	new	🆕
+S	flag-mn	🇲🇳
+S	clock10	🕙
+S	moyai	🗿
+S	ng	🆖
+S	flag-mo	🇲🇴
+S	male-construction-worker	👷‍♂️
+S	clock1030	🕥
+S	oil_drum	🛢️
+S	o2	🅾️
+S	flag-mp	🇲🇵
+S	female-construction-worker	👷‍♀️
+S	crystal_ball	🔮
+S	clock11	🕚
+S	ok	🆗
+S	flag-mq	🇲🇶
+S	clock1130	🕦
+S	shopping_trolley	🛒
+S	prince	🤴
+S	parking	🅿️
+S	flag-mr	🇲🇷
+S	new_moon	🌑
+S	princess	👸
+S	sos	🆘
+S	flag-ms	🇲🇸
+S	waxing_crescent_moon	🌒
+S	up	🆙
+S	flag-mt	🇲🇹
+S	first_quarter_moon	🌓
+S	man-wearing-turban	👳‍♂️
+S	vs	🆚
+S	flag-mu	🇲🇺
+S	moon	🌔
+S	woman-wearing-turban	👳‍♀️
+S	flag-mv	🇲🇻
+S	koko	🈁
+S	full_moon	🌕
+S	man_with_gua_pi_mao	👲
+S	flag-mw	🇲🇼
+S	sa	🈂️
+S	waning_gibbous_moon	🌖
+S	person_with_headscarf	🧕
+S	flag-mx	🇲🇽
+S	u6708	🈷️
+S	last_quarter_moon	🌗
+S	bearded_person	🧔
+S	flag-my	🇲🇾
+S	u6709	🈶
+S	waning_crescent_moon	🌘
+S	flag-mz	🇲🇿
+S	u6307	🈯
+S	crescent_moon	🌙
+S	blond-haired-man	👱‍♂️
+S	flag-na	🇳🇦
+S	ideograph_advantage	🉐
+S	new_moon_with_face	🌚
+S	blond-haired-woman	👱‍♀️
+S	flag-nc	🇳🇨
+S	u5272	🈹
+S	first_quarter_moon_with_face	🌛
+S	man_in_tuxedo	🤵
+S	flag-ne	🇳🇪
+S	u7121	🈚
+S	last_quarter_moon_with_face	🌜
+S	bride_with_veil	👰
+S	flag-nf	🇳🇫
+S	u7981	🈲
+S	thermometer	🌡️
+S	pregnant_woman	🤰
+S	flag-ng	🇳🇬
+S	accept	🉑
+S	breast-feeding	🤱
+S	sunny	☀️
+S	flag-ni	🇳🇮
+S	u7533	🈸
+S	full_moon_with_face	🌝
+S	angel	👼
+S	flag-nl	🇳🇱
+S	u5408	🈴
+S	sun_with_face	🌞
+S	santa	🎅
+S	flag-no	🇳🇴
+S	u7a7a	🈳
+S	mrs_claus	🤶
+S	star	⭐
+S	flag-np	🇳🇵
+S	star2	🌟
+S	congratulations	㊗️
+S	flag-nr	🇳🇷
+S	stars	🌠
+S	female_mage	🧙‍♀️
+S	secret	㊙️
+S	flag-nu	🇳🇺
+S	u55b6	🈺
+S	male_mage	🧙‍♂️
+S	cloud	☁️
+S	flag-nz	🇳🇿
+S	u6e80	🈵
+S	partly_sunny	⛅
+S	flag-om	🇴🇲
+S	female_fairy	🧚‍♀️
+S	black_small_square	▪️
+S	thunder_cloud_and_rain	⛈️
+S	flag-pa	🇵🇦
+S	mostly_sunny	🌤️
+S	male_fairy	🧚‍♂️
+S	white_small_square	▫️
+S	flag-pe	🇵🇪
+S	barely_sunny	🌥️
+S	white_medium_square	◻️
+S	flag-pf	🇵🇫
+S	partly_sunny_rain	🌦️
+S	female_vampire	🧛‍♀️
+S	black_medium_square	◼️
+S	flag-pg	🇵🇬
+S	rain_cloud	🌧️
+S	male_vampire	🧛‍♂️
+S	white_medium_small_square	◽
+S	flag-ph	🇵🇭
+S	snow_cloud	🌨️
+S	black_medium_small_square	◾
+S	flag-pk	🇵🇰
+S	lightning	🌩️
+S	mermaid	🧜‍♀️
+S	black_large_square	⬛
+S	flag-pl	🇵🇱
+S	tornado	🌪️
+S	merman	🧜‍♂️
+S	white_large_square	⬜
+S	flag-pm	🇵🇲
+S	fog	🌫️
+S	large_orange_diamond	🔶
+S	flag-pn	🇵🇳
+S	wind_blowing_face	🌬️
+S	large_blue_diamond	🔷
+S	female_elf	🧝‍♀️
+S	flag-pr	🇵🇷
+S	cyclone	🌀
+S	small_orange_diamond	🔸
+S	male_elf	🧝‍♂️
+S	flag-ps	🇵🇸
+S	rainbow	🌈
+S	small_blue_diamond	🔹
+S	flag-pt	🇵🇹
+S	closed_umbrella	🌂
+S	small_red_triangle	🔺
+S	female_genie	🧞‍♀️
+S	flag-pw	🇵🇼
+S	small_red_triangle_down	🔻
+S	male_genie	🧞‍♂️
+S	umbrella	☂️
+S	flag-py	🇵🇾
+S	diamond_shape_with_a_dot_inside	💠
+S	umbrella_with_rain_drops	☔
+S	flag-qa	🇶🇦
+S	radio_button	🔘
+S	female_zombie	🧟‍♀️
+S	umbrella_on_ground	⛱️
+S	flag-re	🇷🇪
+S	black_square_button	🔲
+S	male_zombie	🧟‍♂️
+S	zap	⚡
+S	flag-ro	🇷🇴
+S	white_square_button	🔳
+S	snowflake	❄️
+S	flag-rs	🇷🇸
+S	man-frowning	🙍‍♂️
+S	snowman	☃️
+S	white_circle	⚪
+S	ru	🇷🇺
+S	woman-frowning	🙍‍♀️
+S	black_circle	⚫
+S	snowman_without_snow	⛄
+S	flag-rw	🇷🇼
+S	red_circle	🔴
+S	comet	☄️
+S	flag-sa	🇸🇦
+S	fire	🔥
+S	large_blue_circle	🔵
+S	man-pouting	🙎‍♂️
+S	flag-sb	🇸🇧
+S	droplet	💧
+S	woman-pouting	🙎‍♀️
+S	flag-sc	🇸🇨
+S	ocean	🌊
+S	flag-sd	🇸🇩
+S	man-gesturing-no	🙅‍♂️
+S	flag-se	🇸🇪
+S	woman-gesturing-no	🙅‍♀️
+S	flag-sg	🇸🇬
+S	flag-sh	🇸🇭
+S	man-gesturing-ok	🙆‍♂️
+S	flag-si	🇸🇮
+S	woman-gesturing-ok	🙆‍♀️
+S	flag-sj	🇸🇯
+S	flag-sk	🇸🇰
+S	man-tipping-hand	💁‍♂️
+S	flag-sl	🇸🇱
+S	woman-tipping-hand	💁‍♀️
+S	flag-sm	🇸🇲
+S	flag-sn	🇸🇳
+S	man-raising-hand	🙋‍♂️
+S	flag-so	🇸🇴
+S	woman-raising-hand	🙋‍♀️
+S	flag-sr	🇸🇷
+S	flag-ss	🇸🇸
+S	man-bowing	🙇‍♂️
+S	flag-st	🇸🇹
+S	woman-bowing	🙇‍♀️
+S	flag-sv	🇸🇻
+S	face_palm	🤦
+S	flag-sx	🇸🇽
+S	man-facepalming	🤦‍♂️
+S	flag-sy	🇸🇾
+S	woman-facepalming	🤦‍♀️
+S	flag-sz	🇸🇿
+S	shrug	🤷
+S	flag-ta	🇹🇦
+S	man-shrugging	🤷‍♂️
+S	flag-tc	🇹🇨
+S	woman-shrugging	🤷‍♀️
+S	flag-td	🇹🇩
+S	flag-tf	🇹🇫
+S	man-getting-massage	💆‍♂️
+S	flag-tg	🇹🇬
+S	woman-getting-massage	💆‍♀️
+S	flag-th	🇹🇭
+S	flag-tj	🇹🇯
+S	man-getting-haircut	💇‍♂️
+S	flag-tk	🇹🇰
+S	woman-getting-haircut	💇‍♀️
+S	flag-tl	🇹🇱
+S	flag-tm	🇹🇲
+S	man-walking	🚶‍♂️
+S	flag-tn	🇹🇳
+S	woman-walking	🚶‍♀️
+S	flag-to	🇹🇴
+S	flag-tr	🇹🇷
+S	man-running	🏃‍♂️
+S	flag-tt	🇹🇹
+S	woman-running	🏃‍♀️
+S	flag-tv	🇹🇻
+S	dancer	💃
+S	flag-tw	🇹🇼
+S	man_dancing	🕺
+S	flag-tz	🇹🇿
+S	flag-ua	🇺🇦
+S	man-with-bunny-ears-partying	👯‍♂️
+S	flag-ug	🇺🇬
+S	woman-with-bunny-ears-partying	👯‍♀️
+S	flag-um	🇺🇲
+S	flag-un	🇺🇳
+S	woman_in_steamy_room	🧖‍♀️
+S	us	🇺🇸
+S	man_in_steamy_room	🧖‍♂️
+S	flag-uy	🇺🇾
+S	flag-uz	🇺🇿
+S	woman_climbing	🧗‍♀️
+S	flag-va	🇻🇦
+S	man_climbing	🧗‍♂️
+S	flag-vc	🇻🇨
+S	flag-ve	🇻🇪
+S	woman_in_lotus_position	🧘‍♀️
+S	flag-vg	🇻🇬
+S	man_in_lotus_position	🧘‍♂️
+S	flag-vi	🇻🇮
+S	bath	🛀
+S	flag-vn	🇻🇳
+S	sleeping_accommodation	🛌
+S	flag-vu	🇻🇺
+S	man_in_business_suit_levitating	🕴️
+S	flag-wf	🇼🇫
+S	speaking_head_in_silhouette	🗣️
+S	flag-ws	🇼🇸
+S	bust_in_silhouette	👤
+S	flag-xk	🇽🇰
+S	busts_in_silhouette	👥
+S	flag-ye	🇾🇪
+S	fencer	🤺
+S	flag-yt	🇾🇹
+S	horse_racing	🏇
+S	flag-za	🇿🇦
+S	skier	⛷️
+S	flag-zm	🇿🇲
+S	snowboarder	🏂
+S	flag-zw	🇿🇼
+S	man-golfing	🏌️‍♂️
+S	flag-england	🏴󠁧󠁢󠁥󠁮󠁧󠁿
+S	woman-golfing	🏌️‍♀️
+S	flag-scotland	🏴󠁧󠁢󠁳󠁣󠁴󠁿
+S	flag-wales	🏴󠁧󠁢󠁷󠁬󠁳󠁿
+S	man-surfing	🏄‍♂️
+S	woman-surfing	🏄‍♀️
+S	man-rowing-boat	🚣‍♂️
+S	woman-rowing-boat	🚣‍♀️
+S	man-swimming	🏊‍♂️
+S	woman-swimming	🏊‍♀️
+S	man-bouncing-ball	⛹️‍♂️
+S	woman-bouncing-ball	⛹️‍♀️
+S	man-lifting-weights	🏋️‍♂️
+S	woman-lifting-weights	🏋️‍♀️
+S	man-biking	🚴‍♂️
+S	woman-biking	🚴‍♀️
+S	man-mountain-biking	🚵‍♂️
+S	woman-mountain-biking	🚵‍♀️
+S	racing_car	🏎️
+S	racing_motorcycle	🏍️
+S	person_doing_cartwheel	🤸
+S	man-cartwheeling	🤸‍♂️
+S	woman-cartwheeling	🤸‍♀️
+S	wrestlers	🤼
+S	man-wrestling	🤼‍♂️
+S	woman-wrestling	🤼‍♀️
+S	water_polo	🤽
+S	man-playing-water-polo	🤽‍♂️
+S	woman-playing-water-polo	🤽‍♀️
+S	handball	🤾
+S	man-playing-handball	🤾‍♂️
+S	woman-playing-handball	🤾‍♀️
+S	juggling	🤹
+S	man-juggling	🤹‍♂️
+S	woman-juggling	🤹‍♀️
+S	couple	👫
+S	two_men_holding_hands	👬
+S	two_women_holding_hands	👭
+S	woman-kiss-man	👩‍❤️‍💋‍👨
+S	man-kiss-man	👨‍❤️‍💋‍👨
+S	woman-kiss-woman	👩‍❤️‍💋‍👩
+S	woman-heart-man	👩‍❤️‍👨
+S	man-heart-man	👨‍❤️‍👨
+S	woman-heart-woman	👩‍❤️‍👩
+S	man-woman-boy	👨‍👩‍👦
+S	man-woman-girl	👨‍👩‍👧
+S	man-woman-girl-boy	👨‍👩‍👧‍👦
+S	man-woman-boy-boy	👨‍👩‍👦‍👦
+S	man-woman-girl-girl	👨‍👩‍👧‍👧
+S	man-man-boy	👨‍👨‍👦
+S	man-man-girl	👨‍👨‍👧
+S	man-man-girl-boy	👨‍👨‍👧‍👦
+S	man-man-boy-boy	👨‍👨‍👦‍👦
+S	man-man-girl-girl	👨‍👨‍👧‍👧
+S	woman-woman-boy	👩‍👩‍👦
+S	woman-woman-girl	👩‍👩‍👧
+S	woman-woman-girl-boy	👩‍👩‍👧‍👦
+S	woman-woman-boy-boy	👩‍👩‍👦‍👦
+S	woman-woman-girl-girl	👩‍👩‍👧‍👧
+S	man-boy	👨‍👦
+S	man-boy-boy	👨‍👦‍👦
+S	man-girl	👨‍👧
+S	man-girl-boy	👨‍👧‍👦
+S	man-girl-girl	👨‍👧‍👧
+S	woman-boy	👩‍👦
+S	woman-boy-boy	👩‍👦‍👦
+S	woman-girl	👩‍👧
+S	woman-girl-boy	👩‍👧‍👦
+S	woman-girl-girl	👩‍👧‍👧
+S	selfie	🤳
+S	muscle	💪
+S	point_left	👈
+S	point_right	👉
+S	point_up	☝️
+S	point_up_2	👆
+S	middle_finger	🖕
+S	point_down	👇
+S	v	✌️
+S	crossed_fingers	🤞
+S	spock-hand	🖖
+S	the_horns	🤘
+S	call_me_hand	🤙
+S	raised_hand_with_fingers_splayed	🖐️
+S	hand	✋
+S	ok_hand	👌
+S	+1	👍
+S	-1	👎
+S	fist	✊
+S	facepunch	👊
+S	left-facing_fist	🤛
+S	right-facing_fist	🤜
+S	raised_back_of_hand	🤚
+S	wave	👋
+S	i_love_you_hand_sign	🤟
+S	writing_hand	✍️
+S	clap	👏
+S	open_hands	👐
+S	raised_hands	🙌
+S	palms_up_together	🤲
+S	pray	🙏
+S	handshake	🤝
+S	nail_care	💅
+S	ear	👂
+S	nose	👃
+S	footprints	👣
+S	eyes	👀
+S	eye	👁️
+S	eye-in-speech-bubble	👁️‍🗨️
+S	brain	🧠
+S	tongue	👅
+S	lips	👄
+S	kiss	💋
+S	cupid	💘
+S	heart	❤️
+S	heartbeat	💓
+S	broken_heart	💔
+S	two_hearts	💕
+S	sparkling_heart	💖
+S	heartpulse	💗
+S	blue_heart	💙
+S	green_heart	💚
+S	yellow_heart	💛
+S	orange_heart	🧡
+S	purple_heart	💜
+S	black_heart	🖤
+S	gift_heart	💝
+S	revolving_hearts	💞
+S	heart_decoration	💟
+S	heavy_heart_exclamation_mark_ornament	❣️
+S	love_letter	💌
+S	zzz	💤
+S	anger	💢
+S	bomb	💣
+S	boom	💥
+S	sweat_drops	💦
+S	dash	💨
+S	dizzy	💫
+S	speech_balloon	💬
+S	left_speech_bubble	🗨️
+S	right_anger_bubble	🗯️
+S	thought_balloon	💭
+S	hole	🕳️
+S	eyeglasses	👓
+S	dark_sunglasses	🕶️
+S	necktie	👔
+S	shirt	👕
+S	jeans	👖
+S	scarf	🧣
+S	gloves	🧤
+S	coat	🧥
+S	socks	🧦
+S	dress	👗
+S	kimono	👘
+S	bikini	👙
+S	womans_clothes	👚
+S	purse	👛
+S	handbag	👜
+S	pouch	👝
+S	shopping_bags	🛍️
+S	school_satchel	🎒
+S	mans_shoe	👞
+S	athletic_shoe	👟
+S	high_heel	👠
+S	sandal	👡
+S	boot	👢
+S	crown	👑
+S	womans_hat	👒
+S	tophat	🎩
+S	mortar_board	🎓
+S	billed_cap	🧢
+S	helmet_with_white_cross	⛑️
+S	prayer_beads	📿
+S	lipstick	💄
+S	ring	💍
+S	gem	💎

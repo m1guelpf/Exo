@@ -1,0 +1,37 @@
+[package]
+name = "exo-mail"
+description = "Turns a message's HTML into what Exo shows: the render pipeline, then a Blitz layout painted to RGBA."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+anyrender = { workspace = true }
+anyrender_vello_cpu = { workspace = true }
+base64 = { workspace = true }
+blitz-dom = { workspace = true }
+blitz-html = { workspace = true }
+blitz-paint = { workspace = true }
+blitz-traits = { workspace = true }
+exo-fonts = { workspace = true }
+fancy-regex = { workspace = true }
+gif = { workspace = true }
+gmail = { workspace = true }
+html5ever = { workspace = true }
+image = { workspace = true, features = ["gif", "webp"] }
+log = { workspace = true }
+markup5ever_rcdom = { workspace = true }
+parley = { workspace = true }
+peniko = { workspace = true }
+regex = { workspace = true }
+serde_json = { workspace = true }
+style_config = { workspace = true }
+url = { workspace = true }
+
+[dev-dependencies]
+anyhow = { workspace = true }
+clap = { workspace = true }
+reqwest = { workspace = true }
+tokio = { workspace = true }

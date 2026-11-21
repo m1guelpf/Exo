@@ -1,0 +1,5 @@
+git_branch("main")
+storage_mode("git")
+team_id("LR4RJT6586")
+app_identifier("build.miguel.Exo")
+git_url("https://github.com/m1guelpf/fastlane-match.git")

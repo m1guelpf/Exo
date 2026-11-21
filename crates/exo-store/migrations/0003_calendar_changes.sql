@@ -1,0 +1,1 @@
+CREATE TABLE "calendar_changes" ("id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, "token" INTEGER NOT NULL, "queue" TEXT NOT NULL, "change" TEXT NOT NULL, "failures" INTEGER NOT NULL, "not_before" TEXT);

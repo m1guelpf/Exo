@@ -1,0 +1,630 @@
+Exo's icons, generated; don't edit them by hand.
+
+Sources (sha256):
+  7e74e36533ccee12c2b81e75bfcf3ccf123d3bb7e7e46d65d94445f23db0c97c  google/material-design-icons@10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7/variablefont/MaterialSymbolsRounded[FILL,GRAD,opsz,wght].ttf
+  a7404d9e5a1b63f496cf05ace45d386075886b5a7f123fba9f29527cb6006fde  google/material-design-icons@10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7/variablefont/MaterialSymbolsRounded[FILL,GRAD,opsz,wght].codepoints
+  58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd  google/material-design-icons@10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7/LICENSE
+  2069d8e682dda3aa05fa71de36c0ab17984e62d2bd34d7082c4a85e0691b4235  npm simple-icons@16.36.0
+  ca4e32843bd81711894385c2466fb19c55cfd32ef3c58830b2d1df7bd42e6571  npm @fortawesome/fontawesome-free@7.3.1
+
+Outputs (sha256, file: glyph, axes, where its ink goes in the viewBox, color):
+  ec05581999675c0479e27481f5ada1e186d3a56007dd251f354c632db9aca4ee  css/AchievementsModal-share-button-icon-linkedin.svg
+      Font Awesome linkedin-in, into 2 2 18 18, #148072
+  2b56bb7bdf186f304eeed4acdabb49735b50f846b6005757111da6af28f18e87  css/AchievementsModal-share-button-icon-twitter.svg
+      Simple Icons x, into 0 0 16.802 15.206, #148072
+  da827b2b53603b1d05d04e9e14a5845fd97d0e971a005da42e9b639ac4d95a94  css/AttachmentPreview-chevronLeft.svg
+      chevron_left FILL=0 wght=100 opsz=48, into 0.625 0.25 26.75 49.75, #fff
+  09f2cd54e69531fea471d778edbeadc40869aa8ff7140b83edda33bbb15b3d54  css/AttachmentPreview-chevronRight.svg
+      chevron_right FILL=0 wght=100 opsz=48, into 0.625 0.25 26.75 49.75, #fff
+  da5153e6b7f0125a379cb73db223872c47d3dbfc0bd3363801cd47e802325f1a  css/AttachmentPreview-closeIcon.svg
+      close FILL=0 wght=205 opsz=20, into 0 0.487 11.992 12.512, #fff
+  3dbddfadaec0af3f461b20a2ab2c7456cc5426a9837a1f8b2b80ae958ec37c18  css/AttachmentPreview-download-icon.svg
+      download FILL=0 wght=254 opsz=20, into 0 0 13 13, #fff
+  7dc483fb3024e05bbd8b3e78241e0a67512ee0949fc9dda1149f0b5558554380  css/Checkbox.svg
+      check_box_outline_blank FILL=0 wght=253 opsz=20, into 0 72 14.025 85.987, #999
+  fd43ba900a9feec188a72198e4426a3d0bd157540cd9334540e22dc2210f521d  css/Checkbox-checked.svg
+      check_box FILL=0 wght=312 opsz=20, into 0 0 14.137 13.987, #6fbeea
+  0df199cce75bb1a92d736e33ac7c662f78a3923a4c09b8fac955ffa0a4426b5e  css/Checkbox-disabled.svg
+      check_box_outline_blank FILL=0 wght=253 opsz=20, into 0 72 13.987 85.987, #000 at 0.25
+  d14368d408af5984ee24ee2fe2509b98ccd4bb5da299fb1a520f335a2b07ac36  css/Command-header-icon.svg
+      layers FILL=0 wght=306 opsz=20, ring, into 3.06 2.295 14.94 16.245, #fff
+  3ba383b40efb26843707bc57c2611a81f17a8ca6ea929cff76139732d76a913d  css/Command-item-Command-item-tick.svg
+      check FILL=0 wght=481 opsz=20, into 0.315 0.7 13.16 10.395, #fff
+  4d9109735a1b7df566b04988713d174a8cfe58a14a994409e07029db0d7dca60  css/ComposeForm-doneIcon-ComposeForm-doneIcon-in.svg
+      check FILL=0 wght=481 opsz=20, into 0.315 0.7 13.16 10.395, #8892b9
+  db0fd370b15db36805cea5ec70ed3b8a17a1c6d7261317179e396c5b94f18f9d  css/Dialog-Close-icon.svg
+      close FILL=0 wght=205 opsz=20, into 0 0.487 11.992 12.512, #000
+  0c01b0aefd36491ca6a0b1f85846a8028134464062d0a30809159afa6c83a4a2  css/Dialog-close-Close-icon.svg
+      close FILL=0 wght=204 opsz=20, into 0 0 12 12, #fff
+  ab58f11dca2d322f0770b30dbd712b2a390705eae1e5411cbe6df31a24a736ff  css/FileDropZone.svg
+      note_add FILL=0 wght=263 opsz=26, into 0 0 21.97 26, #7f7f7f
+  83aabcad81e1335ceecf280fba6f5bbea8c6157781559a137e85f3fb1e17dbf0  css/InboxZeroSpotlight.svg
+      photo_camera FILL=0 wght=283 opsz=20, into 0.88 0.48 15.88 13.48, #fff at 0.8
+  26fc7c281f32b4983bf9a9b327efdb78e4c757ffde7b3766808728b092755ed2  css/MessagePane-spinner.svg
+      progress_activity FILL=0 wght=327 opsz=20, into 0.34 0.382 16.66 16.66, #000
+  a8ab38946911edbbf43ad749ac49c7532c8d7f4243e87a0729515cb8a6c8150c  css/Recipient-cross.svg
+      close FILL=0 wght=310 opsz=20, into 0.608 0.113 8.393 7.897, #b9b9b9
+  2a24031772b3799af855970be614b03c5a7c384efee44af49951c0f4285c909d  css/TextFormatter-color.svg
+      palette FILL=1 wght=400 opsz=20, into 0 0 15 13.987, #4a90e2
+  182f00b57a4cd1ed8c7559f5688cd51afa9b215937fd7c5abcd0d48abfe76ce8  css/ThreadListAttachments-left-chevron-icon.svg
+      chevron_left FILL=0 wght=181 opsz=20, into 0.315 0.315 7.7 13.685, #000 at 0.4
+  d1637c4c8c270e3c1cc399c07d10ae6f4258a9cb1f663aac3f0dfd4e7be18c81  css/ThreadListAttachments-right-chevron-icon.svg
+      chevron_right FILL=0 wght=181 opsz=20, into 0.28 0.28 7.7 13.72, #000 at 0.4
+  de33631fe0cafeea8d4aac532975c75c151d7539800d6447031d7145851d955b  css/ThreadStatus-starred-3.svg
+      star FILL=1 wght=400 opsz=20, into 0 0 7 7, #ffae33
+  572b9f0a558ea75a4c5caa4b48efb3c270d654757abf90a777973b98ffb2984a  css/ThreadStatus-starred-4.svg
+      flag FILL=1 wght=400 opsz=20, into 0.49 0 7 6.51, #ffae33
+  64709d68e0e5966d8333bc81547c8c3be7def4a3bdcb7f50ac74db657c09e681  css/isInvalid-cross.svg
+      close FILL=0 wght=310 opsz=20, into 0.608 0.113 8.393 7.897, #fff
+  9ffccafa76ae861ef0540490907a5698d8dfcd996ad714fac6ed6430a46a08ed  data/add.svg
+      add FILL=0 wght=260 opsz=20, ring, into 4.23 4.23 13.77 13.77, #fff at 0.5
+  8bff32eb91d6de4442c833d70c13b46acd44f5d8d2807876e9b234cd039aabbf  data/add-attachments.svg
+      attach_file FILL=0 wght=514 opsz=20, rotate 45, ring, into 3.87 3.15 14.895 15.165, #fff
+  abed015ab0d704dbd6d7762770b9f3c93381102f685e6b80fc84ea205b57e568  data/calendar.svg
+      calendar_today FILL=0 wght=463 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  7453583f4929f5c0a8df03d0bb895a10549051e3be57e81094c591cd4f8dc273  data/change-recipients.svg
+      contacts FILL=0 wght=700 opsz=20, ring, into 4.995 4.005 13.005 13.995, #fff
+  3660094cb58e40c3abc038056cc4c361bf1fdd821b697dc3b5c046ae7b5c4160  data/change-subject.svg
+      title FILL=0 wght=319 opsz=20, ring, into 2.97 4.995 15.03 13.005, #fff
+  3ba383b40efb26843707bc57c2611a81f17a8ca6ea929cff76139732d76a913d  data/checkmark-white.svg
+      check FILL=0 wght=481 opsz=20, into 0.315 0.7 13.16 10.395, #fff
+  25d21d6c29245f2b6dba0a7274cb7d89fdd632d6a34e6aee9d41516baded12ff  data/compose.svg
+      drive_file_rename_outline FILL=0 wght=416 opsz=20, ring, into 4.995 4.995 13.005 13.005, #fff
+  076ef9b6d2842203355e3af36523e414a61e337cb06fa14f4f3645cf67351ef6  data/contact.svg
+      chat FILL=0 wght=553 opsz=20, ring, into 4.005 4.995 13.995 13.635, #fff
+  b17dfa7fb2c74f59131bd41224d7098c503411f9f75fcafb9b1531a0c95355fc  data/copy.svg
+      content_copy FILL=0 wght=460 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  d4d596c89aa111a8df827cf44b5c6f2e1c8f52ad9b6fc2b4357c7324d0024c98  data/description.svg
+      notes FILL=0 wght=366 opsz=20, ring, into 4.005 5.49 13.995 12.51, #fff
+  08202284b51ea1462ed1940a867d823a16731a61ac82eefab73b7dfb6bf99854  data/diamond.svg
+      diamond FILL=0 wght=320 opsz=20, ring, into 3.06 4.05 15.165 15.075, #fff
+  ba2af63f323b400a5151ccc45e9354c92a3c94207f3df6beb86cbca62471a3ae  data/discard.svg
+      delete FILL=0 wght=313 opsz=20, ring, into 4.005 3.015 13.995 13.995, #fff
+  9647980114df4770461d363994a6b7281c2e6da9510ba42ffddf6be76f1c9eec  data/done.svg
+      check FILL=0 wght=344 opsz=20, ring, into 5.31 5.31 13.725 11.7, #fff
+  598f0da9d3054d5ce32269d6896786680c4ce178bea38b4fb0483354f89875fa  data/download.svg
+      download FILL=0 wght=374 opsz=20, ring, into 4.635 4.5 13.05 14.715, #fff
+  78e142833f5c148ca212ba24b59637df4e8049b557f11c27b397ef7a65c058b7  data/edit.svg
+      edit FILL=0 wght=297 opsz=20, ring, into 4.5 3.285 14.67 13.5, #fff
+  0d1696c161064bd4ef7caf1d722c79f06fc062ec9c7304eefdfabda6c61b27fc  data/emoji.svg
+      mood FILL=0 wght=700 opsz=20, ring, into 4.995 5.985 13.05 13.995, #fff
+  d6fedcf5b51b22aa106b1294426e9e5c91e9830d2fac1d3c09b333f70ca4db39  data/expand-all.svg
+      unfold_more FILL=0 wght=274 opsz=20, ring, into 4.005 1.395 13.995 16.605, #fff
+  6f432fad0a1c063ba728e8158d5c13d13ef5ab9308e72df8c4797ee53b2aa7ce  data/expand-message.svg
+      unfold_more FILL=0 wght=263 opsz=20, ring, into 4.005 1.395 13.995 16.605, #fff
+  86b24f878b4859e7c5c44827f6fc08e75b814b9b2eb402b55b0e4f314668c810  data/filter.svg
+      tune FILL=0 wght=346 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  61c587f68ed31c2bd4395ddc2fc2a4bd1d7f621136af6026fb63fc92ccebd1e0  data/fish.svg
+      phishing FILL=0 wght=700 opsz=20, ring, into 3.465 5.49 15.525 12.51, #fff
+  3aba97c40f55202a5a32cd89aafebc718ea607e47cfc66dc3c7c76044ae8bca7  data/flag.svg
+      flag FILL=0 wght=411 opsz=20, ring, into 5.49 4.005 13.185 13.995, #fff
+  cc53b37849376efd1bcc52b731e3ca8bd8047d0cf6bc9ea8fdba0b2afd36f6a2  data/flame.svg
+      mode_heat FILL=0 wght=255 opsz=20, ring, into 3.33 2.25 15.075 15.3, #fff
+  719a50cf04e050db5fd0400a475e818afc4cbdb5f6baf20ca742c3e38a66f214  data/forward.svg
+      reply FILL=0 wght=414 opsz=20, mirrored, ring, into 4.995 4.275 13.995 12.015, #fff
+  dce9ee867c501a3bda7dc7d87b590fb0d6cc1700185456f151f81a0a043c94d3  data/g-suite.svg
+      Simple Icons google, ring, into 4.005 4.005 13.995 13.995, #fff
+  abcb2d5eb1820f98a1ec74caf5a891ea9bc462eea8822e64b2c8db7df033ba42  data/go-to.svg
+      arrow_forward FILL=0 wght=354 opsz=20, ring, into 4.005 4.275 14.22 12.69, #fff
+  06b232699bbaa84dff3050c8e8c53d5eaaa027d335c2e2c7038a48726ac44475  data/heart.svg
+      favorite FILL=0 wght=387 opsz=20, ring, into 3.465 4.5 14.535 14.67, #fff
+  7a91ebf99a35f782231d762e28c4c1de5a4f25036f2e6d97b71cd22315e91fd6  data/hubspot.svg
+      Simple Icons hubspot, ring, into 4.005 4.005 13.005 13.995, #fff
+  d14368d408af5984ee24ee2fe2509b98ccd4bb5da299fb1a520f335a2b07ac36  data/icon.svg
+      layers FILL=0 wght=306 opsz=20, ring, into 3.06 2.295 14.94 16.245, #fff
+  1ae8687e451bc3265711dafa533e0a77ca3255a76123a69b1b28ad1fe262916e  data/insert-image.svg
+      image FILL=0 wght=368 opsz=20, ring, into 2.97 4.005 15.03 13.995, #fff
+  d6824ff7df1a6d8f06f375e5071e177fba512adf8442aca7ce3f3857ec9e91f5  data/instant-intro.svg
+      group FILL=0 wght=506 opsz=20, ring, into 4.005 4.23 13.995 13.32, #fff at 0.7
+  b635ddeefd81805d693563daeb8b041c409df7129568f03f4d4cd01aad2da82e  data/label.svg
+      label FILL=0 wght=399 opsz=20, ring, into 4.005 4.995 15.21 13.005, #fff
+  652a025a0600f35deb4b503a19fbd490177f1a2e1a655b159504409230857361  data/lightbulb.svg
+      lightbulb FILL=0 wght=390 opsz=20, ring, into 5.605 4.607 12.397 14.915, #fff
+  e66da3d89af2c7a5a91efbb7b716f6febbcc371f4a60caa084c8889e053a319d  data/lightning-bolt.svg
+      bolt FILL=0 wght=253 opsz=20, ring, into 3.61 3.99 14.392 16.008, #fff
+  0c3158edc17aed654e22c9d5ad74bd0d2c8988253a63f532ac3c1e6de4209f47  data/location.svg
+      location_on FILL=0 wght=538 opsz=20, ring, into 5.22 3.015 12.69 15.48, #fff
+  b346d2b468fe101d5ba25a0f9fe99cd132cbe3e656adb7acdc4172bdbf3bee88  data/mark-important.svg
+      priority_high FILL=0 wght=219 opsz=20, ring, into 5.985 3.015 12.015 15.03, #fff
+  0634766feadd48fed2e990fdf2c67a82ebc3c8f45971590a9c67a93c74aa1ec1  data/mark-unread.svg
+      mark_email_unread FILL=0 wght=365 opsz=20, ring, into 4.005 4.005 15.03 13.005, #fff
+  69724fc55cefa47cfd40ba663c7d4b122cad66a32d4e4158316327fe3940e781  data/microsoft-logo.svg
+      Font Awesome microsoft, ring, into 4.365 4.41 13.635 13.635, #fff
+  7272a0c580dc6c042347e606d6ac55bca6ef4a75562f9bced1a5c22917707bee  data/microsoft-teams.svg
+      groups FILL=0 wght=300 opsz=20, ring, into 5.535 4.005 13.14 13.995, #fff
+  83aabcad81e1335ceecf280fba6f5bbea8c6157781559a137e85f3fb1e17dbf0  data/module-99464.svg
+      photo_camera FILL=0 wght=283 opsz=20, into 0.88 0.48 15.88 13.48, #fff at 0.8
+  14296a133d18463e7a6144fdedd793a0f70f53c6236694da111086d99523b912  data/move.svg
+      open_with FILL=0 wght=377 opsz=20, ring, into 3.285 3.015 14.715 14.4, #fff
+  733b3753af265dbecc9323a362e51e60230261586bb1e53831a704e2d6411573  data/mute.svg
+      no_sound FILL=0 wght=289 opsz=20, ring, into 2.97 3.6 15.345 14.4, #fff
+  1a75b9db64b7a22b315068d28013510bfcbba71df83fd370d97a78cb023bc67b  data/open-book.svg
+      menu_book FILL=0 wght=629 opsz=20, ring, into 3.465 4.5 14.535 14.535, #fff
+  2fc049ae411d07e00578c36a1bfc75f724a8fcfe13d0a0233256a789ab4b2b03  data/open-links.svg
+      north_east FILL=0 wght=343 opsz=20, ring, into 4.635 4.995 13.005 13.365, #fff
+  c8cb197288568f434205623aa232ba775e31167aebdafe263becc0e54e830c03  data/open-links-gmail-action.svg
+      open_in_new FILL=0 wght=374 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  15a06ed81c79da547a7e908b0554cb1d93937b20d7502e08fb151444f4c760c5  data/open-links-link.svg
+      link FILL=0 wght=550 opsz=20, rotate -45, ring, into 4.14 4.14 13.95 13.95, #fff
+  7cdbee5e3653f19d136cd8aaeccc2f8b2b00554d3eefbde6703619c38e7394df  data/phone.svg
+      call FILL=0 wght=310 opsz=20, ring, into 4.322 5.272 13.727 14.725, #fff
+  a7a836b709c6e99dd7603f480e125b0c8c10afd34481212d57ba34aa445557de  data/pipedrive.svg
+      handshake FILL=0 wght=300 opsz=20, ring, into 5.985 4.995 13.005 13.995, #fff
+  e8acbe7448f7c690d6894f49e90fb1c78f620f49179bc67876f66b1db0a0fd28  data/pop-in.svg
+      open_in_new_down FILL=0 wght=420 opsz=20, ring, into 2.97 4.005 15.03 13.995, #fff
+  22f3772134e4bafb6a6815d927a07462887a18bdd0aedb7f3577d0f28257e4ce  data/pop-out.svg
+      open_in_new FILL=0 wght=393 opsz=20, ring, into 2.97 4.005 15.03 13.995, #fff
+  50f5b759f1f6e3eb1d4f483725712ba933bb5f35091765ecbe99964d10486c90  data/print.svg
+      print FILL=0 wght=575 opsz=20, ring, into 4.995 4.005 13.005 13.995, #fff
+  6aaba37b2dea0f2822075b158a9c030472a2bca41057c3d822d6c101311c04db  data/refer.svg
+      featured_seasonal_and_gifts FILL=0 wght=527 opsz=20, ring, into 3.465 3.51 14.535 13.5, #fff
+  09ab3ed703157c3346885a7c2a36ad0b7fd8cefc6540dbba2bee93b8d4a66df7  data/reply.svg
+      reply FILL=0 wght=391 opsz=20, ring, into 3.78 4.275 13.005 12.015, #fff
+  f9e413199721ea0d713c5fdcd92280caf064aabc72a7d9ab0745f1470b7d173d  data/replyall.svg
+      reply_all FILL=0 wght=374 opsz=20, ring, into 2.79 4.275 13.005 12.015, #fff
+  c61688906d684ef6a3012c33e9426396cdb516baf0bfbe10d23c79569c68b7b5  data/report-an-issue.svg
+      priority_high FILL=0 wght=218 opsz=20, ring, into 5.985 3.467 12.017 15.532, #fff
+  aedbda82ed00cfe5931e33b9ab9b0065b90c12f28e3bf5be0fffc7bde5823c34  data/rsvp-accepted.svg
+      event_available FILL=0 wght=468 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  a1400d1d30776a31d9e8211dd86a044645d3a87f81b67904396ad2ff54f73c20  data/rsvp-declined.svg
+      event_busy FILL=0 wght=453 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  73a46d02536826569563d323ecbe58e0281e6b6a722ce9e1870ce0abbf9262af  data/rsvp-tentative.svg
+      calendar_today FILL=0 wght=399 opsz=20 + question_mark, ring, into 4.005 4.005 13.995 13.995, #fff
+  6c9689de29bcf318c976daae3fbf22375d9f736ada841388e8ae534564acfe5b  data/salesforce.svg
+      Font Awesome salesforce, ring, into 4.005 5.49 13.995 12.51, #fff
+  5eb2bef472b3c7ff7fda76335ee13bd7788e3953d091fbe892461f9792061981  data/search.svg
+      search FILL=0 wght=340 opsz=20, ring, into 2.97 2.97 13.725 13.995, #fff
+  06d9326f682320417dfe8f5c2407997defe3e468817d0badff08def506162182  data/select-all.svg
+      check_box FILL=0 wght=401 opsz=20, ring, into 4.5 4.5 14.4 13.5, #fff
+  df3324bfcdf814f7fd50398fe552bc5f7f9a16439b710b607126a045a1b1b4bf  data/send.svg
+      send FILL=0 wght=306 opsz=20, ring, into 4.905 3.87 15.12 14.13, #fff
+  21e40795bf8cb10d245ac18d741290c886e1d50a3af7b3b1392a6cc21489a1b3  data/send-message.svg
+      mail FILL=0 wght=468 opsz=20, ring, into 4.005 4.995 13.995 13.005, #fff
+  3325ba2d7f16334696bba729761d02a59bccd9349ec53dc08c0e76065872a1b6  data/settings.svg
+      settings FILL=0 wght=291 opsz=20, ring, into 2.97 3.015 15.03 15.03, #fff
+  257df527ca6e12266347279fdf5046fb91f839fe5aa5377e5457f77e0d3f59bc  data/share-thread.svg
+      ios_share FILL=0 wght=472 opsz=20, ring, into 3.96 3.51 14.04 13.365, #fff
+  2901353ddf17256683ba70250f0e3032b2a8778129068d50aa57347177845ba8  data/shield.svg
+      shield FILL=0 wght=358 opsz=20, ring, into 4.005 3.375 13.995 15.165, #fff
+  09d4ab44c3aa5961c2ea67a94b91acafb29aede18c0628c4e092041e709f00e3  data/shortcuts-help.svg
+      question_mark FILL=0 wght=319 opsz=20, ring, into 6.39 4.5 11.655 13.275, #fff
+  542b2229a8f78262230f5b4e101ca95933f75acde53e9651e7cf99dfa624ff86  data/skype.svg
+      Font Awesome skype, ring, into 4.005 4.005 13.905 13.995, #fff
+  878c6b2812ed8f04c80aa4fb28ea361eb940d806bad50cf4ce814f83b624ebad  data/slack.svg
+      Font Awesome slack, ring, into 2.97 2.97 15.03 15.03, #fff
+  b5e94f54414a909f59fae1e3d40e4d74aa234649a4abac074247b2fc2c635678  data/snippets.svg
+      data_object FILL=0 wght=309 opsz=20, ring, into 2.97 3.735 15.03 13.815, #fff
+  caf3c1f10360690e5f666115610996066233cf74f8e835766f269a9516520d25  data/snooze.svg
+      schedule FILL=0 wght=240 opsz=20, into 0 0 18 18, #fff
+  86cf2a99d58f0867e51d99f43fb81a784d4fdab28120b1dadda5e3874c1084f7  data/spam.svg
+      block FILL=0 wght=500 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  7345046592820aeea6fee162ed34200e00df3c51c8139148b3d591fcf9fc17f6  data/split-inbox.svg
+      call_split FILL=0 wght=343 opsz=20, ring, into 4.005 4.995 13.995 13.995, #fff
+  d76af3d3e3e8c3bd1f688c042d442f43eab703825d7ac1f46aeb90eb398db0fc  data/star.svg
+      star FILL=0 wght=289 opsz=20, ring, into 3.33 3.015 14.67 13.86, #fff
+  b4f2bb6e9c5299ce11c689613f86fc7095eb9f3e445dd7570633a4db3061842f  data/subtract.svg
+      remove FILL=0 wght=300 opsz=20, ring, into 4.5 7 13.5 11, #fff
+  4e506c50b3b16f1446b7768198dfa7ebc975266999497af58aee3589e82e32e7  data/switch-accounts.svg
+      account_circle FILL=0 wght=235 opsz=20, into 0 0 18 18, #fff
+  af759c6893561ff284b863541647cf59e6dc4b902aa507f67f9927e65eecaebc  data/trophy.svg
+      trophy FILL=0 wght=331 opsz=20, ring, into 2.97 4.005 15.03 15.03, #fff
+  9a0bc5e22a91f203af52134eb1bcdfebc8117912ab8bafa62e3c513417572057  data/unsubscribe.svg
+      unsubscribe FILL=0 wght=358 opsz=20, ring, into 4.005 4.635 14.355 13.005, #fff
+  6d2f3e3b5dc9a6ee230437035eb4454e8c28844b515a2ee184e4548bcf1ec2f0  data/update-payment.svg
+      credit_card FILL=0 wght=320 opsz=20, ring, into 4.005 5.985 13.995 13.005, #fff
+  c7abf8b0ca8b9473d1b96dce54260abca8500dd6e675cd25f8adca9b37fea543  data/upgrade-calendar.svg
+      event_upcoming FILL=0 wght=532 opsz=20, ring, into 4.005 4.005 13.995 13.995, #fff
+  1337f9656079597f1745217dc27d044008f478829fe39fcaf88034048df77a02  data/zoom.svg
+      videocam FILL=1 wght=400 opsz=20, ring, into 3.78 5.985 14.175 11.61, #fff
+  32a0bc29b7768275894dd7a29cea79f8cdc909bc770652d4ddbdb04c9fb17d03  inline/AvatarSilhouette-L81855.svg
+      person FILL=1 wght=400 opsz=20, into 8.6 10.3 31.4 40, #fff
+  61e757519364a1a8cfa69bcc80b99108e925fd97921a17b277c7d02283222efe  inline/DEPRECATED_slack-L104788.svg
+      Font Awesome slack, into 0 0 122 122, #4a154b
+  17656ff4583ca9a0aa3ddd72e358ec806abb2f0c34c77b66b5855d0249b13061  inline/_renderAddSplitButton-L159190.svg
+      add FILL=0 wght=248 opsz=20, into 0 0 10.505 10.505, #fff
+  aabf5268827d797e72e8c2ba2a2d077f1b8274f072318549b9d8ad283f224c16  inline/_renderBusinessFeatures-L166070.svg
+      check FILL=0 wght=314 opsz=20, into 0.225 0.263 14.475 11.775, #a0a4d9
+  aabf5268827d797e72e8c2ba2a2d077f1b8274f072318549b9d8ad283f224c16  inline/_renderBusinessFeatures-L166968.svg
+      check FILL=0 wght=314 opsz=20, into 0.225 0.263 14.475 11.775, #a0a4d9
+  589abbaaa169ac3dab9ebf6d822a861d8b50f2dbd2dda4cdcf4df658d2f80e78  inline/inline-L98651.svg
+      error FILL=0 wght=700 opsz=20, into 0.495 0.495 10.505 10.505, #fff
+  e3567d7223ad5c913dc87ddc5026c1604a9fe5d79545122d4732d4f3bc2af9a6  legacy/DEPRECATED_aboutme.svg
+      person FILL=1 wght=400 opsz=20, disc, into 2.44 6.56 13.6 10.08, #fff
+  901fc27735fffe21336a40114556ce5bf6a226a4ded2fcdff641db03c331116f  legacy/DEPRECATED_actionBack.svg
+      arrow_back FILL=0 wght=221 opsz=20, into 1.24 0.48 14.76 15.52, #fff
+  8fa8befb4ef4bbf5fee62fde216a896d7b0f48b9e84215cd0a3e1a520bc261f6  legacy/DEPRECATED_actionBackCompact.svg
+      chevron_left FILL=0 wght=150 opsz=20, into 1.24 0.48 9.28 15.52, #fff
+  6cae2e7bbed1653af0707d965e75f09acbb69d50d0be335810913677ab14a7d0  legacy/DEPRECATED_actionChevronDown.svg
+      keyboard_arrow_down FILL=0 wght=149 opsz=20, into 0.48 4 15.52 12.2, #fff
+  dae69eb1bb24f92f2f4d347de1cabb115f57b364d16e3a3aaaf55b55e79e9967  legacy/DEPRECATED_actionChevronUp.svg
+      keyboard_arrow_up FILL=0 wght=154 opsz=20, into 0.48 3.8 15.52 12, #fff
+  5947aab524ffaeb3091ebadacba02a050baa3b03d30ad2e6e6aa4ab20fc73732  legacy/DEPRECATED_actionDownArrow.svg
+      arrow_downward FILL=0 wght=212 opsz=20, into 0 0 14 14, #fff
+  d45e5093b87348dfec230a885eb4e614f75ed58156dfeb14c08391d0faa2a6d3  legacy/DEPRECATED_aha.svg
+      lightbulb FILL=0 wght=400 opsz=20, into 0.42 0.473 21 6.982, #0173cf
+  5f4d8b75bb096fae3cfacf0be87de1558f589819274f5b15278b2ae3bddc9db6  legacy/DEPRECATED_backArrow.svg
+      arrow_back FILL=0 wght=207 opsz=20, into 0.8 0.32 16 14.68, #fff
+  bf9259cc1db384bf9cf7bd1157c6ac109971bc2890b0e966aea6a20619c12f6a  legacy/DEPRECATED_behance.svg
+      Simple Icons behance, disc, into 3 4 14 12, #fff
+  93a6581d233e2c37c8569fdb780ad9180b079ee6ea2c0b279cfe00f71fd05742  legacy/DEPRECATED_blockQuote.svg
+      format_quote FILL=0 wght=634 opsz=20, rotate 180, into 0.15 0 14.325 9.975, #fff
+  a62f739326b27396b24200d95b5018e96b2e81ad4f4791a5f9a173a4b6432a00  legacy/DEPRECATED_bulletList.svg
+      format_list_bulleted FILL=0 wght=395 opsz=20, into 0 0 18 13.995, #fff
+  fbfe2da85bc546fb0a28ffda37690e66f6aef02bfb609c021b7b681f32f688d5  legacy/DEPRECATED_calendar.svg
+      calendar_month FILL=0 wght=358 opsz=20, into 0 0 12 12, #fff
+  86b57c3a5d826a9b97c376aa07590382ddaaa938b8aef81c6cd3bc508a70d226  legacy/DEPRECATED_calendarApp.svg
+      calendar_month FILL=0 wght=700 opsz=20, into 0 0 14 12.005, #fff
+  ec42579b254269b7244cefb42175afaa04c45c3d62c20ac6661530aa60025c62  legacy/DEPRECATED_calendarHeader.svg
+      calendar_today FILL=1 wght=700 opsz=20, knock, into 2.88 3.56 13.12 12.32, #fff
+  5e902d904d9b359ef32862a9368ab165284c2facf3772bbad881bed51526c821  legacy/DEPRECATED_check.svg
+      check FILL=0 wght=382 opsz=20, into 0.65 0.747 12.35 10.27, #fff at 0.35
+  66c9f5b8debe58b8ab471297ef87e28cd57efd6537ddf187a67d498725708538  legacy/DEPRECATED_checkMark.svg
+      check FILL=0 wght=242 opsz=20, into 0.13 0.65 12.317 9.295, #fff
+  0934ff07348dcfa71bcd044d4f47ac888dc1650af7371dab09104afe081ac691  legacy/DEPRECATED_checkmarkInCircle.svg
+      check_circle FILL=0 wght=352 opsz=20, into 2 2 14 14, #fff
+  4969a65dda719b9f6f141cd142593f83f4de10076dfbba757aa868e927944af9  legacy/DEPRECATED_chorusAi.svg
+      graphic_eq FILL=0 wght=400 opsz=20, into 0 0.495 10.01 10.505, #fff
+  5edbad19c68035ab0b75e1852214c34a017fc4a949fb917e3680c6189e631a52  legacy/DEPRECATED_clipboard.svg
+      file_copy FILL=0 wght=372 opsz=20, into 0 0 10.99 14, #fff
+  0981c6b333d52b61f1d0f9ebbf1682b5cd0b99c1e6078c17a386abb5d60975b7  legacy/DEPRECATED_closeV2.svg
+      close FILL=0 wght=336 opsz=20, into 0.855 0.855 8.168 8.168, #fff
+  57f50a4a28f075059f124eb9dca18a6c46859a2be62ab24bfe522c668467c158  legacy/DEPRECATED_closeV3.svg
+      close FILL=0 wght=308 opsz=20, into 0 0 8 8, #fff
+  7d8f69d7745e9607c2c52b05c26475ddd71e0874666f38c17d570867e4159c38  legacy/DEPRECATED_collapse.svg
+      unfold_less FILL=0 wght=298 opsz=20, into 0.302 0 7.7 10.12, #fff
+  5bd0c587ee94aba7c632048061e0eff0cdbb8147ae1389ba1182bbe7c183a1f5  legacy/DEPRECATED_conference.svg
+      videocam FILL=0 wght=378 opsz=20, into 0 0 14 8.015, #fff
+  b5259491a1c24d2a7083f36fbc00759e163600e51bbd0b7a9a548b45968391df  legacy/DEPRECATED_copy.svg
+      content_copy FILL=0 wght=357 opsz=20, into 0 0 12 12, #fff
+  190e55bc13f3d0b7d25097b3aa7f5d7e7619709d63ec80aabd29d0354b1dec26  legacy/DEPRECATED_description.svg
+      notes FILL=0 wght=372 opsz=20, into 0 0 10 9, #fff
+  2b72bd75e4ec65ddf57fccf37dc837a8fa8a50251da357e132e4f9ec2a79fdd5  legacy/DEPRECATED_discard.svg
+      delete FILL=0 wght=288 opsz=20, into 0 0 11.01 12, #fff
+  40aa26c844ed77bc7e008b9cf30eeef456ab252397cbd01fef9341a6a90a1001  legacy/DEPRECATED_documents.svg
+      find_in_page FILL=0 wght=394 opsz=20, into 0.825 0 10 10, #fff
+  56fd598a475b588951f35e3fcb77bc2ffd9c65727821d0a7dc49fc239e100618  legacy/DEPRECATED_done.svg
+      check FILL=0 wght=242 opsz=20, into 1.155 0.63 13.3 9.275, #fff
+  0afe7a036ed50fbf3288a1d75499e36fa0d367a2139b59a3e1d2e454046abba9  legacy/DEPRECATED_downArrow.svg
+      arrow_downward FILL=0 wght=353 opsz=20, into 0.25 0.7 8.575 9.4, #fff
+  61ff8adb9d24f90fd004a921422936ef22c55636c0c76e7d338a2bc1d66af6e2  legacy/DEPRECATED_downCaret.svg
+      keyboard_arrow_down FILL=0 wght=201 opsz=20, into 0 0 12 6.69, #fff
+  96193f150dd0d80a3653873fcc93584cd9ef3a47ea6fd235cf53144022fb3b5f  legacy/DEPRECATED_downCaretLarge.svg
+      keyboard_arrow_down FILL=0 wght=205 opsz=20, into 0 0 12 6.99, #fff
+  d786b1659b49b0f52c9c95dc1c8743950ac8dabe96c29fa195fafa8ab50b2122  legacy/DEPRECATED_downChevronRounded.svg
+      keyboard_arrow_down FILL=0 wght=272 opsz=20, into 0.5 0.5 9.5 5.5, #fff
+  535dc3bfab4a064559b2083a045cbdcd74c1973bf1a6f684067f3daa8bce4e5e  legacy/DEPRECATED_download.svg
+      download FILL=0 wght=254 opsz=20, into 0 0 13 13, #fff
+  d8b61c1bab26e498acfcd91e5d333bc946f5700591c0a91572663c51a97d7e89  legacy/DEPRECATED_dragHandle.svg
+      menu FILL=0 wght=700 opsz=20, into 0 0 12 9.99, #fff
+  9b7023d5eebcdf1fd3db3326c26199cd46537d1933b57e019ae7617d96ccba8d  legacy/DEPRECATED_dribbble.svg
+      Simple Icons dribbble, disc, into 2 2 14 14, #fff
+  f1c1e8cdd34efc78d90a683e1a653c6b1786921a5ed9a3715cc6dd5fb5dde565  legacy/DEPRECATED_dropboxSign.svg
+      Simple Icons dropbox, into 0.6 0.5 9.4 10, #0061fe
+  0c4587ece122dc112a503b9fe9f3ccd8ca552a60f11a508fca64cd79ab2a1b55  legacy/DEPRECATED_dropdown.svg
+      keyboard_arrow_down FILL=0 wght=275 opsz=20, into 0.65 0.65 9.35 5.7, #fff at 0.9
+  18ab8178c22cb29d228c3794411ef7e2b92dd543e261c24aeb175c31efc506b9  legacy/DEPRECATED_dropdownLarge.svg
+      keyboard_arrow_up FILL=0 wght=194 opsz=20, into 0.63 0.945 13.37 8.015, #fff
+  3a15895dfcf84605a89e70f6e896b3cabe058b490893486d9ee9dcf4361c6c81  legacy/DEPRECATED_edit.svg
+      edit FILL=0 wght=355 opsz=20, into 0.5 0.275 9.175 9, #fff
+  29f2360c22649524849dc815e0f4527d3b93d1b79648380a1e32575e06cf0885  legacy/DEPRECATED_ellipses.svg
+      more_horiz FILL=0 wght=299 opsz=20, into 0 0.487 15 3.525, #fff
+  8cfe64cfe61fcad19d2be3c586e8f9da470a58adcde78c833d2085a0ec8e2c14  legacy/DEPRECATED_email.svg
+      mail FILL=0 wght=411 opsz=20, into 2 3.48 14 12.52, #fff
+  6202e6a83e2bc405bea6c38d01420bd3c090dd1736471fb24aed2068d4c50735  legacy/DEPRECATED_emailApp.svg
+      mail FILL=0 wght=318 opsz=20, into 0 0 14 11.025, #fff
+  517598031c6b00251c855e0d18276d370abecf44e82c5bf73769b697f886ca4f  legacy/DEPRECATED_expand.svg
+      unfold_more FILL=0 wght=317 opsz=20, into 0.81 0.3 9.21 11.7, #fff
+  1fecddba6ca5814a5cfcd9cbcc918b6c3bf5de7c980f3dcd7485c5fcf3aa5220  legacy/DEPRECATED_facebook.svg
+      Font Awesome facebook-f, disc, into 6.08 3.56 12.64 16, #fff
+  2ff6ad5faf859cdddcd8ff919f8ec51caf3d88f7a228dc15c414a647c54b2a44  legacy/DEPRECATED_finance.svg
+      account_balance FILL=0 wght=583 opsz=20, into 0 0 10 10, #fff
+  fd35b6b20ed62a2e61f335479ba44c69714eaa3f319f9621faee0cb2f8283994  legacy/DEPRECATED_flame.svg
+      mode_heat FILL=0 wght=261 opsz=20, into 0.263 0.487 11.737 14.512, #fff at 0.8
+  8150f10ba7065964776ca6b1f2d420ff77b07a7e1c6b94181bfd421e1b445927  legacy/DEPRECATED_forwardMessage.svg
+      reply FILL=0 wght=258 opsz=20, mirrored, into -298 390.6 -284 402.99, #fff
+  a67b90896e93785513495242c9597c7a9e7b23a93bc663a9df14dc11678e889a  legacy/DEPRECATED_gift.svg
+      featured_seasonal_and_gifts FILL=0 wght=355 opsz=20, into 0 0.49 14 12.985, #fff
+  f77b1c51e94ee65aa4120cdcf39a9200ad49f14787713de8ab0095386755a9b2  legacy/DEPRECATED_gitHub.svg
+      Font Awesome github-alt, disc, into 3.5 3.5 12.5 12.5, #fff
+  f2ee32d9f7aefefcc6ff82ac534d47e8d0f1bd9f4356e3f15d9591c3de4b2edb  legacy/DEPRECATED_globe.svg
+      language FILL=0 wght=311 opsz=20, into 0.49 0.49 13.51 13.51, #fff at 0.3
+  5dc20ac20c86e5ea23cf1ebe36c1dff7ffed48e06331569b84e841908ef17946  legacy/DEPRECATED_google.svg
+      Simple Icons google, into 0 0 15.68 16, #4285f4
+  cb648ed27539f9dcd47e5e56dabde71134af039edf9c58e7095eb30fd6ffa391  legacy/DEPRECATED_googleMeet.svg
+      Simple Icons googlemeet, into 0 0.4 10 8, #00897b
+  bf8cd911cb884ce71181c6a4ae285350f47ad37a6eb7f217f2361308835b8678  legacy/DEPRECATED_grayArchive.svg
+      archive FILL=0 wght=338 opsz=20, into 0.48 0.51 11.52 11.52, #000
+  c4573129c9d642a1b86f289642e5b82d2073a92b92703dabf0832116dffa2bdd  legacy/DEPRECATED_grayFlag.svg
+      flag FILL=0 wght=407 opsz=20, into 0.48 0.51 8.49 11.52, #000
+  b80dea0f4fef1afbcd93242c994b1f497487c7e62acb5f71a227f21b010dca6b  legacy/DEPRECATED_grayFolder.svg
+      folder FILL=0 wght=355 opsz=20, into 0 0 12 9.99, #000
+  bc4b314e28cf8b42c50aed17cec9c27e764a09128427e3f899551a91fdbac81b  legacy/DEPRECATED_grayLabel.svg
+      label FILL=0 wght=310 opsz=20, into 0 0 14 10.01, #000
+  a61e649f530efbe562e1e4b1952bbdadeeebb408f34dec96673c06c30bb7c3bd  legacy/DEPRECATED_grayMarkUnread.svg
+      mark_email_unread FILL=0 wght=313 opsz=20, into 0 0.487 12.22 10.498, #000
+  5780fa6be5aa75525739ce0cf52c004ff182eab6a3cf2c0ea37ab2f6a37b6665  legacy/DEPRECATED_grayStar.svg
+      star FILL=0 wght=254 opsz=20, into 0.525 0 13.475 12.005, #000
+  217372151ccc3cb691fe59741d47256d9d127db563ab57b3e14fbb914f648f6b  legacy/DEPRECATED_grayTrash.svg
+      delete FILL=0 wght=288 opsz=20, into 0.48 0 11.52 12, #000
+  ea7d616295faa6bbc63ebf8898d294af0f6f7526bb7fab8d3c92c74e7c9d7595  legacy/DEPRECATED_guest.svg
+      person FILL=0 wght=356 opsz=20, into 0 0 10.01 13, #fff
+  bc954c70b12cd16e7048c7dc4118bc358f5a38440f116cd1fc466a55f56cb7eb  legacy/DEPRECATED_hamburgerMenu.svg
+      menu FILL=0 wght=229 opsz=20, into 0 0 16 12, #fff
+  ef9bb4d352085a025e774d76ee53b34b1cee8a1dd3312f526d9f34c89d67cedf  legacy/DEPRECATED_headerCompose.svg
+      drive_file_rename_outline FILL=0 wght=260 opsz=20, into 0 0.3 12 12, #fff
+  4bfdfc3a40baf96ed62d63abb3d7034c7a99063472fcc3a5657ce0153946ee0a  legacy/DEPRECATED_headerCompose-14.svg
+      drive_file_rename_outline FILL=0 wght=220 opsz=20, into 0 0.35 14 14, #fff
+  eb5af8bac92394c3d9e6bf450aa061bdb5d5a3b9a0234c9d9a0a2aa6a837af8d  legacy/DEPRECATED_headerSearch.svg
+      search FILL=0 wght=304 opsz=20, into 0 0 12 12, #fff
+  e8cc1299a54b03a8bcf7dae54a0f2a856939d9c9f3177c4be264d1428ab5bb93  legacy/DEPRECATED_headerSearch-14.svg
+      search FILL=0 wght=262 opsz=20, into 0 0 14 14, #fff
+  c6e2b7fd90b062aa5a140e0e40ccc3f1af1c2cdca6a170737552a15285cf7f55  legacy/DEPRECATED_homepage.svg
+      link FILL=0 wght=500 opsz=20, rotate -45, disc, into 3.76 3.76 12.16 12.24, #fff
+  73075c0db5e052e9fe08b0ac6cc8926a0ae7ed4e54ebd27b58774981ebff10b0  legacy/DEPRECATED_hubspot.svg
+      Simple Icons hubspot, into 0 0 16 16, #ff7a59
+  1c38bad46dc27eca2b0e8a3467479498025c248caa61e451d689c8e18aa33ad4  legacy/DEPRECATED_info.svg
+      info FILL=0 wght=454 opsz=20, into 1.155 1.155 12.845 12.845, #fff
+  6ced470809d6f93c2550eb1dffe0257f6b7a4112e84fcbb5ee06fc06b5e8a0d0  legacy/DEPRECATED_instagram.svg
+      Simple Icons instagram, disc, into 3 3 13 13, #fff
+  3aacaa8a67f2144eecd36ce7840c78228bc7641fe15a5bfb057abb8efeb0c394  legacy/DEPRECATED_laptop.svg
+      laptop FILL=0 wght=700 opsz=20, into 0 0 16 11, #fff
+  aea8f7de63352487e2c449d24a0344552c564731e7823f44870d09f7fbd1ace6  legacy/DEPRECATED_leftChevron.svg
+      chevron_left FILL=0 wght=259 opsz=20, into 0.05 0.4 5.35 9.6, #fff
+  199f0bdbbff9d22d5deffa5979a71e622c3a4c716fcc5f17e711d8858d8e4fd4  legacy/DEPRECATED_leftChevronLarge.svg
+      chevron_left FILL=0 wght=276 opsz=20, into 0.225 0.75 7.762 14.25, #fff
+  45c16e20195735d1717647de53289638c818ae123f60ee20e7224e744c601bf1  legacy/DEPRECATED_lightGrayTrash.svg
+      delete FILL=0 wght=288 opsz=20, into 0 0 11.01 12, #000 at 0.3
+  2046bdc25ea13d53fe26d20b1078108e080b972ac8d55868146830b4f4326c17  legacy/DEPRECATED_lightningBoltOutline.svg
+      bolt FILL=0 wght=234 opsz=20, into 0 0.033 10.79 12.707, #ffcb33
+  10362b23cbdce601b4d06992f08c4b17e2aa1a2cea73a0767057d75b84215e9a  legacy/DEPRECATED_link.svg
+      link FILL=0 wght=661 opsz=20, rotate -45, into -0.4 -0.4 13.25 13.438, #fff
+  58a434e3f148c2f4921326d1485b5904d3c0419c01140ce998ba86e1f0ec3042  legacy/DEPRECATED_link2.svg
+      link FILL=0 wght=364 opsz=20, rotate -45, into 1.5 1.012 14.1 13.575, #fff
+  ba8aecdbfc6cbdf5b3508dca3e01c91d0f0c8197bc2320672fb48a465e375ae1  legacy/DEPRECATED_linkedIn.svg
+      Font Awesome linkedin-in, disc, into 4 4 13 12, #fff
+  bbac7e01c8ba390cfc024dd6dd5372a8f85271e7fb9f1c6e93cdae5555dc108a  legacy/DEPRECATED_locationPin.svg
+      location_on FILL=0 wght=275 opsz=20, into 0 0.04 11.871 15.934, #fff
+  395af3ad1f07859f30a7546d02ce97e981079ecadcacdbe9fdeaa4aa18c3d82c  legacy/DEPRECATED_mail.svg
+      mail FILL=1 wght=100 opsz=20, disc, into 3 4 13 12, #fff
+  1403793c21ae4a364db7f2d7d4d01607d187e66478dfdce3ef1f9665bedd7288  legacy/DEPRECATED_marketing.svg
+      campaign FILL=0 wght=300 opsz=20, into 0.5 0.175 9.85 9.95, #fff
+  ee7f4a01b74c190afac146f0a9ae585e7e0c4ebc05162c6da75effc9e0ac96ca  legacy/DEPRECATED_medium.svg
+      Simple Icons medium, disc, into 3.4 4.4 12.6 11.64, #fff
+  ef404b76e1f359e1ec5b6f8c6dc94269652cb629e3ea80ac47ad562f51e1c810  legacy/DEPRECATED_meetWith.svg
+      group FILL=1 wght=700 opsz=20, knock, into 2.04 3 13.96 14.92, #fff
+  b49d29172c858d2a00e442a3a5351ad2b1764fa9559ea9b89503eff5b9e42e3b  legacy/DEPRECATED_microsoft.svg
+      Font Awesome microsoft, into 0 0 14 14, #737373
+  4e0098a03f9aa6e9acf20a43a0d5b522155d4edb3311f01723115bf3f21ddf02  legacy/DEPRECATED_mobile.svg
+      smartphone FILL=0 wght=339 opsz=20, into 0 0 10.012 15, #fff
+  5eb5682c5e3169201bee6c7d8e6710a2453c71066317b357a28d7c8d0bc88c9c  legacy/DEPRECATED_moreHorizontal.svg
+      more_horiz FILL=0 wght=376 opsz=20, into 0.48 6.4 15.52 9.6, #fff
+  79c021966e6c4505c63ed39fbf7a3bc44774ad93d6f52cc4d9a6e579c4c03c43  legacy/DEPRECATED_news.svg
+      article FILL=0 wght=529 opsz=20, into 0.825 0 9.175 10, #fff
+  00fbfa4971987497f6a1aa37f8d40dee11033486e5cef00bb0287b9206d8572c  legacy/DEPRECATED_notes.svg
+      sticky_note_2 FILL=0 wght=399 opsz=20, into 0.825 0 9.175 10, #fff
+  75446d987db8289669d8ba2611c6bca5b5de345d77be8c198875d8f887fb8470  legacy/DEPRECATED_notifications.svg
+      notifications_unread FILL=0 wght=379 opsz=20, into 0 0 10 10, #fff
+  165f7c2b66b90818e4375842de5d37f780843b24f5a5c33efe21d50dca3cf40d  legacy/DEPRECATED_numberedList.svg
+      format_list_numbered FILL=0 wght=367 opsz=20, into 0.1 0.65 19 19.1, #fff
+  0dc7f985ee341dc4becaa2aa6d2f1da803abfe85b909ffbd88b616dac99ae426  legacy/DEPRECATED_openBook.svg
+      menu_book FILL=0 wght=410 opsz=20, into 0.665 1.26 13.335 12.775, #fff
+  ca5f865ff92c63cb77a7382a68ac73603a11567db3cd7df760f4e2e34ef4c778  legacy/DEPRECATED_openExternal.svg
+      open_in_new FILL=0 wght=485 opsz=20, into 0.8 0.825 9.2 9.2, #36a0da
+  abe1e3ca559265cb586ffa19e0073ec82f1606862b8f8fe289571eceef60c5e8  legacy/DEPRECATED_openLinkArrow.svg
+      north_east FILL=0 wght=343 opsz=20, into 4.635 4.995 13.005 13.365, #fff at 0.5
+  c9950acf0a9e4e1f703f1b5048e0bfad06206a2c0c752fa690a68ce51345b81a  legacy/DEPRECATED_openLinkInPopup.svg
+      open_in_new FILL=0 wght=290 opsz=20, into 0 0 12 12, #fff
+  4d0fa9963ac3c3862d7ecd645fd2bd03a18e93d34707fd7d12689e1a8ca8897d  legacy/DEPRECATED_padlock.svg
+      lock FILL=0 wght=581 opsz=20, into 2.52 1.4 11.445 12.25, #fff
+  97c9d3c17bcbcbcc78dea9e3158516b75b4b0ec6ab7276ce8dc6b3b7f33d00cc  legacy/DEPRECATED_paperclip.svg
+      attachment FILL=0 wght=286 opsz=20, into 0 0 18 8.01, #fff
+  953f340c910e4d1d0a5cf7de3d6d22dfec84a6312fd1f6102d9d8fc40b2af206  legacy/DEPRECATED_pipedrive.svg
+      handshake FILL=0 wght=400 opsz=20, into 0 0 16 16, #017737
+  226342c8f099d2af65b643e06f9a3e74a8e6fecbd95f628e643b0e3202fe70fb  legacy/DEPRECATED_pitches.svg
+      lightbulb FILL=0 wght=561 opsz=20, into 1.575 0.825 8.425 10, #fff
+  c5ceca2f8c37eb9cacf6a0aaa0bf7e145f7801d9d3f63466a5cbe26553982843  legacy/DEPRECATED_pixelBlocking.svg
+      visibility_off FILL=0 wght=700 opsz=20, into 0.747 0.065 12.967 9.295, #fff
+  c043aa8c35bc22e826fe1b58414dd151210ccbfc25123e0657e36f5a5b0ecf5b  legacy/DEPRECATED_plus.svg
+      add FILL=0 wght=207 opsz=20, into 0 0 12 12, #fff
+  60d5b58f3f58cc0112f9781c470855048b1f5bc4b0471830c9f8a96477bf985b  legacy/DEPRECATED_plusCircle.svg
+      add_circle FILL=1 wght=400 opsz=20, into 0 0 16 16, #fff
+  107b3a2744fbab3466a4b008141b3727795f189c88a4e77de21eb4d3e52f27ef  legacy/DEPRECATED_popin.svg
+      open_in_new_down FILL=0 wght=415 opsz=20, into 0 0 12 9.99, #fff
+  b3e8fbc6e048425f43e27c6e9d46ee5febfc32b0745d4744987042422ff0c53c  legacy/DEPRECATED_popout.svg
+      open_in_new FILL=0 wght=387 opsz=20, into 0 0 12 9.99, #fff
+  b4b9c2febae838a709735459ce6e1b8f1ba8eae0036db7ec39ade1b06577ffe8  legacy/DEPRECATED_popoutclose.svg
+      close FILL=0 wght=223 opsz=20, into 0.54 0.54 11.46 11.46, #fff
+  75ef90a5c8c8fc58e43eb316f6e66e77d5cb4bac52f01bfda4bb55d31f56bfcd  legacy/DEPRECATED_purchases.svg
+      shopping_bag FILL=0 wght=408 opsz=20, into 0.375 0 9.625 10, #fff
+  4d8a5bda48700ce0150878669c8a34a99aab248ecbb11aec991ebe0138d44caa  legacy/DEPRECATED_questionMark.svg
+      help FILL=0 wght=331 opsz=20, into 0 0 14 14, #fff
+  f1c54c1d6e482f73755d2b7f6978d5d1ac9ed02bdf76e9f8c3baead8e010983d  legacy/DEPRECATED_recurringAvailability.svg
+      link FILL=0 wght=500 opsz=20, rotate -45, knock, into 3.76 3.76 12.16 12.28, #fff
+  df1419dbc95b0b38025b6027ea7bf2d560bf1b8a9cc114d46751dbc875152d4b  legacy/DEPRECATED_reminders.svg
+      schedule FILL=0 wght=417 opsz=20, into 0.165 0.192 10.835 10.835, #fff
+  058146a9880b96c6f718fdd7697449e01dc9a4f2a3a9b2f55047ef5ed1a1a1d8  legacy/DEPRECATED_replyAllMessage.svg
+      reply_all FILL=0 wght=214 opsz=20, into -296 390.6 -278 403.02, #fff
+  0044d8350782d8b7a6d632d4e0288545f23d90e37649dd3529e5846d176dac73  legacy/DEPRECATED_replyMessage.svg
+      reply FILL=0 wght=252 opsz=20, into -298 390.6 -284 402.99, #fff
+  d54488af83cd316ea6483e2a8f199eee7a99d2ff982c8b281ea156f6b898c08b  legacy/DEPRECATED_reset.svg
+      refresh FILL=0 wght=378 opsz=20, into 0.44 0.11 9.57 10.917, #000 at 0.35
+  67189487cc0080b48fbc4ea26637c1f558e7a51f2540b2d764afbe7372912bbf  legacy/DEPRECATED_rightArrow.svg
+      arrow_forward FILL=0 wght=219 opsz=20, into 0.675 0.3 14.737 13.725, #54acdc
+  eaeabe14269d4620c2e597ae428cd7dd350565d440c90d2e4ebc22b039434d02  legacy/DEPRECATED_rightCaret.svg
+      chevron_right FILL=0 wght=232 opsz=20, into 0.137 0.192 5.995 10.807, #fff
+  83b10ac35b2af478985bb1159fdc187d81334c17dc1e705a4627d3513e6d3675  legacy/DEPRECATED_rightChevron.svg
+      chevron_right FILL=0 wght=259 opsz=20, into 0.65 0.4 5.95 9.6, #fff
+  b15455147fd88f1f36fb82ff9821666a69e73d8a851a32b436d33b4352693402  legacy/DEPRECATED_rightChevronLarge.svg
+      chevron_right FILL=0 wght=276 opsz=20, into 0.225 0.75 7.762 14.25, #fff
+  e3cabd9440dc6663b075b580b9d5c43b3779d1635023bd8951ad45f906fc795f  legacy/DEPRECATED_roundedCalendar.svg
+      calendar_month FILL=0 wght=311 opsz=20, into 0 0 14 14, #fff
+  fd58b1f60d45562b853fb765d9b8006ec6080a332dc37306ed88bff7549ef9c9  legacy/DEPRECATED_roundedFeedbackThumbsDown.svg
+      thumb_down FILL=0 wght=389 opsz=20, into 0 0 12 12, #fff
+  5c64249c90d5942476df823ef88e9293350823d61e09600e15d8437a3c277e05  legacy/DEPRECATED_roundedFeedbackThumbsUp.svg
+      thumb_up FILL=0 wght=389 opsz=20, into 0 0 12 12, #fff
+  42504040d4f3fbfa6c9d042bb2f4ca3c3f43809e24d7f1f975cb021f924ac1d8  legacy/DEPRECATED_rsvpAccepted.svg
+      check FILL=0 wght=500 opsz=20, disc, into 2.88 3.66 9.12 8.52, #fff
+  b78a153174529560acf9c954dff7780712f03a798520a0b67c855f6a2a0b7b35  legacy/DEPRECATED_rsvpDeclined.svg
+      close FILL=0 wght=500 opsz=20, disc, into 3.15 3.4 8.85 9.1, #fff
+  3e3a3dd669b69d8a065257a138df0258ab571271fca911e11bb14cbe304928a9  legacy/DEPRECATED_rsvpTentative.svg
+      question_mark FILL=0 wght=500 opsz=20, disc, into 4.05 2.82 7.95 9.18, #fff
+  b0749c26d3412afe305b906eb38d519b683b86e4c00972abc659ca78d0444ea0  legacy/DEPRECATED_salesforce.svg
+      Font Awesome salesforce, into 0 0 16 16, #00a1e0
+  9d2de5e37868f21cd12cc5e814858ae1466577ecdbd4cc8fe945537dce3a32b4  legacy/DEPRECATED_search.svg
+      search FILL=0 wght=254 opsz=30, into 0 0 14.025 14.025, #fff
+  d93070b8af5e11fdebb40a1ea24e615b47b7018477f827d88a69d1e4a4a26783  legacy/DEPRECATED_sensitivityLabelShield.svg
+      shield FILL=0 wght=662 opsz=20, into 0.315 0 7.695 9, #fff
+  9ff9d2f4d9b24784ac99510b7e413b865b54690e272f19d8dad47742ba73cff4  legacy/DEPRECATED_settings.svg
+      settings FILL=0 wght=244 opsz=20, into 0 0 14 14, #fff
+  477733329573131ec5935fcf7e02eaef0a5ec37a48f1d32d54e3ba58661960ec  legacy/DEPRECATED_share.svg
+      chat_bubble FILL=0 wght=368 opsz=20, into 0.48 0.51 11.94 11.52, #fff
+  8cac5cc562744fbeb8c1dedd7fdb31fe8738d87bfe2a5d296c3323b01805c6db  legacy/DEPRECATED_sidebarClose.svg
+      left_panel_close FILL=0 wght=250 opsz=20, into 0 0 14 14, #fff
+  0f6ab13997b080bc574145719952dcfbbf109763d9b222c6775a6fdc99f5eb95  legacy/DEPRECATED_signature.svg
+      stylus_note FILL=0 wght=684 opsz=20, into 0.525 0.9 9.6 9.975, #fff
+  b8c7cf8f98a039b591fc3ed337e8df6bef8bbed344938cd6dca956be89f725fc  legacy/DEPRECATED_snippet.svg
+      data_object FILL=0 wght=277 opsz=20, into 0 0 15.04 12, #fff
+  c1c4ab73681c285a30aaf088f87daf71194a0c7d4afd285a03c38564ded34260  legacy/DEPRECATED_snooze.svg
+      schedule FILL=0 wght=286 opsz=20, into 794.48 88.48 809.52 103.52, #fff
+  ab0593e5bf4bd24fe91ae4507fbbc4479acc3b6bec08ed9d0bc209f045d5236b  legacy/DEPRECATED_social.svg
+      notifications FILL=0 wght=518 opsz=20, into 0.675 0 9.325 10, #fff
+  1f4dc0f7eb6069bab400a155a0da7d1275607da1fae342f5553eee8bfae9fe3f  legacy/DEPRECATED_spinner.svg
+      progress_activity FILL=0 wght=327 opsz=20, into 0.34 0.382 16.66 16.66, #fff
+  a71801ef9be805d4eed36f2d9d0983f6824e56b251c2087941bd76f679cb077e  legacy/DEPRECATED_starred.svg
+      star FILL=0 wght=347 opsz=20, into 0 0.15 10 9.775, #fff
+  3d019fbeae7e4276a25cbe21f2d4f005b07943bdb5764e7d422ced46b4ac0eef  legacy/DEPRECATED_stopSquareInCircle.svg
+      stop FILL=1 wght=400 opsz=20, badge, into 5 5 11 11, #fff
+  2bfe4535bc1145414b424062b0af3e8aec6b316a610972e75739c61ace19a2c1  legacy/DEPRECATED_team.svg
+      group FILL=0 wght=394 opsz=20, into 0 0.5 10 9.5, #fff
+  a1849dd8f0194872529e312ee645024180f4736d3a9ecdd7229478c4905363a8  legacy/DEPRECATED_tel.svg
+      smartphone FILL=1 wght=400 opsz=20, disc, into 4 2 12 14, #fff
+  1b06a7cf85c018757683092ea82bcfbc75c4357f12e5baca62ece51fd252cb05  legacy/DEPRECATED_threadActionsCommand.svg
+      layers FILL=0 wght=288 opsz=20, into 1.085 0 12.95 14, #fff
+  1153c6bde3e9cb665ae5445cd22f10d66785513a81bc083af0af447c18e52a05  legacy/DEPRECATED_threadActionsDone.svg
+      check FILL=0 wght=206 opsz=20, into 0.48 2 15.52 12.48, #fff
+  b9e20420c24bfdcab8f53de39612397e29896e188558f091d2ad5808b2ef064b  legacy/DEPRECATED_threadActionsDone-stroke2.svg
+      check FILL=0 wght=379 opsz=20, into 0 1.48 16 12.96, #fff
+  83ff621b810edfb6531888bafcfb11b7c2f2aa1ce64c13ab13dcf5250d83a3ca  legacy/DEPRECATED_threadActionsRemind.svg
+      schedule FILL=0 wght=624 opsz=20, into 0 0 14 14, #fff
+  8b832a16d889963f98c5d2e3d201130da2740877bc7c883d592e7ae415b3f9f1  legacy/DEPRECATED_threadActionsRemind-unset.svg
+      schedule FILL=0 wght=304 opsz=20, into 0 0 14 14, #fff
+  2b72bd75e4ec65ddf57fccf37dc837a8fa8a50251da357e132e4f9ec2a79fdd5  legacy/DEPRECATED_trash.svg
+      delete FILL=0 wght=288 opsz=20, into 0 0 11.01 12, #fff
+  bfef17075cbae59f7a112d14e97c19652860835bac4dd50f1371508ef56f2257  legacy/DEPRECATED_travel.svg
+      flight FILL=0 wght=100 opsz=20, into 0.025 0 10 10, #fff
+  f0223b5e43c177514e4f2d9575df4ba89a51cc48320c6287efdc71405fddd65c  legacy/DEPRECATED_twitter.svg
+      Simple Icons x, disc, into 3.04 3.52 12.92 12.48, #fff
+  1c0964035d5bfa2f0961d91baa8a9f8479e45bb959d9e95b967c6e0d60817585  legacy/DEPRECATED_twitterBackground.svg
+      Simple Icons x, disc, into 7 7 17 17, #fff
+  875ad301223756e9c71ceaf509a0f68170055fd3ef40ddf88471e464ad770a5f  legacy/DEPRECATED_undoArrow.svg
+      undo FILL=0 wght=326 opsz=20, into 0.495 0 9.845 11, #fff
+  aab1e50bfa5bd888fc4375cfd16807df43780b2f6f1d51a5810a9c7b8dfe1f28  legacy/DEPRECATED_upArrowInCircle.svg
+      arrow_upward FILL=0 wght=700 opsz=20, badge, into 4.6 4.04 11.32 11.64, #fff
+  aab1e50bfa5bd888fc4375cfd16807df43780b2f6f1d51a5810a9c7b8dfe1f28  legacy/DEPRECATED_upArrowInCircleCarbon.svg
+      arrow_upward FILL=0 wght=700 opsz=20, badge, into 4.6 4.04 11.32 11.64, #fff
+  85716a5529890eb3c6320b596112ff0fa0f288c9c7ba3eb603fc88dc0c3b465e  legacy/DEPRECATED_upCaret.svg
+      keyboard_arrow_up FILL=0 wght=181 opsz=20, into 0.315 0.315 13.685 7.7, #fff
+  b9d6f79f4e918a3f1978634d8271f93fa79ed539dded32d7afa3c7d8638bfe6e  legacy/DEPRECATED_upCaretLarge.svg
+      keyboard_arrow_up FILL=0 wght=209 opsz=20, into 0 0 12 6.99, #fff
+  ca62ef5993721f9272def6930f178685c19314c93a966519115fa941f76859cd  legacy/DEPRECATED_upChevronRounded.svg
+      keyboard_arrow_up FILL=0 wght=275 opsz=20, into 0.5 0.5 9.5 5.5, #fff
+  87ee35f87b07b017affa887877e8537c25f5c62cc89e4c3f204192b1fe8f8c4c  legacy/DEPRECATED_upload.svg
+      upload FILL=0 wght=285 opsz=20, into 1.225 1.26 12.775 12.775, #fff
+  dfea14460941ed20e3279f397bdba5e49aacb3f96ceae91f2be21e5b4d146102  legacy/DEPRECATED_vip.svg
+      check_box_outline_blank FILL=0 wght=347 opsz=20 + priority_high, into 0 0 10 10, #fff
+  eafc39d0d6d91d64bab5bda161a9a1cf741c15b9e2cb7bf985faf60d06adc816  legacy/DEPRECATED_warningCircle.svg
+      error FILL=0 wght=298 opsz=20, into 0 0 14.334 14.334, #fff
+  264d9dbce57e3cc1587237dca5b50887ede90300926daedbe90c320df09f1bcd  legacy/DEPRECATED_wellfound.svg
+      Simple Icons wellfound, disc, into 0 0 16 16, #fff
+  371369516d9a3310efc7f836111779392c971b8ded26d404b1b4fdf11685e119  legacy/DEPRECATED_workdayRecruiting.svg
+      badge FILL=0 wght=400 opsz=20, into 0.5 0.5 9.35 10, #0067ab
+  855e11af6cec2380faad0e856ca59edc7962367132bd104cf117aab4ef3d6f3f  legacy/DEPRECATED_zoom.svg
+      videocam FILL=1 wght=400 opsz=20, into 0 0 16 16, #0b5cff
+  6226e952f1fb3cf68e5270c616fddb029c18936b79e55929a08ad62bb25baaaf  legacy/avatar.svg
+      person FILL=1 wght=700 opsz=20, into 6.44 7.98 49.56 56, #fff
+  e663b567eb3399aa7278bb1c646b083b5af04be9bfed563aa1846c7224028cf7  legacy/close.svg
+      close FILL=0 wght=211 opsz=20, into 0.09 0.09 11.91 11.91, #fff
+  9654b7ec0a6bbcd278d01e0c2f58836c38e1710bdf3c0757f54004b3e66f86f9  legacy/statusBadge.svg
+      circle FILL=1 wght=400 opsz=21, into 0.473 0.473 20.527 20.527, #fff
+  5db7190bf25225cd44a4e1e49252e92a96d4df996dbd9f83c6fa05db2bff876f  origin/AppsAsana.svg
+      Simple Icons asana, into 2.025 2.025 87.975 18, #f06a6a
+  1d5395d948377ff25cf4daee3b0d40a91803313f7f2e7cfee2c1dccf8ebf9055  origin/AppsAshby.svg
+      badge FILL=0 wght=400 opsz=20, into 1.5 1.5 18.5 18.5, #453ccf
+  98a7d2426949b932c651e7e7ba1abd668044b332ce6f8fd88ed330b4e287f100  origin/AppsBreezyhr.svg
+      badge FILL=0 wght=400 opsz=20, into 1.5 1.5 18.5 18.5, #175bd9
+  2d5a88e45139bfffd91c8420490bd7bbab860f70b3a7e6fc6797dd0bc23281db  origin/AppsClickup.svg
+      Simple Icons clickup, into 2.6 1.25 17.4 18.25, #7b68ee
+  75f642c3c0722025bb13635c404124d188e009306331646a66755524f703ecc9  origin/AppsConfluence.svg
+      Simple Icons confluence, into 1.3 1.95 18.7 18.1, #172b4d
+  dfb81704cbd6033a58ac342ce7d75b29aa5411e00601b8458d89c188df79bac2  origin/AppsDocsend.svg
+      description FILL=0 wght=400 opsz=20, into 2 2 18 18, #0061fe
+  22b842e6df4057907f0f051647649efb5083e43d9ce77b17fa9b0043ee91c87b  origin/AppsDocusign.svg
+      signature FILL=0 wght=400 opsz=20, into 1.5 1.5 18.5 18.5, #4c00ff
+  eca88013c4dbd64fe7fef5b0c1a8e866ebba02b24a52c96bae353c2529905162  origin/AppsFigma.svg
+      Simple Icons figma, into 4.4 1 15.4 17.95, #f24e1e
+  3eaffcdd3ceb2df66ff20c23738463444d74e89ab5615765398ab0dc5872a7f1  origin/AppsFireflies.svg
+      graphic_eq FILL=0 wght=400 opsz=20, into 2 2 18 18, #e82a73
+  b0d4af7805f622d2885ee37c87a6399da5d3a3f776a199d44da3f24c2eb3ed47  origin/AppsGithub.svg
+      Simple Icons github, into 1 1 18.95 19, #181717
+  b797642ee54efdc28b26005969567251a7c28ed8db9d5db7a8e8678c77ac4a62  origin/AppsGong.svg
+      graphic_eq FILL=0 wght=400 opsz=20, into 2 2 17.65 18.95, #8039e9
+  c593a648385027f8ab2d49b21dc61d6dda8c3f026bbbf6e209172c7e94229ee4  origin/AppsGreenhouse.svg
+      Simple Icons greenhouse, into 5.5 1 14.5 18, #24a47f
+  e89ce6f588eeef628264f5ef047e5082b154c8e9f656f6b35978d0b5cbffd8b3  origin/AppsJira.svg
+      Simple Icons jira, into 2.5 1.95 18.1 17.5, #0052cc
+  219fe9bb046e3c97e4fce4d89c0a036abeed021c9c9160e07b6d163c40f2f3ab  origin/AppsLever.svg
+      badge FILL=0 wght=400 opsz=20, into 2 1.95 18 18, #afafaf
+  1edc5e0878fe4f97add82796c8cf6c92ce91bc35f88e2ce6b0da8aecbadae760  origin/AppsLinear.svg
+      Simple Icons linear, into 1.5 1.5 18.5 18.5, #5e6ad2
+  7523b54449ebaed61b025b8cc3c296bd20052cc3d0654f7b0a4ea35c2f2158d0  origin/AppsLoom.svg
+      Simple Icons loom, into 1.5 1.5 18.5 18.5, #625df5
+  4e0f5cbc8d759bdfc76adb2cd05f78e000a01f403a76a8828cc675c2130f299f  origin/AppsMicrosoft.svg
+      Font Awesome microsoft, into 2 2 18 18, #737373
+  ee4faba73dc40e9d1cf4887af4fe3be21094778b5d7ce31881f516fa3e120432  origin/AppsMonday.svg
+      view_kanban FILL=0 wght=400 opsz=20, into 0 3.465 22 16.72, #f62b54
+  466f5014187659bcec5fada6f6c00d393cb4ab43da0d2d51a37e1de6c2411d73  origin/AppsNotion.svg
+      Simple Icons notion, into 1.8 1.5 18.2 18.6, #000000
+  a672c205952082449e2b3e907a4136791a199f5c4bc1b86e8096a1dd55717051  origin/AppsOtter.svg
+      graphic_eq FILL=0 wght=400 opsz=20, into 0 4.725 27 15.322, #144fff
+  973fb62430a1ef665eceae4df02dbd053ecd0d13f0b9121add3db54e2333c145  origin/AppsPandadoc.svg
+      description FILL=0 wght=400 opsz=20, into 2 2 18 18, #248567
+  6fdc553f6b63e17d1cf748f15f4de57926c465bd576ca7cad308b94df0ed9f2c  origin/AppsSigneasy.svg
+      signature FILL=0 wght=400 opsz=20, into 2 2 18 18, #008ce7
+  ede269dfae0ce4644b97a9c8b1cb40e75c826cb961ab939af5d5ca32ca21d90e  origin/AppsSignnow.svg
+      signature FILL=0 wght=400 opsz=20, into 2 2 18 18, #0088ce
+  b5e419894d64310390a1ff0fd351f8b4337f9b96b86be20ad752715f97b59e4a  origin/AppsSmartrecruiters.svg
+      badge FILL=0 wght=400 opsz=20, into 3 1 16.9 18.1, #0bb147
+  f4666611d2f9f2d7786f914c19108d55dfe66f63991fc45ffa57df872a589b6d  origin/AppsTrello.svg
+      Simple Icons trello, into 2 2 18 18, #0052cc
+  03cb38bae0beafe73f1189e92a8f561c6f55a5d2282b85e58c22c66a131ed0c2  origin/AppsWorkable.svg
+      badge FILL=0 wght=400 opsz=20, into 0 5 20 15, #00756a
+  9f217607b0fb0679727be108f3f5451951c9c994edee21ab4c1e6f449e521c85  origin/AppsZoho.svg
+      Simple Icons zoho, into 0.292 1.95 38.707 18.525, #e42527
+  8f997674cebdef538c2e028ea56a3db21d163ca39f9da1f72538bd32df8a98dd  origin/AppsZoom.svg
+      videocam FILL=1 wght=400 opsz=20, into 1 1 19 19, #0b5cff
+  d021dcda19b1e3b1cca7e2322307d77897533571dbc68b65d5b6cef43214d746  origin/Plus.svg
+      add FILL=0 wght=300 opsz=20, into 2.5 2.5 17.5 17.5, #fff
+  69a4fa0e772527b60ec676043f49076a4cf2f7186a39678e5bb334ab86cc451f  origin/SocialGoogle.svg
+      Simple Icons google, into 1.98 1.98 22.02 22.02, #4285f4
+  2bb55784807782c67489a3481e8e474899947d9b9718dadda07ae65cd224d6e1  origin/User.svg
+      account_box FILL=0 wght=300 opsz=20, into 2 2 18 18, #fff
+  94de20fcca70bb401734fc29f4f9ea0e90dca2a9b882fbcb5a76cc59b846378c  origin/UserFill.svg
+      account_box FILL=1 wght=300 opsz=20, into 2 2 18 18, #fff
+  0a3089fd668a9510ade2eab4f20b3fcaef1563b9ea1c077f8791b74afe6677f1  shell/tab-add.svg
+      add FILL=0 wght=316 opsz=20, into 0 0 8 8, #fff
+  f9d51cb04cafb4c6f467e77a181c9c21999d4902f9c2e8b285ea940b75daa497  shell/tab-close.svg
+      close FILL=0 wght=310 opsz=20, into 0.608 0.113 8.393 7.897, #fff
+  4a9ed7fbb5c0ffde441ea9acfa74aeb8f11525753fe69836f6a5589921120298  shell/tab-copy.svg
+      link FILL=0 wght=546 opsz=20, rotate -45, into 0.15 0.15 9.925 9.925, #fff
+  193e3ac554176df12e91717bad0f61bca5bac6bb7fef1ab24ebc158b3b592044  shell/window-close.svg
+      drawn, into 0 0 13.02 13.02, #fff
+  837b8fbb2b3046fce258e14027d20c14c68fccdac65238fb052e2dfaa2e0b8b7  shell/window-exit-fullscreen.svg
+      drawn, into 0 0 18 18, #fff
+  4ccd601407e0e82a3e8c64311ef7dcf69cf849e8d1ffabf2cc7a455545c59775  shell/window-fullscreen.svg
+      drawn, into 6 0 18 12, #fff
+  e50f7032ce90bd6d8bfae61c7d051a2e3179110e4582d6a638dab9665d9200f0  shell/window-minimize.svg
+      drawn, into 0 0 15 1.987, #fff
+  065108ff9a437e469d941b1d671c9625b0f7d353f7b7e7553a35caf86d2b3513  shell/window-zoom.svg
+      drawn, into 0 0 16 16, #fff
+  0501a83a441432e17760a7eb73854e1bb36b6b16410b4696e381edf4e8b229dd  sprites/star.svg
+      Material star FILL=1 wght=400 opsz=20 and drawn dots, 102 frames

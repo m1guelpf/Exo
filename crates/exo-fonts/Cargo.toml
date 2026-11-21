@@ -1,0 +1,8 @@
+[package]
+name = "exo-fonts"
+description = "Exo's fonts, compiled in: open fonts instanced, sized and tracked for Exo (assets/fonts)."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true

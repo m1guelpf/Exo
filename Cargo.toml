@@ -1,0 +1,160 @@
+[workspace]
+resolver = "3"
+members = ["crates/*"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.98"
+license = "MIT"
+publish = false
+
+[workspace.dependencies]
+# Internal crates
+gmail = { path = "crates/gmail" }
+gmail-mock = { path = "crates/gmail-mock" }
+exo-ui = { path = "crates/exo-ui" }
+exo-commands = { path = "crates/exo-commands" }
+exo-editor = { path = "crates/exo-editor" }
+exo-store = { path = "crates/exo-store" }
+exo-mail = { path = "crates/exo-mail" }
+exo-auth = { path = "crates/exo-auth" }
+exo-fonts = { path = "crates/exo-fonts" }
+
+# UI: egui 0.36.2, the version FastFrame v0.17.0 builds against.
+egui = "0.36.2"
+# `links` makes `ctx.open_url` open the browser; without it the call does nothing.
+eframe = { version = "0.36.2", default-features = false, features = ["accesskit", "links", "wgpu", "glow"] }
+egui_extras = { version = "0.36.2", default-features = false }
+egui_kittest = { version = "0.36.2", features = ["wgpu"] }
+# Decoding PNGs in screenshot examples; the version egui_kittest already compiles.
+image = { version = "0.25", default-features = false, features = ["png"] }
+# Font tables (hhea metrics for CSS line boxes); the version epaint already compiles.
+skrifa = { version = "0.44", default-features = false, features = ["std"] }
+# Maps the system emoji font (190 MB) instead of reading it; the version fastframe-emoji uses.
+memmap2 = "0.9"
+# The compose editor's rich clipboard (text/html with a plain-text alternative); the version
+# egui-winit already compiles.
+arboard = { version = "3.7", default-features = false }
+# FastFrame: the fork's `notification-subtitle` branch, v0.17.0 plus a subtitle on
+# fastframe-notifications' `Notification`. Every crate comes from it,
+# as FastFrame wants one revision for all of them (https://fastframe.dev/getting-started/).
+# Cargo.lock pins the revision.
+fastframe-graphics = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle", features = ["wgpu"] }
+fastframe-titlebar = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-dirs = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-emoji = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-autostart = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-file = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-instance = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-shell = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-notifications = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-log = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle" }
+fastframe-update = { git = "https://github.com/m1guelpf-forks/fastframe", branch = "notification-subtitle", features = ["reqwest"] }
+
+# Email bodies: Blitz (Stylo + Taffy + Parley) laid out and painted on the CPU, from the fork's
+# `inline-box-decorations` branch: Blitz main plus inline box decorations, Blink's decoration
+# metrics and inline opacity. Cargo.lock pins the revision.
+# anyrender 0.15 / anyrender_vello_cpu 0.19 are the versions Blitz main builds against.
+blitz-dom = { git = "https://github.com/m1guelpf-forks/blitz", branch = "inline-box-decorations", default-features = false, features = ["svg", "woff", "system-fonts", "floats"] }
+blitz-html = { git = "https://github.com/m1guelpf-forks/blitz", branch = "inline-box-decorations" }
+blitz-paint = { git = "https://github.com/m1guelpf-forks/blitz", branch = "inline-box-decorations", default-features = false, features = ["svg"] }
+blitz-traits = { git = "https://github.com/m1guelpf-forks/blitz", branch = "inline-box-decorations" }
+anyrender = "0.15"
+anyrender_vello_cpu = { version = "0.19", features = ["multithreading"] }
+peniko = "0.6"
+# Stylo's preferences, to turn on `:has()`, which Blitz leaves off; the version Blitz main uses.
+style_config = { version = "0.24.0", package = "stylo_static_prefs" }
+# Blitz's text stack, to register Exo's email faces with its font collection; the version Blitz
+# main uses.
+parley = { version = "0.13", default-features = false, features = ["system"] }
+# The HTML parser Blitz uses, and a tree to run the sanitize/quote pipeline on before Blitz sees it.
+html5ever = "0.40"
+markup5ever_rcdom = "=0.40.1"
+# The date detector relies on look-around, which `regex` doesn't support.
+fancy-regex = "0.14"
+# `Download all`'s zip, deflated; the version png already compiles.
+flate2 = "1.1"
+# A GIF's loop count as Chromium reads it (the image crate takes "none" for "forever"); the
+# version the image crate decodes GIFs with.
+gif = "0.14"
+
+# Async, HTTP, serialization
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time", "net", "signal"] }
+futures = "0.3"
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls", "http2", "multipart", "stream"] }
+axum = "0.8"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+base64 = "0.22"
+serde_with = "3"
+serde_ignored = "0.1"
+url = "2"
+tower = { version = "0.5", features = ["util"] }
+tower-http = { version = "0.6", features = ["cors"] }
+
+# Persistence
+# `migration`: `MigrationSet`, which applies exo-store's hand-written migrations.
+toasty = { version = "0.11", features = ["sqlite", "jiff", "serde", "migration"] }
+# The driver itself, to open a database by file path rather than through a connection URL.
+toasty-driver-sqlite = "0.11"
+# The driver's SQLite binding, to tell a full disk, a lock and a broken file apart in its errors;
+# the version and features toasty-driver-sqlite already compiles.
+rusqlite = { version = "0.40", features = ["bundled"] }
+
+# Mail formats
+mail-parser = "0.11"
+mail-builder = "0.4"
+
+# Support
+jiff = { version = "0.2", features = ["serde"] }
+log = "0.4"
+env_logger = "0.11"
+thiserror = "2"
+regex = "1"
+# Recipient suggestions match without diacritics (NFD).
+unicode-normalization = "0.1"
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+sha2 = "0.10"
+getrandom = "0.3"
+# Refresh tokens in the macOS Keychain (exo-auth); the version rustls-native-certs already compiles.
+security-framework = { version = "3.7", default-features = false }
+tempfile = "3"
+# Quick Look for attachments on macOS (exo); the objc2 generation eframe already compiles.
+objc2 = "0.6"
+objc2-foundation = { version = "0.3", default-features = false, features = ["std"] }
+objc2-app-kit = { version = "0.3", default-features = false, features = ["std"] }
+# Turning winit's menu bar off for Exo's own (`EventLoopBuilderExtMacOS`); the version eframe
+# builds against, patched below.
+winit = { version = "0.30", default-features = false }
+objc2-quick-look-ui = { version = "0.3", default-features = false, features = ["std"] }
+# Print and Save as PDF (exo): WebKit lays the printed conversation out and paginates it.
+objc2-web-kit = { version = "0.3", default-features = false, features = ["std"] }
+# The completion handler of `NSWorkspace`'s default-app call (exo); the version objc2 already compiles.
+block2 = { version = "0.6", default-features = false, features = ["std"] }
+# The OS's network reachability, Exo's `online`/`offline` events (exo), on the dispatch queue
+# its callbacks run on; all of the objc2 generation above.
+objc2-system-configuration = { version = "0.3", default-features = false, features = ["std", "SCNetworkReachability", "dispatch2", "libc"] }
+objc2-core-foundation = { version = "0.3", default-features = false, features = ["std"] }
+dispatch2 = { version = "0.3", default-features = false, features = ["std"] }
+# Where's suggestions from Apple Maps (exo).
+objc2-map-kit = { version = "0.3", default-features = false, features = ["std", "MKLocalSearchCompleter"] }
+# Free disk space for the offline bar (exo-store), and the reachability's socket address (exo).
+libc = "0.2"
+
+# FastFrame's apps build against forks of egui and winit that carry fixes waiting on upstream
+# releases (see https://fastframe.dev/getting-started/). Cargo only applies patches at the root.
+[patch.crates-io]
+ecolor = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+eframe = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+egui = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+egui-wgpu = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+egui-winit = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+egui_extras = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+egui_glow = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+egui_kittest = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+emath = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+epaint = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+epaint_default_fonts = { git = "https://github.com/crmne/egui", rev = "6ce633ba5f7f64d19ef6d204f9377da560bb546b" }
+winit = { git = "https://github.com/crmne/winit", rev = "ed7caa9023f10b397f5b6ec8284a840cbd8a6f65" }

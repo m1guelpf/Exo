@@ -1,0 +1,1 @@
+CREATE TABLE "reminders" ("thread_id" TEXT NOT NULL, "at" TEXT NOT NULL, "keep_on_reply" BOOLEAN NOT NULL, "message_ids" TEXT NOT NULL, "created_at" TEXT NOT NULL, "fired_at" TEXT, "aborted" BOOLEAN NOT NULL, PRIMARY KEY ("thread_id"));

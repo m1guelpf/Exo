@@ -1,0 +1,25 @@
+[package]
+name = "exo-editor"
+description = "The compose body editor: Squire's document model, editing semantics, HTML in and out, and its egui widget."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+arboard = { workspace = true }
+egui = { workspace = true }
+exo-mail = { workspace = true }
+exo-ui = { workspace = true }
+getrandom = { workspace = true }
+html5ever = { workspace = true }
+jiff = { workspace = true }
+log = { workspace = true }
+markup5ever_rcdom = { workspace = true }
+regex = { workspace = true }
+
+[dev-dependencies]
+anyhow = { workspace = true }
+egui_kittest = { workspace = true }
+image = { workspace = true }

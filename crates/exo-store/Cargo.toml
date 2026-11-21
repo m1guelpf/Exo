@@ -1,0 +1,29 @@
+[package]
+name = "exo-store"
+description = "Exo's offline-first data layer: a per-account SQLite cache of Gmail, the sync engine and the outbox."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+futures = { workspace = true }
+getrandom = { workspace = true }
+gmail = { workspace = true }
+jiff = { workspace = true }
+libc = { workspace = true }
+log = { workspace = true }
+regex = { workspace = true }
+rusqlite = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+thiserror = { workspace = true }
+toasty = { workspace = true }
+toasty-driver-sqlite = { workspace = true }
+tokio = { workspace = true }
+
+[dev-dependencies]
+anyhow = { workspace = true }
+gmail-mock = { workspace = true }
+reqwest = { workspace = true }

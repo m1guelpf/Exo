@@ -1,0 +1,34 @@
+/*
+ * What changes about a body when it prints, after `body.css` and `restyle.css`, in the browser
+ * engine that prints it (not Blitz). The print rule for bodies hides the `…`; the rest undoes
+ * what `body.css` does only because Blitz can't do it the way a browser does.
+ */
+
+@media print { .Exo-quoting-ellipsis { display: none !important; } }
+
+/* Blitz pins San Francisco's optical size; a browser sizes it with the text. */
+.ShadowBody { font-variation-settings: normal; }
+
+/* The hairline under a detected date: a 3px `::after` whose inset shadow would draw its top half
+ * pixel, which Chromium prints. WebKit prints no shadows, so the half pixel is the box's top
+ * border. */
+:not(.isMarketing) .exo-date { text-decoration: none; }
+:not(.isMarketing) .exo-date::after {
+  content: " ";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  box-sizing: border-box;
+  height: 3px;
+  width: 100%;
+  border-top: .5px solid #aaa;
+}
+
+/* A blocked image's box (`img[src^="https://media-blocked"]::after`): its border prints, its
+ * white background doesn't. WebKit draws no `::after` on an image, so the border is an outline
+ * drawn inside it, which takes no room either. */
+img[data-exo-blocked] {
+  box-shadow: none !important;
+  outline: 1px solid rgba(0, 0, 0, .2);
+  outline-offset: -1px;
+}

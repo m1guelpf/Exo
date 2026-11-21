@@ -1,0 +1,145 @@
+/*
+ * The restyle of personal mail, placed after the message's own CSS. Everything is scoped to the
+ * personal parts of a message (`.styleUnquotedContent .unquoted-content`,
+ * `.styleQuotedContent .sh-quoted-content`) and to signatures, which are restyled even in
+ * marketing mail. The `:is()` groups have the specificity of a two-class selector.
+ *
+ * Exo's classes are `exo-`. Senders' signatures can carry `sh-preserve-*` classes, so those keep a
+ * signature's own color, face, size and line height here too; Exo itself marks only
+ * `exo-preserve-color` and `exo-preserve-font-family`.
+ */
+
+.Exo-quoting-ellipsis {
+  font-family: "Exo Sans Email", sans-serif, "Apple Color Emoji" !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-size: 14px !important;
+  line-height: 24px !important;
+}
+:where(.ShadowHTML.at-1x) .Exo-quoting-ellipsis { font-size: 15px !important; letter-spacing: 0; }
+
+div.ShadowHTML, div.ShadowBody, div.ShadowWrapper { --exo-original-color: #000; color: unset !important; background: unset !important; }
+
+/* Dark: the author's colours, snapped to a palette, become their dark counterparts. */
+/* These must beat the light rule below (inside the parts) and, in the quoted part, even the
+ * blockquote color. */
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-black,
+.Theme-dark .styleQuotedContent.styleUnquotedContent .unquoted-content .exo-color-black,
+.Theme-dark .styleQuotedContent.styleUnquotedContent #quoted-content .exo-color-black { color: hsla(0, 0%, 100%, .9) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-red { color: rgb(255, 122, 122) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-green { color: rgb(92, 186, 135) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-blue { color: rgb(74, 143, 225) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-purple { color: rgb(213, 174, 239) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-yellow { color: rgb(230, 230, 0) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-orange { color: rgb(233, 150, 56) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-pink { color: rgb(201, 118, 209) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-grey { color: rgb(176, 176, 176) !important; }
+.Theme-dark .styleQuotedContent.styleUnquotedContent .exo-color-transparent-bg { background-color: transparent !important; }
+.Theme-dark.isMarketing .exo-color-black { color: rgba(0, 0, 0, .9) !important; }
+.Theme-dark.isMarketing blockquote:not([style*="border:none"]),
+.Theme-dark.isMarketing blockquote:not([style*="border:none"]) .exo-color-black { color: rgba(0, 0, 0, .6) !important; }
+.Theme-dark .exo-original-color, .Theme-dark .exo-original-color-carbon { color: var(--exo-original-color) !important; }
+.Theme-light .styleQuotedContent.styleUnquotedContent :is(.exo-original-color, .exo-original-color-snow) { color: var(--exo-original-color) !important; }
+
+/* One face, size and line height for everything. */
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.exo-preserve-font-family, .sh-preserve-font-family) {
+  font-family: "Exo Sans Email", sans-serif, "Apple Color Emoji" !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-feature-settings: initial !important;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) {
+  font-size: 14px !important;
+}
+:where(.ShadowHTML.at-1x) :is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) {
+  font-size: 15px !important;
+  letter-spacing: 0;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h1 { font-size: 19px !important; position: relative !important; top: 2px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h1 * { font-size: 19px !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h2 { font-size: 17px !important; position: relative !important; top: 3px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h2 * { font-size: 17px !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h3 { font-size: 15px !important; position: relative !important; top: 0; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h3 * { font-size: 15px !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h5 { font-style: italic; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h6 { font-size: 13px !important; position: relative !important; top: 0; font-style: italic; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-font-size, .fake-selection, .fake-original-selection) h6 * { font-size: 13px !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) *:not(.sh-preserve-line-height) { line-height: 24px !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h1 { font-size: 19px; position: relative; top: 2px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h1 * { font-size: 19px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h2 { font-size: 17px; position: relative; top: 3px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h2 * { font-size: 17px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h3 { font-size: 15px; position: relative; top: 0; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h3 * { font-size: 15px; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h5 { font-style: italic; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h6 { font-size: 13px; position: relative; top: 0; font-style: italic; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .sh-preserve-font-size h6 * { font-size: 13px; }
+
+/* Near-black text is drawn at 90% black, backgrounds are dropped. */
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .exo-color-black:not(.exo-preserve-color, .sh-preserve-color) {
+  color: rgba(0, 0, 0, .9) !important;
+  background-color: transparent !important;
+}
+
+/* Links: blue, never underlined. */
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) :is(a, a *) { text-decoration: none !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) a[href]:not(.exo-preserve-color, .sh-preserve-color) { color: #54acdc !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) a[href]:not(.exo-preserve-color, .sh-preserve-color):is(.exo-color-blue, .exo-color-black) { color: #54acdc !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) a[href]:not(.exo-preserve-color, .sh-preserve-color) .exo-color-black:not(.exo-preserve-color, .sh-preserve-color) { color: inherit !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) :is(.exo-preserve-color, .sh-preserve-color) > a:is(:link, :visited) { color: inherit; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) span.colour:not(.exo-color-black) a[href]:not(.exo-preserve-color, .sh-preserve-color) { color: inherit !important; }
+
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) :is(sub, sup):not(.sh-preserve-font-size) {
+  font-size: 66% !important;
+  line-height: 0 !important;
+  position: relative !important;
+  vertical-align: baseline !important;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) sup { top: -0.26em !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) sub { bottom: -0.13em !important; }
+
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) :is(pre, code, pre *, *[style*=monospace]):not(.exo-preserve-font-family, .sh-preserve-font-family) {
+  font-family: "Exo Mono Email", monospace !important;
+  font-size: 14px !important;
+  line-height: 20px !important;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .Exo-inline-image { max-width: 100%; }
+.Theme-dark :is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) pre[style*="555"] { color: hsla(0, 0%, 100%, .5) !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) span[height="0"] { display: none; }
+
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]) {
+  margin: 0 !important;
+  padding: 0 0 0 1.25em !important;
+  border-left: 0 !important;
+  background-size: 1px 1px !important;
+  background-position: left !important;
+  background-repeat: repeat-y !important;
+  background-image: linear-gradient(to right, rgb(237, 237, 237), rgb(237, 237, 237)) !important;
+}
+.Theme-dark :is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]) {
+  background-image: linear-gradient(to right, rgb(95, 97, 101), rgb(95, 97, 101)) !important;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]):is(*, .exo-color-black),
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]) .exo-color-black {
+  color: rgba(0, 0, 0, .6) !important;
+}
+.Theme-dark :is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]):is(*, .exo-color-black),
+.Theme-dark :is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]) .exo-color-black {
+  color: hsla(0, 0%, 100%, .6) !important;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]) a { opacity: .8 !important; }
+/* Blitz ignores opacity on inline boxes; for the usual link color the same 80% goes into the
+ * color instead. */
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) blockquote:not([style*="border:none"]) a[href]:not(.exo-preserve-color, .sh-preserve-color) {
+  color: rgba(84, 172, 220, .8) !important;
+}
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .gmail_quote:not(.exo-preserve-color, .sh-preserve-color) { color: rgba(0, 0, 0, .6) !important; }
+.Theme-dark :is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) .gmail_quote:not(.exo-preserve-color, .sh-preserve-color) { color: hsla(0, 0%, 100%, .6) !important; }
+
+.MsoNormal { margin: 0; }
+.styleUnquotedContent .unquoted-content > .exo-flush-top { margin: 0 !important; padding: 0 !important; }
+:is(.styleUnquotedContent .unquoted-content, .styleQuotedContent .sh-quoted-content, .sh-signature) img { max-width: 100% !important; }
+img.exo-im-maintain-aspect-ratio { height: auto !important; }
+li::marker { font-variant-numeric: normal; }
+[style*="max-width:0"][style*="max-height: 0"], [style*="max-width:0"][style*="max-height:0"],
+[style*="max-width: 0"][style*="max-height: 0"], [style*="max-width: 0"][style*="max-height:0"] { visibility: hidden; }

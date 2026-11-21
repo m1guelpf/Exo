@@ -1,0 +1,116 @@
+Exo's images (the invite card's headers, the sign-in photo and the first run's pages),
+generated; don't edit them by hand.
+
+Photos from Unsplash (sha256, file; title, location, author, source page, licence, what was made of it):
+  a3f585e1299daf0cf256516f1fdf321812980c7ed8c9bc5d054b79745dc513d9  invite-default.jpg
+      title     panoramic photography of mountains
+      location  Lake Placid, United States
+      author    Shur Shu, https://unsplash.com/@shurshu
+      source    https://unsplash.com/photos/panoramic-photography-of-mountains-kKvQJ6rK6S4
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (26, 166, 4094, 1126) at 1280×352, JPEG quality 80
+  4f601912cb12b7f0c2f627151e545015f597e36d90dbdff885d88c04a7cc4564  invite-1on1.jpg
+      title     Two people sitting together behind glowing candles overlooking a city at night
+      location  Los Angeles, United States
+      author    Nathan Dumlao, https://unsplash.com/@nate_dumlao
+      source    https://unsplash.com/photos/people-sitting-with-candles-overlooking-city-EdULZpOKsUE
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 1568, 6720, 1848) at 1280×352, JPEG quality 80
+  937aa0eed4cce1c982fe97a5e04cafb07086f9f4c6619a6de319a8ad6d377589  invite-beach.jpg
+      title     An aerial view of a beach and a forested area
+      author    Ahmed Auf, https://unsplash.com/@auphxx
+      source    https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-forested-area-CBX17n0aazA
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 907, 4032, 1109) at 1280×352, JPEG quality 80
+  5d8fd37d387c78b40d62195599b46e28b96d8ff5247fd0b3a1d55f848e989bed  invite-birthday.jpg
+      title     green paper cone near slice cakes
+      author    Brooke Lark, https://unsplash.com/@brookelark
+      source    https://unsplash.com/photos/green-paper-cone-near-slice-cakes-YwSy97_Rk1o
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (611, 726, 5155, 1418) at 1280×352, JPEG quality 80
+  e6231f3df7eb85a6360dcf360dd7cad7eed11b2c0fe8f4f24e137de7872c6cb1  invite-breakfast.jpg
+      title     slice fruits on plate on near glass cups
+      author    Brooke Lark, https://unsplash.com/@brookelark
+      source    https://unsplash.com/photos/slice-fruits-on-plate-on-near-glass-cups-IDTEXXXfS44
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (18, 1156, 5678, 1561) at 1280×352, JPEG quality 80
+  237b2d2e06781baebda1ded0b75f46f52d0106a32a64ccac25bfed2d47c98d9f  invite-call.jpg
+      title     woman holding black iphone 5
+      author    Giorgio Trovato, https://unsplash.com/@giorgiotrovato
+      source    https://unsplash.com/photos/woman-holding-black-iphone-5-wODRXggLv1E
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 576, 5760, 1584) at 1280×352, JPEG quality 80
+  881815d92ad36359c325f489ab1e842f3eb1844a8ef37d6a28e938ec7bfc1817  invite-coffee.jpg
+      title     white ceramic cup with brown liquid inside
+      author    Sixteen Miles Out, https://unsplash.com/@sixteenmilesout
+      source    https://unsplash.com/photos/white-ceramic-cup-with-brown-liquid-inside-pp-JkGKISS0
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 2330, 6720, 1848) at 1280×352, JPEG quality 80
+  17f84a85e69a383df344f7d658830c0695013bec64b4ff99d20544270305a146  invite-dinner.jpg
+      title     wine glasses on top of brown table near window
+      location  Copenhagen, Denmark
+      author    Todd Diemer, https://unsplash.com/@todd_diemer
+      source    https://unsplash.com/photos/wine-glasses-on-top-of-brown-table-near-window-SEFR62Upnqw
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (274, 1099, 4175, 1148) at 1280×352, JPEG quality 80
+  bf321cb3558b08f152aac02e39e3de9ec520b88361c900c769e726276835b8a5  invite-drinks.jpg
+      title     close-up photography of chilled wine glass with clear beverage and slice of lemon
+      author    Jez Timms, https://unsplash.com/@jeztimms
+      source    https://unsplash.com/photos/close-up-photography-of-chilled-wine-glass-with-clear-beverage-and-slice-of-lemon-jIejftgdU3w
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (21, 268, 3301, 908) at 1280×352, JPEG quality 80
+  ad230c0f271803567886f90c64606aa3eb806f24fd7b67e41de225c73e481bd5  invite-exercise.jpg
+      title     person clicking Apple Watch smartwatch
+      author    Luke Chesser, https://unsplash.com/@lukechesser
+      source    https://unsplash.com/photos/person-clicking-apple-watch-smartwatch-rCOWMC8qf8A
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 991, 4872, 1340) at 1280×352, JPEG quality 80
+  133007f50687f6280c9f97394b76188f64adbaa55cdcdaa5ee54c9f4b38c4e01  invite-flight.jpg
+      title     blue airplane interior with seats
+      author    JC Gellidon, https://unsplash.com/@jcgellidon
+      source    https://unsplash.com/photos/blue-airplane-interior-with-seats-1g3qVp7ynX4
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 1189, 4240, 1166) at 1280×352, JPEG quality 80
+  80e59fb56386b6aad0a1298f6ce0fb7414a686a38e99bd974a650ff5dbe3cf54  invite-hike.jpg
+      title     silhouette of people on mountain cliff facing fogs
+      location  Loveland Pass, United States
+      author    Evan Clark, https://unsplash.com/@evanrclark
+      source    https://unsplash.com/photos/silhouette-of-people-on-mountain-cliff-facing-fogs-gndLKH6gboU
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 1285, 5472, 1505) at 1280×352, JPEG quality 80
+  7e9be81dddb99d9f63cfd379cb647b7daffc2fee2a75bfa980f5679db5a5a2c7  invite-lunch.jpg
+      title     grilled chicken on table
+      location  Mainz, Germany
+      author    Brina Blum, https://unsplash.com/@brina_blum
+      source    https://unsplash.com/photos/grilled-chicken-on-table-ZpB2T8Pi5II
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 1370, 5138, 1413) at 1280×352, JPEG quality 80
+  aa59ea592844aacac498a96af6251bb04c19bae8c10acc0398faa2c7bfd3f255  invite-meeting.jpg
+      title     long table with Eiffel chair inside room
+      author    Pawel Chu, https://unsplash.com/@pawell
+      source    https://unsplash.com/photos/long-table-with-eiffel-chair-inside-room-ULh0i2txBCY
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 1365, 5058, 1391) at 1280×352, JPEG quality 80
+  e7493afe3f8ab461e5211caf8cde0c5f01c080b3c2556a49d2a7e1bf5ef74870  invite-party.jpg
+      title     person holding fire cracker shallow focus photography
+      author    Ian Schneider, https://unsplash.com/@goian
+      source    https://unsplash.com/photos/person-holding-fire-cracker-shallow-focus-photography-PAykYb-8Er8
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (17, 1239, 5295, 1456) at 1280×352, JPEG quality 80
+  b80aa4edda4252d68348c5416b20ca8bb002e3bec7ea83a669979278b68ad509  invite-tea.jpg
+      title     a black teapot and two cups on a table
+      author    Kamilla Isalieva, https://unsplash.com/@kamillaisalieva
+      source    https://unsplash.com/photos/a-black-teapot-and-two-cups-on-a-table-F3ITrTDI7iw
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (0, 950, 4752, 1307) at 1280×352, JPEG quality 80
+  2538f22fc0e1544e85759cbae40a4c27f7769666fc0b5408fb2dcaa45556fab3  install-bg.jpg
+      title     tree on body of water near mountains
+      location  Wanaka, Otago, New Zealand
+      author    Ken Cheung, https://unsplash.com/@kencheungphoto
+      source    https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk
+      licence   Unsplash License, https://unsplash.com/license
+      made      the frame (1692, 0, 3436, 3419) at 2880 px wide, under a veil of 63% #80a7e9 to #a97eb4, JPEG quality 80
+
+Exo's own drawings (sha256, file):
+  5a27ea85dc5b23aae9445f5dd6b13aa1b8cbaec4ce37fb80642c023f42b9ef86  checklist-background.png  (1148×697)
+  32fa9ab62cb1fb75bc99c802ce1ccdec1a2b0291ec4996e493aada50786b04d5  tutorial-splash.jpg  (1148×697)

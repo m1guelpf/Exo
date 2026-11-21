@@ -1,0 +1,143 @@
+require "json"
+require "digest"
+require "fileutils"
+require "cfpropertylist"
+
+skip_docs
+opt_out_usage
+
+NAME = "Exo"
+MINIMUM_MACOS = "13.0"
+BUNDLE_ID = "build.miguel.Exo"
+ROOT = File.expand_path("..", __dir__)
+
+desc "Build Exo.app with ad hoc signing"
+lane :build do
+  identity = ENV["EXO_SIGN_IDENTITY"].to_s
+  app, version = bundle_exo
+  sign(app, identity.empty? ? "-" : identity)
+  UI.success("#{app} (#{version}, signed #{identity.empty? ? 'ad hoc' : "as #{identity}"})")
+end
+
+desc "Build Exo.app and its disk image, sign both with the Developer ID certificate, and notarize them"
+lane :release do
+  app, version = bundle_exo
+  tag = ENV["RELEASE_TAG"].to_s
+  UI.user_error!("The release is tagged #{tag}, but exo is #{version}.") unless tag.empty? || tag == "v#{version}"
+
+  setup_ci(force: true, keychain_name: "exo-release", timeout: 3600)
+
+  begin
+    match(type: "developer_id", platform: "macos", readonly: true, skip_provisioning_profiles: true)
+    sign(app, "Developer ID Application", hardened: true)
+    app_store_connect_api_key
+    notarize(package: app, print_log: true)
+    sh("xcrun", "stapler", "validate", app)
+    sh("spctl", "--assess", "--type", "execute", "--verbose=4", app)
+    image = disk_image(app, version)
+    sign(image, "Developer ID Application", timestamped: true)
+    notarize(package: image, print_log: true)
+    sh("xcrun", "stapler", "validate", image)
+    sh("spctl", "--assess", "--type", "open", "--context", "context:primary-signature", "--verbose=4", image)
+    File.write(File.join(File.dirname(image), "checksums.txt"), "#{Digest::SHA256.file(image).hexdigest}  #{File.basename(image)}\n")
+    UI.success("#{image} (#{version}, notarized)")
+  ensure
+    delete_keychain(name: "exo-release")
+  end
+end
+
+def bundle_exo
+  Dir.chdir(ROOT) do
+    metadata = JSON.parse(sh("cargo", "metadata", "--format-version", "1", "--no-deps", log: false))
+    version = metadata["packages"].find { |package| package["name"] == "exo" }["version"]
+    sh("cargo", "build", "--release", "--bin", "exo")
+    release = File.join(metadata["target_directory"], "release")
+
+    app = File.join(release, "#{NAME}.app")
+    partial = "#{app}.partial"
+    FileUtils.rm_rf(partial)
+    contents = File.join(partial, "Contents")
+    resources = File.join(contents, "Resources")
+    FileUtils.mkdir_p([File.join(contents, "MacOS"), resources])
+    FileUtils.cp(File.join(release, "exo"), File.join(contents, "MacOS", NAME), preserve: true)
+
+    copy_tree("assets/images", File.join(resources, "assets/images"))
+
+    icon_plist = File.join(release, "AppIcon.plist")
+    sh("xcrun", "actool", "assets/AppIcon.icon", "--compile", resources, "--platform", "macosx",
+       "--minimum-deployment-target", MINIMUM_MACOS, "--app-icon", "AppIcon", "--output-partial-info-plist", icon_plist,
+       "--output-format", "human-readable-text", log: false)
+    FileUtils.rm_f(icon_plist)
+
+    FileUtils.cp("THIRD_PARTY_NOTICES.md", resources, preserve: true)
+
+    copy_tree("assets/inbox-zero", File.join(resources, "inbox-zero"))
+    { "fonts" => %w[OFL.txt SOURCES.txt], "icons" => %w[LICENSE SOURCES.txt] }.each do |folder, notices|
+      FileUtils.mkdir_p(File.join(resources, folder))
+      notices.each { |notice| FileUtils.cp(File.join("assets", folder, notice), File.join(resources, folder), preserve: true) }
+    end
+    plist = CFPropertyList::List.new
+    plist.value = CFPropertyList.guess(info_plist(version))
+    plist.save(File.join(contents, "Info.plist"), CFPropertyList::List::FORMAT_XML)
+
+    sh("xattr", "-cr", partial)
+
+    FileUtils.rm_rf(app)
+    File.rename(partial, app)
+    [app, version]
+  end
+end
+
+
+def info_plist(version)
+  {
+    "CFBundleName" => NAME,
+    "CFBundleExecutable" => NAME,
+    "CFBundleVersion" => version,
+    "CFBundleDisplayName" => NAME,
+    "CFBundleIconFile" => "AppIcon",
+    "CFBundleIconName" => "AppIcon",
+    "CFBundlePackageType" => "APPL",
+    "CFBundleIdentifier" => BUNDLE_ID,
+    "NSHighResolutionCapable" => true,
+    "NSQuitAlwaysKeepsWindows" => false,
+    "NSPrincipalClass" => "NSApplication",
+    "CFBundleShortVersionString" => version,
+    "CFBundleInfoDictionaryVersion" => "6.0",
+    "LSMinimumSystemVersion" => MINIMUM_MACOS,
+    "NSRequiresAquaSystemAppearance" => false,
+    "NSSupportsAutomaticGraphicsSwitching" => true,
+    "NSPrefersDisplaySafeAreaCompatibilityMode" => false,
+    "LSApplicationCategoryType" => "public.app-category.productivity",
+    "NSDownloadsFolderUsageDescription" => "Exo saves the attachments you download to your Downloads folder.",
+    "CFBundleURLTypes" => [
+      { "CFBundleTypeRole" => "Viewer", "CFBundleURLName" => "Exo", "CFBundleURLSchemes" => ["exo"] },
+      { "CFBundleTypeRole" => "Editor", "CFBundleURLName" => "Email", "CFBundleURLSchemes" => ["mailto"] },
+    ]
+  }.sort.to_h
+end
+
+def disk_image(app, version)
+  image = File.join(File.dirname(app), "exo-v#{version}-macos-arm64.dmg")
+  contents = "#{image}.partial"
+  FileUtils.rm_rf([contents, image])
+  FileUtils.mkdir_p(contents)
+  sh("ditto", app, File.join(contents, File.basename(app)))
+  File.symlink("/Applications", File.join(contents, "Applications"))
+  sh("hdiutil", "create", "-volname", NAME, "-srcfolder", contents, "-format", "UDZO", image)
+  FileUtils.rm_rf(contents)
+  sh("hdiutil", "verify", image)
+  image
+end
+
+def sign(path, identity, hardened: false, timestamped: hardened)
+  flags = (hardened ? ["--options", "runtime"] : []) + (timestamped ? ["--timestamp"] : [])
+  sh("codesign", "--force", "--sign", identity, *flags, path)
+  sh("codesign", "--verify", "--strict", "--deep", path)
+end
+
+def copy_tree(source, destination)
+  FileUtils.mkdir_p(File.dirname(destination))
+  FileUtils.cp_r(source, destination, preserve: true)
+  Dir.glob(File.join(destination, "**", ".DS_Store"), File::FNM_DOTMATCH).each { |file| File.delete(file) }
+end

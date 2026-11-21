@@ -1,0 +1,19 @@
+[package]
+name = "exo-ui"
+description = "Exo's design system: fonts, text, tokens and components for egui."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+egui = { workspace = true }
+egui_extras = { workspace = true, features = ["svg"] }
+exo-fonts = { workspace = true }
+fastframe-emoji = { workspace = true }
+jiff = { workspace = true }
+memmap2 = { workspace = true }
+skrifa = { workspace = true }
+thiserror = { workspace = true }
+unicode-normalization = { workspace = true }

@@ -1,0 +1,40 @@
+Exo's fonts, generated from google/fonts at 5bd87dfc525c8a0d1d8529d3684716e00c3fc59a; don't edit them by hand.
+
+Sources (sha256, path in google/fonts):
+  d75a7dc1a27eb9e336d5b33f55489d2ecb5621bf694d5c43b2415bce2ca830a8  ofl/publicsans/PublicSans[wght].ttf
+  6ce292b05aa8c66bc644bedff834b4d0ddee9af75c55f98dcb28faa32a81056f  ofl/publicsans/PublicSans-Italic[wght].ttf
+  2e00b0cf3106a3d792f35711b7722740b76c02ee7300ea8c60f940584b7a8ac9  ofl/firamono/FiraMono-Regular.ttf
+  23ded25b447074d00659392bf9b1123d89df55cb07b0ad9bfef3366d199b5fcb  ofl/inconsolata/Inconsolata[wdth,wght].ttf
+  157a9e77f7580246e97c769490e2e977ae94399f9d30f4556015c41fe8c28bac  ofl/publicsans/OFL.txt
+  d1829ff3455bbf3b9d13dfb0a57758a863107c9108aab48558f26f37f1094180  ofl/firamono/OFL.txt
+  29bd0cfd0fb2a45f9b057c834a057724bae1f63b525a8ac83d3e7525706d9f80  ofl/inconsolata/OFL.txt
+
+Outputs (sha256, file: source, instance, scale, tracking, ascent/descent):
+  e9f0354f2ffa0d849211f1b55e54c60e6914fe9a7bd47144e9b8e5841abcbcab  ExoSans-Light.ttf
+      PublicSans[wght].ttf, wght=234, scale 0.9942, tracking -0.0123 em, 1760/740 of 2000
+  0bdaf8dede0eae3bba8a977d1e6ce4a4c624adac183900a25bd8f3e7adf77901  ExoSans-Regular.ttf
+      PublicSans[wght].ttf, wght=394, scale 0.9942, tracking -0.0141 em, 1760/740 of 2000
+  1a7a86ed2aba1cf7b94619f8baa14cb81c408c0778b69c00d2fb731ddb923ac7  ExoSans-Italic.ttf
+      PublicSans-Italic[wght].ttf, wght=413, scale 0.9942, tracking -0.0001 em, 1760/740 of 2000
+  a1886e073b7cf55a9554866c6fbf889a0576182041ba260a50affb8cbd2905b8  ExoSans-Semibold.ttf
+      PublicSans[wght].ttf, wght=564, scale 0.9942, tracking -0.0149 em, 1760/740 of 2000
+  44bd9a16221770a6741098b668b1de0bb7db36f2524ccbd296d8e5d2d8d43986  ExoSans-SemiboldItalic.ttf
+      PublicSans-Italic[wght].ttf, wght=582, scale 0.9942, tracking -0.0034 em, 1760/740 of 2000
+  dcfdbab7bc1dde1b0e61ff149f5a5ff88d36b537685bbca242f54d244f075aaf  ExoSans-Bold.ttf
+      PublicSans[wght].ttf, wght=730, scale 0.9942, tracking -0.0165 em, 1760/740 of 2000
+  0779f3af30c3d0c33fdb80d0842dc184348148fa9a7fcd9b44f356f3fac05770  ExoSans-BoldItalic.ttf
+      PublicSans-Italic[wght].ttf, wght=737, scale 0.9942, tracking -0.007 em, 1760/740 of 2000
+  822f8e82beff79f12b822b1867ee07a2a6af97eb7bdabcf8a0c65333c84f179e  ExoSansAlt-Light.ttf
+      PublicSans[wght].ttf, wght=184, scale 0.9768, tracking -0.0066 em, 1760/740 of 2000
+  d60785238428e228a7ebbf2e956e95640663ad314f7cbf9fad007cea1398e2b6  ExoSansAlt-Regular.ttf
+      PublicSans[wght].ttf, wght=393, scale 0.9768, tracking -0.0062 em, 1760/740 of 2000
+  49ba1b287b39569873c4cb358deb42f0a845f012701f7f3566ae7722d396e91e  ExoSansAlt-Italic.ttf
+      PublicSans-Italic[wght].ttf, wght=404, scale 0.9768, tracking +0.0129 em, 1760/740 of 2000
+  ddecb3cc20cd64aee727eb8fec955588ecd1d3e991b2cfd6597935a900b33922  ExoSansAlt-Semibold.ttf
+      PublicSans[wght].ttf, wght=545, scale 0.9768, tracking -0.0045 em, 1760/740 of 2000
+  8e9e489d3ec7ff5a0eb293865cbcc0e7528a1a51514a59ecd047339cb1c0283d  ExoSansAlt-SemiboldItalic.ttf
+      PublicSans-Italic[wght].ttf, wght=560, scale 0.9768, tracking +0.0098 em, 1760/740 of 2000
+  ddd61522239da4287cb25f06c62832542ff274ad70488e05b74db8f39a096936  ExoMono-Regular.ttf
+      FiraMono-Regular.ttf, static, scale 0.9336, tracking -0.0102 em, 960/240 of 1000
+  07314ab13c2fa2b2860fb47f2e2752ee986ac125268c816b0279060905563a05  ExoMonoEmail-Regular.ttf
+      Inconsolata[wdth,wght].ttf, wdth=103.63 wght=457, scale 1.0676, tracking +0 em, 1931/527 of 2048
